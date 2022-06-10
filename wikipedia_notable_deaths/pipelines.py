@@ -24,19 +24,16 @@ class SQLitePipeline:
 
     def open_spider(self, spider):
         # create database file
-        self.connection = sqlite3.connect('wp_deaths_94_to_22.db')
+        self.connection = sqlite3.connect('refs2.db')
         # we need a cursor object to execute SQL queries
         self.c = self.connection.cursor()
         #  try/except will help when running this for the +2nd time (we can't create the same table twice)
         try:
             # query: create table with columns
             self.c.execute('''
-                CREATE TABLE wp_deaths_94_to_22(
-                    month_year TEXT,
-                    day TEXT,
-                    name TEXT,
-                    info TEXT,
-                    link TEXT
+                CREATE TABLE refs2(
+                    link TEXT,
+                    num_references TEXT
                 )
             ''')
             # save changes
@@ -50,13 +47,10 @@ class SQLitePipeline:
     def process_item(self, item, spider):
         # query: insert data into table
         self.c.execute('''
-            INSERT INTO wp_deaths_94_to_22 (month_year,day,name,info,link) VALUES(?,?,?,?,?)
+            INSERT INTO refs2 (link, num_references) VALUES(?,?)
         ''', (
-            item.get('month_year'),
-            item.get('day'),
-            item.get('name'),
-            item.get('info'),
             item.get('link'),
+            item.get('num_references')
         ))
         # save changes
         self.connection.commit()
