@@ -7,15 +7,14 @@ class NationsSpider(scrapy.Spider):
     start_urls = ['https://www.worldatlas.com/articles/what-is-a-demonym-a-list-of-nationalities.html']
 
     def parse(self, response):
-        countries = response.xpath('//tbody')
-        # countries = body.xpath('./tr')
+        countries = response.xpath('//tbody/tr')
 
         for country in countries:
-            country = countries.xpath('./tr/td[1]/text()').get()
-            nationality = countries.xpath('.tr/td[2]/text()').get()
+            country_name = country.xpath('./td[1]/text()').get()
+            nationality = country.xpath('./td[2]/text()').get()
 
             yield {
-                'country': country,
+                'country': country_name,
                 'nationality': nationality
             }
 
