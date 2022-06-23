@@ -6,7 +6,7 @@
 import scrapy
 
 
-class WikipediaNotableDeathsItem(scrapy.Item):
+class WikipediaLifeExpectancyItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     pass

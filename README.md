@@ -1,2 +1,2 @@
-# wikipedia-notable-deaths
+# wikipedia-life-expectancy
 End-to-end Project

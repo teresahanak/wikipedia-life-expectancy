@@ -1,4 +1,4 @@
-# Scrapy settings for wikipedia_notable_deaths project
+# Scrapy settings for wikipedia_life_expectancy project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -7,14 +7,14 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'wikipedia_notable_deaths'
+BOT_NAME = 'wikipedia_life_expectancy'
 
-SPIDER_MODULES = ['wikipedia_notable_deaths.spiders']
-NEWSPIDER_MODULE = 'wikipedia_notable_deaths.spiders'
+SPIDER_MODULES = ['wikipedia_life_expectancy.spiders']
+NEWSPIDER_MODULE = 'wikipedia_life_expectancy.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'wikipedia_notable_deaths (+http://www.yourdomain.com)'
+#USER_AGENT = 'wikipedia_life_expectancy (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
@@ -45,13 +45,13 @@ ROBOTSTXT_OBEY = True
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'wikipedia_notable_deaths.middlewares.WikipediaNotableDeathsSpiderMiddleware': 543,
+#    'wikipedia_life_expectancy.middlewares.WikipediaLifeExpectancySpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'wikipedia_notable_deaths.middlewares.WikipediaNotableDeathsDownloaderMiddleware': 543,
+#    'wikipedia_life_expectancy.middlewares.WikipediaLifeExpectancyDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -62,9 +62,9 @@ ROBOTSTXT_OBEY = True
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-ITEM_PIPELINES = {
-   'wikipedia_notable_deaths.pipelines.SQLitePipeline': 300,
-}
+# ITEM_PIPELINES = {
+#    'wikipedia_life_expectancy.pipelines.SQLitePipeline': 300,
+# }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
@@ -87,4 +87,4 @@ ITEM_PIPELINES = {
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
-FEED_EXPORT_ENCODING = 'utf-8'
+# FEED_EXPORT_ENCODING = 'utf-8'
