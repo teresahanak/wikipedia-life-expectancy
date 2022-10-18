@@ -1,2 +1,2 @@
 # wikipedia-life-expectancy
-End-to-end Project
+An end-to-end Project
