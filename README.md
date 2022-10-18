@@ -58,8 +58,8 @@ The above problem question answers its predecessor: "What should I do for a port
 - Model Performance Evaluation
     - RMSE
     - MAE
-    - R$^2$
-    - Adjusted R$^2$
+    - R<2>
+    - Adjusted R<2>
     - MAPE
 - Pipelines
     - Custom transformers
