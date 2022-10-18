@@ -47,12 +47,23 @@ The above problem question answers its predecessor: "What should I do for a port
     - Seaborn
 - Data preprocessing
     - Feature extraction
-    - Custom transformers
+    - Transformations
 - Linear Regression Modeling for Interpretation
     - Assumptions of Linear Regression
 - Modeling Algorithms for Prediction
     - scikit-learn regressors
     - XGBoost
+    - Hyperparamter Tuning
+    - Cross Validation
+- Model Performance Evaluation
+    - RMSE
+    - MAE
+    - R$^2$
+    - Adjusted R$^2$
+    - MAPE
+- Pipelines
+    - Custom transformers
+    - Production pipeline
 - User interface for predictions
 
 ## Data Dictionary
