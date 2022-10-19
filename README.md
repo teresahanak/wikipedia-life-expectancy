@@ -42,6 +42,7 @@ The number of references is easily scrapable and can represent the individual's 
 ![sqlite_snippet2.jpg](sqlite_snippet2.jpg)
 ### Then combine to here:
 ### Then clean, clean, clean, clean, clean... and clean some more, and preprocess to here:
+![data_preproc_snippet.jpg](data_preproc_snippet.jpg)
 
 ## Table of Contents
 
