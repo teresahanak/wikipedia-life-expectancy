@@ -29,19 +29,19 @@ The number of references is easily scrapable and can represent the individual's 
   
 Images 1-6 illustrate the lifecyle of the data.
 ## Dataset Lifecycle
-### Step 1. Start here
+### Start here
 <a id=img1 a></a>
 ![wp_snippet.jpg](wp_snippet.jpg)  
 ### and here.
 <a id=img2 a></a>
 ![refs_snippet.jpg](refs_snippet.jpg)
-### Step 2. Scrape to here
+### Scrape to here
 ![sqlite_snippet1.jpg](sqlite_snippet1.jpg)
 ### and here.
 ![sqlite_snippet2.jpg](sqlite_snippet2.jpg)
-### Step 3. Combine here.
+### Combine here.
 ![data_to_df_snippet.jpg](data_to_df_snippet.jpg)
-### Step 4. Clean, clean, clean, clean, clean... and clean some more, then preprocess.
+### Clean, clean, clean, clean, clean... and clean some more, then preprocess.
 ![data_preproc_snippet.jpg](data_preproc_snippet.jpg)
 
 ## Table of Contents
