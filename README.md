@@ -29,7 +29,7 @@ The number of references is easily scrapable and can represent the individual's 
   
 Images 1-6 illustrate the lifecyle of the data.
 ## Dataset Lifecycle
-### We start here:
+### Start here:
 <a id=img1 a></a>
 ![wp_snippet.jpg](wp_snippet.jpg)  
 ### and here:
