@@ -38,6 +38,7 @@ The number of references is easily scrapable and can represent the individual's 
 ### and here:
 ![sqlite_snippet2.jpg](sqlite_snippet2.jpg)
 ### Then combine to here:
+![data_to_df.jpg](data_to_df.jpg)
 ### Then clean, clean, clean, clean, clean... and clean some more, and preprocess to here:
 ![data_preproc_snippet.jpg](data_preproc_snippet.jpg)
 
