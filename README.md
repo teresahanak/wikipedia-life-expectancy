@@ -16,13 +16,8 @@ The above problem question answers its predecessor: "What should I do for a port
 > Name, age, country of citizenship at birth, subsequent country of citizenship (if applicable), reason for notability, cause of death (if known), and reference.[<sup>[4]</sup>](#ref4)  
 > 
 [Image 1](#img1) contains a sample from [Wikipedia Deaths in 2022](https://en.wikipedia.org/wiki/Deaths_in_2022), for the month of January.[<sup>[4]</sup>](#ref4)
-The list itself contains the following (scrapable) information for each individual:
-- Year, month, and day of death
-- Name (linked to the individual's page)
-- Place of residency at birth
-- Subsequent place of residency (if the person relocated)
-- What the person was known for
-- Cause of death (if known)  
+Year, month, and day of death
+
 
 At the bottom of an indvidual's page (after following the Name link), there is a References section for that individual's page.  [Image 2](#img2) contains a sample from [Ramiz Abutalibov's](https://en.wikipedia.org/wiki/Ramiz_Abutalibov) page.[<sup>[5]</sup>](#ref5)
 The number of references is easily scrapable and can represent the individual's notability, quantified.  With this proxy for notability added, the above list provides a framework for collecting the data.  
