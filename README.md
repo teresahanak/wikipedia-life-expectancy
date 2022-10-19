@@ -25,7 +25,7 @@ So, the list itself contains the following information for each individual:
 - What the person was known for
 - Cause of Death (if known)  
 
-At the bottom of an indvidual's page (after following the Name link), there is a Reference section for that individual's page.  Image 2 contains a sample from Ramiz Abutalibov's page.[<sup>[5]</sup>](#ref5)
+At the bottom of an indvidual's page (after following the Name link), there is a Reference section for that individual's page.  Image 2 contains a sample from [Ramiz Abutalibov's](https://en.wikipedia.org/wiki/Ramiz_Abutalibov) page.[<sup>[5]</sup>](#ref5)
 
 
 
