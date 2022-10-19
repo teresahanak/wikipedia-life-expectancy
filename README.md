@@ -39,12 +39,12 @@ The number of references is easily scrapable and can represent the individual's 
 ![wp_snippet.jpg](wp_snippet.jpg)  
 ### and here:
 ![refs_snippet.jpg](refs_snippet.jpg)
-###then go to here:
+### Then scrape to here:
 ![sqlite_snippet1.jpg](sqlite_snippet1.jpg)
-
-
-
+### and here:
 ![sqlite_snippet2.jpg](sqlite_snippet2.jpg)
+### Then combine to here:
+### Then clean, clean, clean, clean, clean... and clean some more, and preprocess to here:
 
 ## Table of Contents
 
