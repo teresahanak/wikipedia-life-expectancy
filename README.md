@@ -16,7 +16,7 @@ The above problem question answers its predecessor: "What should I do for a port
 
 
 ![wp_snippet.jpg](wp_snippet.jpg)  
-|         **Image 1**
+**Image 1.**
 
 ![sqlite_snippet1.jpg](sqlite_snippet1.jpg)
 
