@@ -15,7 +15,7 @@ The above problem question answers its predecessor: "What should I do for a port
 "[Wikipedia](https://en.wikipedia.org/wiki/Wikipedia) is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system."[<sup>[2]</sup>](#ref2)  The English-language version contains a [List of deaths by year](https://en.wikipedia.org/wiki/Lists_of_deaths_by_year) of notable individuals, with links to pages for each year, by month, from 1987 to present.[<sup>[3]</sup>](#ref3)  The current page format is consistent as far back as January, 1994, with the following scrapable, Wikipedia-defined fields for each entry:
 > Name, age, country of citizenship at birth, subsequent country of citizenship (if applicable), reason for notability, cause of death (if known), and reference.[<sup>[4]</sup>](#ref4)  
 > 
-[Image 1](#img1), a sample from [Wikipedia Deaths in 2022](https://en.wikipedia.org/wiki/Deaths_in_2022), January, illustrating individuals are .[<sup>[4]</sup>](#ref4)
+The sample from [Wikipedia Deaths in 2022](https://en.wikipedia.org/wiki/Deaths_in_2022), in [Image 1](#img1), illustrates  individuals are .[<sup>[4]</sup>](#ref4)
 .
 
 At the bottom of an indvidual's page (after following the Name link), there is a References section for that individual's page.  [Image 2](#img2) contains a sample from [Ramiz Abutalibov's](https://en.wikipedia.org/wiki/Ramiz_Abutalibov) page.[<sup>[5]</sup>](#ref5)
