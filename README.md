@@ -29,6 +29,7 @@ So, the list itself contains the following (scrapable) information for each indi
 - Cause of death (if known)  
 
 At the bottom of an indvidual's page (after following the Name link), there is a References section for that individual's page.  Image 2 contains a sample from [Ramiz Abutalibov's](https://en.wikipedia.org/wiki/Ramiz_Abutalibov) page.[<sup>[5]</sup>](#ref5)
+![refs_snippet.jpg](refs_snippet.jpg)
 
 
 
@@ -36,7 +37,7 @@ At the bottom of an indvidual's page (after following the Name link), there is a
 
 ![sqlite_snippet1.jpg](sqlite_snippet1.jpg)
 
-![refs_snippet.jpg](refs_snippet.jpg)
+
 
 ![sqlite_snippet2.jpg](sqlite_snippet2.jpg)
 
