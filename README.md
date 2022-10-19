@@ -26,19 +26,19 @@ The list itself contains the following (scrapable) information for each individu
 
 At the bottom of an indvidual's page (after following the Name link), there is a References section for that individual's page.  [Image 2](#img2) contains a sample from [Ramiz Abutalibov's](https://en.wikipedia.org/wiki/Ramiz_Abutalibov) page.[<sup>[5]</sup>](#ref5)
 The number of references is easily scrapable and can represent the individual's notability, quantified.  With this proxy for notability added, the above list provides a framework for collecting the data.
-### Dataset Lifecycle in Pictures
-#### We start here:
+## Dataset Lifecycle in Pictures
+### We start here:
 <a id=img1 a></a>
 ![wp_snippet.jpg](wp_snippet.jpg)  
-#### and here:
+### and here:
 <a id=img2 a></a>
 ![refs_snippet.jpg](refs_snippet.jpg)
-#### Then scrape to here:
+### Then scrape to here:
 ![sqlite_snippet1.jpg](sqlite_snippet1.jpg)
-#### and here:
+### and here:
 ![sqlite_snippet2.jpg](sqlite_snippet2.jpg)
-#### Then combine to here:
-#### Then clean, clean, clean, clean, clean... and clean some more, and preprocess to here:
+### Then combine to here:
+### Then clean, clean, clean, clean, clean... and clean some more, and preprocess to here:
 ![data_preproc_snippet.jpg](data_preproc_snippet.jpg)
 
 ## Table of Contents
