@@ -28,7 +28,7 @@ At the bottom of an indvidual's page (after following the Name link), there is a
 The number of references is easily scrapable and can represent the individual's notability, quantified.  With this proxy for notability added, the above list provides a framework for collecting the data.  
   
 Images 1-6 illustrate the lifecyle of the data.
-## Dataset Lifecycle in Pictures
+## Dataset Lifecycle
 ### We start here:
 <a id=img1 a></a>
 ![wp_snippet.jpg](wp_snippet.jpg)  
