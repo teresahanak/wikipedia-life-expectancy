@@ -19,7 +19,7 @@ The fields for each entry are defined by Wikipedia as:
   
 So, the list itself contains the following information for each individual:
 - Year, month, and day of death
-- Link to the individual's page
+- Name (linked to the individual's page)
 - Place of residency at birth
 - Subsequent place of residency (if the person relocated)
 - What the person was known for
