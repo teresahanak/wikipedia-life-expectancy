@@ -32,6 +32,13 @@ At the bottom of an indvidual's page (after following the Name link), there is a
 ![refs_snippet.jpg](refs_snippet.jpg)
 The number of references is easily scrapable and can represent the individual's notability, quantified.  With the addition of number of references (a proxy for notability) to the above information list, we have a framework for the dataset.
 ## Dataset Lifecycle in Pictures
+We start here:
+![wp_snippet.jpg](wp_snippet.jpg)  
+and here:
+![refs_snippet.jpg](refs_snippet.jpg)
+then go to here:
+
+
 
 
 
