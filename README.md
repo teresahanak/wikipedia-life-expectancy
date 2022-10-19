@@ -21,7 +21,7 @@ So, the list itself contains the following information for each individual:
 - Link to the individual's page
 - Place of residency at birth
 - Subsequent place of residency (if the person relocated)
-- What the person was "known for"
+- What the person was known for
 - Cause of Death (if known)
 
 
