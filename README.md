@@ -15,7 +15,8 @@ The above problem question answers its predecessor: "What should I do for a port
 "[Wikipedia](https://en.wikipedia.org/wiki/Wikipedia) is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system."[<sup>[2]</sup>](#ref2)  It contains a [List of deaths by year](https://en.wikipedia.org/wiki/Lists_of_deaths_by_year) of notable individuals, with links to pages for each year, by month, from 1987 to present (2022).[<sup>[3]</sup>](#ref3)  Image 1 contains a sample from [Deaths in 2022](https://en.wikipedia.org/wiki/Deaths_in_2022) for the month of January.[<sup>[4]</sup>](#ref4)
 ![wp_snippet.jpg](wp_snippet.jpg)  
 The fields for each entry are defined by Wikipedia as:
-> Name, age, country of citizenship at birth, subsequent country of citizenship (if applicable), reason for notability, cause of death (if known), and reference.[<sup>[4]</sup>](#ref4)  
+> Name, age, country of citizenship at birth, subsequent country of citizenship (if applicable), reason for notability, cause of death (if known), and reference.[<sup>[4]</sup>](#ref4)
+  
 So, the list itself contains the following information for each individual:
 - Year, month, and day of death
 - Link to the individual's page
