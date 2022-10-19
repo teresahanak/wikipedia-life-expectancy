@@ -17,7 +17,7 @@ The above problem question answers its predecessor: "What should I do for a port
 > 
 Image 1 contains a sample from [Deaths in 2022](https://en.wikipedia.org/wiki/Deaths_in_2022) for the month of January.[<sup>[4]</sup>](#ref4)
 
-![wp_snippet.jpg](wp_snippet.jpg)  
+![wp_snippet.jpg]
 
   
 So, the list itself contains the following (scrapable) information for each individual:
