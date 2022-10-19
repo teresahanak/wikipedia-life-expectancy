@@ -110,3 +110,5 @@ The remaining data collection steps are outlined in this notebook:
     - The resultant raw dataset has 133,900 rows and 6 columns.
 
 \*  The current version of [pipelines.py](https://github.com/teresahanak/wikipedia-notable-deaths/blob/main/wikipedia_notable_deaths/pipelines.py) reflects its use by the most recent project spider crawled, as it is reused for all spiders within the [Scrapy project folder](https://github.com/teresahanak/wikipedia-notable-deaths/tree/main/wikipedia_notable_deaths).
+
+## References
