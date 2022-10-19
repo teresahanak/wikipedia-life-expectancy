@@ -14,7 +14,7 @@ The above problem question answers its predecessor: "What should I do for a port
 ## Background
 "[Wikipedia](https://en.wikipedia.org/wiki/Wikipedia) is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system."[<sup>[2]</sup>](#ref2)  It contains a [List of deaths by year](https://en.wikipedia.org/wiki/Lists_of_deaths_by_year) of notable individuals, with links to pages for each year, by month, from 1987 to present (2022).[<sup>[3]</sup>](#ref3)  Image 1 contains a sample from [Deaths in 2022](https://en.wikipedia.org/wiki/Deaths_in_2022) for the month of January.[<sup>[4]</sup>](#ref3)
 
-**Image 1** [Sample from Wikipedia Notable Deaths for January, 2022]()
+**IMAGE 1** [Sample from Wikipedia Notable Deaths for January, 2022]()
 
 
 
