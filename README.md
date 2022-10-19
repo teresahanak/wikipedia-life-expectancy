@@ -20,7 +20,7 @@ Image 1 contains a sample from [Deaths in 2022](https://en.wikipedia.org/wiki/De
 ![wp_snippet.jpg](wp_snippet.jpg)  
 
   
-So, the list itself contains the following information for each individual:
+So, the list itself contains the following (scrapable) information for each individual:
 - Year, month, and day of death
 - Name (linked to the individual's page)
 - Place of residency at birth
