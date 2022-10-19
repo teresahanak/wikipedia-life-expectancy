@@ -12,7 +12,7 @@ The above problem question answers its predecessor: "What should I do for a port
 
 
 ## Background
-"[Wikipedia](https://en.wikipedia.org/wiki/Wikipedia) is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system."[<sup>[2]</sup>](https://en.wikipedia.org/wiki/Wikipedia)  It contains a [List of deaths by year](https://en.wikipedia.org/wiki/Lists_of_deaths_by_year)  of notable individuals, with links to pages for each year, by month, from 1987 to present (2022).[<sup>[3]</sup>](https://en.wikipedia.org/wiki/Lists_of_deaths_by_year)  
+"[Wikipedia](https://en.wikipedia.org/wiki/Wikipedia) is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system."[<sup>[2]</sup>](https://en.wikipedia.org/wiki/Wikipedia)  It contains a [List of deaths by year](https://en.wikipedia.org/wiki/Lists_of_deaths_by_year)  of notable individuals, with links to pages for each year, by month, from 1987 to present (2022)[^3].
 
 
 ![wp_snippet.jpg](wp_snippet.jpg)
