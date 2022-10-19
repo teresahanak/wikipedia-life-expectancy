@@ -16,6 +16,13 @@ The above problem question answers its predecessor: "What should I do for a port
 ![wp_snippet.jpg](wp_snippet.jpg)  
 The fields for each entry are defined by Wikipedia as:
 > Name, age, country of citizenship at birth, subsequent country of citizenship (if applicable), reason for notability, cause of death (if known), and reference.[<sup>[4]</sup>](#ref4)
+So, the list itself contains the following information for each individual:
+- Year, month, and day of death
+- Link to the individual's page
+- Place of residency at birth
+- Subsequent place of residency (if the person relocated)
+- What the person was "known for"
+- Cause of Death (if known)
 
 
 
