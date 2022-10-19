@@ -41,7 +41,7 @@ Images 1-6 illustrate the lifecyle of the data.
 ![sqlite_snippet2.jpg](sqlite_snippet2.jpg)
 ### Step 3. Combine to here:
 ![data_to_df_snippet.jpg](data_to_df_snippet.jpg)
-### Step 4. Clean, clean, clean, clean, clean... and clean some more, and preprocess to here:
+### Step 4. Clean, clean, clean, clean, clean... and clean some more, then preprocess to here:
 ![data_preproc_snippet.jpg](data_preproc_snippet.jpg)
 
 ## Table of Contents
