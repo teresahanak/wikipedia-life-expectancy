@@ -16,11 +16,7 @@ The above problem question answers its predecessor: "What should I do for a port
 > Name, age, country of citizenship at birth, subsequent country of citizenship (if applicable), reason for notability, cause of death (if known), and reference.[<sup>[4]</sup>](#ref4)  
 > 
 [Image 1](#img1) contains a sample from [Wikipedia Deaths in 2022](https://en.wikipedia.org/wiki/Deaths_in_2022), for the month of January.[<sup>[4]</sup>](#ref4)
-
-![wp_snippet.jpg](wp_snippet.jpg)
-
-  
-So, the list itself contains the following (scrapable) information for each individual:
+The list itself contains the following (scrapable) information for each individual:
 - Year, month, and day of death
 - Name (linked to the individual's page)
 - Place of residency at birth
