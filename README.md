@@ -68,7 +68,7 @@ Images 1-6 illustrate the lifecyle of the data.
 - Data preprocessing
     - Feature extraction
     - Transformations
-- Linear regression modeling--interpretability emphasis
+- Linear regression modeling--interpretation emphasis
     - Assumptions of linear regression
     - Interpretation of coefficients
 - Regressor algorithms--prediction emphasis
