@@ -35,9 +35,9 @@ Images 1-6 illustrate the lifecyle of the data.
 ![sqlite_snippet2.jpg](sqlite_snippet2.jpg)
 ### Combine here.
 ![data_to_df_snippet.jpg](data_to_df_snippet.jpg)
-### Clean, clean, clean, clean, clean... and clean some more, then preprocess.
+### Clean, clean, clean, clean, clean... and clean some more, explore and analyze, then preprocess.
 ![data_preproc_snippet.jpg](data_preproc_snippet.jpg)
-### The rest is EDA and modeling.
+### The rest is modeling.
 
 ## Table of Contents
 
