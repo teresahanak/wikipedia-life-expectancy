@@ -36,7 +36,9 @@ The number of references is easily scrapable and can represent the individual's 
 ![data_to_df_snippet.jpg](data_to_df_snippet.jpg)
 ### Clean, clean, clean, clean, clean... and clean some more, explore and analyze, then preprocess.
 ![data_preproc_snippet.jpg](data_preproc_snippet.jpg)
-### The rest is modeling.
+### The rest is modeling.  
+  
+  
 
 ## Table of Contents
 
