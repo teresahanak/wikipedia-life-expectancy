@@ -68,13 +68,14 @@ Images 1-6 illustrate the lifecyle of the data.
 - Data preprocessing
     - Feature extraction
     - Transformations
-- Linear Regression Modeling for Interpretation
-    - Assumptions of Linear Regression
-- Modeling Algorithms for Prediction
+- Linear regression modeling--interpretability emphasis
+    - Assumptions of linear regression
+    - Interpretation of coefficients
+- Modeling Algorithms--prediction emphasis
     - scikit-learn regressors
     - XGBoost
-    - Hyperparamter Tuning
-    - Cross Validation
+    - Hyperparamter tuning
+    - Cross validation
 - Model Performance Evaluation
     - RMSE
     - MAE
