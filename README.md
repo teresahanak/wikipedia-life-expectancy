@@ -71,7 +71,7 @@ Images 1-6 illustrate the lifecyle of the data.
 - Linear regression modeling--interpretability emphasis
     - Assumptions of linear regression
     - Interpretation of coefficients
-- Modeling Algorithms--prediction emphasis
+- Regressor algorithms--prediction emphasis
     - scikit-learn regressors
     - XGBoost
     - Hyperparamter tuning
