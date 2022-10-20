@@ -37,6 +37,7 @@ Images 1-6 illustrate the lifecyle of the data.
 ![data_to_df_snippet.jpg](data_to_df_snippet.jpg)
 ### Clean, clean, clean, clean, clean... and clean some more, then preprocess.
 ![data_preproc_snippet.jpg](data_preproc_snippet.jpg)
+### The rest is EDA and modeling.
 
 ## Table of Contents
 
