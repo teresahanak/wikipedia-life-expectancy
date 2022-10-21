@@ -64,7 +64,7 @@ The [References](https://github.com/teresahanak/wikipedia-life-expectancy/blob/m
 ## Run It
 See individual notebooks for standalone instructions to start at that step of the project.
 
-Follow [these instructions](https://www.youtube.com/watch?v=ooNngLWhTC4&t=657s) from Frank Andrade, to set up Anaconda virtual environment and Scrapy.
+Follow [these instructions]([https://www.youtube.com/watch?v=ooNngLWhTC4&t=657s](https://www.youtube.com/watch?v=ooNngLWhTC4&t=657s)) from Frank Andrade, to set up Anaconda virtual environment and Scrapy.
 1. Virtual evironment created with Anaconda Navigator (2.2.0)
 2. Scrapy (2.6.1) installed in virtual environment
 3. PyCharm (Professional 2021.1.2) synched to Anaconda virtual environment
