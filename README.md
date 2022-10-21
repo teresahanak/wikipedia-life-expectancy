@@ -66,12 +66,17 @@ See individual notebooks for standalone instructions to run that phase of the pr
   - Anaconda Navigator 2.2.0
   - Jupyter Notebook 6.4.8
   - Python 3.9.12
+      - re (regular expressions)
+      - pickle
+      - warnings
   - NumPy 1.223
   - pandas 1.4.2
   - pip 21.2.4
   - sqlite 3.38.3
   - sklearn 1.0.2
   - [nb_black](https://pypi.org/project/nb-black/)
+  - [chime 0.5.3](https://pypi.org/project/chime/)
+  - 
 
 
 
