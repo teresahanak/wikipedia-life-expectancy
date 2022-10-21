@@ -17,12 +17,13 @@ In addition to demonstrating of a wide range of data science [skills](#skills), 
 Year, month, and day of death are also readily available, as seen in the sample in [Image 1a](#img1a), from [Wikipedia Deaths in 2022](https://en.wikipedia.org/wiki/Deaths_in_2022).[<sup>[4]</sup>](#ref4)
 
 
-At the bottom of an indvidual's page (following the Name link), is a References section for that individual's page.  [Image 2](#img2) contains a sample from [Ramiz Abutalibov's](https://en.wikipedia.org/wiki/Ramiz_Abutalibov) page.[<sup>[5]</sup>](#ref5)
+At the bottom of an indvidual's page (following the Name link), is a References section for that individual's page.  [Image 1b](#img1b) contains a sample from [Ramiz Abutalibov's](https://en.wikipedia.org/wiki/Ramiz_Abutalibov) page.[<sup>[5]</sup>](#ref5)
 The number of references is easily scraped and can represent the individual's notability, quantified.  With this proxy for notability added, the above elements provide a framework for collecting the data.  
 
 ## Project Overview
 ### Scrape.
 <a id=img1a a></a>
+<a id=img1b a></a>
 ![wp_snippet.jpg](wp_snippet.jpg)
 ### Combine.
 ![data_to_df_snippet.jpg](data_to_df_snippet.jpg)
