@@ -48,7 +48,7 @@ The number of references is easily scraped and can represent the individual's no
 
 
 <a id=skills a></a>
-#### Skills Demonstrated
+## Skills Demonstrated
 - Coding in Python
     - PyCharm
     - Jupyter Notebooks
