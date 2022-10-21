@@ -31,12 +31,12 @@ The number of references is easily scraped and can represent the individual's no
 ![sqlite_snippet1.jpg](sqlite_snippet1.jpg)
 ### and here.
 ![sqlite_snippet2.jpg](sqlite_snippet2.jpg)
-### Combine here.
+### Combine.
 ![data_to_df_snippet.jpg](data_to_df_snippet.jpg)
 ### Clean.
 ![clean_snippet.jpg](clean_snippet.jpg)
 ### Explore and analyze.
-### Preprocess to here.
+### Preprocess.
 ![data_preproc_snippet.jpg](data_preproc_snippet.jpg)
 ### Model.  
 ![models_snippet.jpg](models_snippet.jpg)
