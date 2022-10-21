@@ -62,7 +62,7 @@ Follow the link at the end of each notebook to the next notebook.  [Return to RE
 The [References](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/README.md#references) section, on this page, is inclusive for all notebooks and files within the project.
 
 ## Run It
-See individual [notebooks](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/README.md#explore-the-project) for standalone instructions to run that phase of the project.  
+Select individual notebooks, from the above list, for standalone instructions to run that phase of the project.  
 
 For Web scraping ([read first](#read))
 - Anaconda Navigator 2.2.0 virtual environment ([instructions](#instruct))
