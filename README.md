@@ -22,13 +22,13 @@ The number of references is easily scraped and can represent the individual's no
 
 ## Project Lifecycle
 ### Collect.
-#### Start here
+#### Scrape from here
 <a id=img1 a></a>
 ![wp_snippet.jpg](wp_snippet.jpg)  
-#### and here.
+#### and here
 <a id=img2 a></a>
 ![refs_snippet.jpg](refs_snippet.jpg)
-#### Scrape to here
+#### to here
 ![sqlite_snippet1.jpg](sqlite_snippet1.jpg)
 #### and here.
 ![sqlite_snippet2.jpg](sqlite_snippet2.jpg)
