@@ -41,7 +41,7 @@ The number of references is easily scraped and can represent the individual's no
 ![predict_snnippet.jpg](predict_snippet.jpg)
   
   
-
+<a id=#read a></a>
 ## Read the Project
 There are 13 Jupyter notebooks that encompass the project:
 - [Notebook 1: Data Collection](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/wp_life_expect_data_collect_thanak_2022_06_10.ipynb)
@@ -53,7 +53,7 @@ There are 13 Jupyter notebooks that encompass the project:
 
 Standalone contents and instructions introduce each notebook, including a data description for the dataset, in its current form, as it is loaded into the notebook.  Notebook 1 contains detailed Web-scraping instructions, including details of the PyCharm project folder and links to its contents.  **Observations** are throughout each notebook, documenting immediate context.  Exploratory Data Analysis, Linear Regression, and Modeling for Regression notebooks (10, 12, and 13) have additional "Summary", "Insights", or "Conclusion" sections at the end of their main content.
 
-The link at the end of each notebook opens the subsequent notebook.  [Return to README](https://github.com/teresahanak/wikipedia-life-expectancy) links are available at the top and bottom of each notebook, to return to these insructions.
+The link at the end of each notebook opens the subsequent notebook.  [Return to README](https://github.com/teresahanak/wikipedia-life-expectancy/id=read) links are available at the top and bottom of each notebook, to return to these insructions.
 
 
 ## Run the Project
