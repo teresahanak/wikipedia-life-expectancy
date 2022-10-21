@@ -43,7 +43,7 @@ The number of references is easily scraped and can represent the individual's no
   
 
 ## Explore this Project (Just read it)
-## Explore this Project (Run it)
+## Run this Project
 
 
 
