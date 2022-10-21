@@ -42,8 +42,8 @@ The number of references is easily scraped and can represent the individual's no
   
   
 
-## Instruction to Read Project
-## Instruction to Run Project
+## Read Project
+## Run Project
 
 
 
