@@ -71,7 +71,7 @@ For Web scraping ([read first](#read))
 - Protego (0.2.1)  
 
 For Notebooks:
-- Anaconda Navigator 2.2.0 virtual environment (same Scrapy project folder as Web scraping)
+- Anaconda Navigator 2.2.0 virtual environment (same Scrapy project folder)
 - Jupyter Notebook 6.4.8
 - Python 3.9.12
     - re (regular expressions)
