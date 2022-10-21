@@ -24,10 +24,6 @@ The number of references is easily scraped and can represent the individual's no
 ### Scrape.
 <a id=img1 a></a>
 ![wp_snippet.jpg](wp_snippet.jpg)
-![sqlite_snippet1.jpg](sqlite_snippet1.jpg)
-<a id=img2 a></a>
-![refs_snippet.jpg](refs_snippet.jpg)
-![sqlite_snippet2.jpg](sqlite_snippet2.jpg)
 ### Combine.
 ![data_to_df_snippet.jpg](data_to_df_snippet.jpg)
 ### Clean.
