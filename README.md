@@ -50,7 +50,7 @@ There are 13 Jupyter notebooks that encompass the project:
 - [Notebook 11: Data Preprocessing](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/wp_life_expect_data_preproc_thanak_2022_10_06.ipynb)
 - [Notebook 12: Linear Regression -- Interpetation Emphasis](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/wp_life_expect_olsmodel_thanak_2022_10_9.ipynb)
 - [Notebook 13: Modeling for Regression -- Prediction Emphasis](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/wp_life_expect_olsmodel_thanak_2022_10_9.ipynb)
-
+Standalone contents and instructions introduce each notebook, including a data description for the dataset as it is loaded into the notebook.  Notebook 1 contains detailed Web scraping instructions, including details of the PyCharm project folder and links to its contents.  The link at the end of each notebook opens the subsequent notebook.  "Return to README* links are available at the top and bottom of each notebook, to return to these instructions.
 
 ## Run the Project
 
