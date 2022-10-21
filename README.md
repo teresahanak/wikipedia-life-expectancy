@@ -12,13 +12,13 @@ In addition to demonstrating of a wide range of data science [skills](#skills), 
 
 ## Background
 "[Wikipedia](https://en.wikipedia.org/wiki/Wikipedia) is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system."[<sup>[2]</sup>](#ref2)  The English-language version contains a [List of deaths by year](https://en.wikipedia.org/wiki/Lists_of_deaths_by_year) of notable individuals, with links to pages for each year, by month, from 1987 to present.[<sup>[3]</sup>](#ref3)  The current page format is consistent as far back as January, 1994, with the following Wikipedia-defined fields for each entry:
-> Name, age, country of citizenship at birth, subsequent country of citizenship (if applicable), reason for notability, cause of death (if known), and reference.[<sup>[4]</sup>](#ref4)  
+> Name, age, country of citizenship at birth, subsequent country of citizenship (if applicable), reason for notability, cause of death (if known), and reference.[<sup>[1]</sup>](#ref1)  
 > 
-Year, month, and day of death are also readily available, as seen in the sample in [Image 1a](#img1a), from [Wikipedia Deaths in 2022](https://en.wikipedia.org/wiki/Deaths_in_2022).[<sup>[4]</sup>](#ref4)
+Year, month, and day of death are also readily available, as seen in the sample in [Image 1a](#img1a), from [Wikipedia Deaths in 2022](https://en.wikipedia.org/wiki/Deaths_in_2022).[<sup>[1]</sup>](#ref1)
 
 
-At the bottom of an indvidual's page (following the Name link), is a References section for that individual's page.  [Image 1b](#img1b) contains a sample from [Ramiz Abutalibov's](https://en.wikipedia.org/wiki/Ramiz_Abutalibov) page.[<sup>[5]</sup>](#ref5)
-The number of references is easily scraped and can represent the individual's notability, quantified.  With this proxy for notability added, the above elements provide a framework for collecting the data.  The project overview illustrates its life cycle.[<sup>[6]</sup>](#ref6)[<sup>[7]</sup>](#ref7)
+At the bottom of an indvidual's page (following the Name link), is a References section for that individual's page.  [Image 1b](#img1b) contains a sample from [Ramiz Abutalibov's](https://en.wikipedia.org/wiki/Ramiz_Abutalibov) page.[<sup>[4]</sup>](#ref4)
+The number of references is easily scraped and can represent the individual's notability, quantified.  With this proxy for notability added, the above elements provide a framework for collecting the data.  The project overview illustrates its life cycle.[<sup>[5]</sup>](#ref5)[<sup>[6]</sup>](#ref6)
 
 ## Project Overview
 ### Scrape.
