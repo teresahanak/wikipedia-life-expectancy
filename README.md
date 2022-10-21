@@ -34,6 +34,7 @@ The number of references is easily scraped and can represent the individual's no
 ### Combine here.
 ![data_to_df_snippet.jpg](data_to_df_snippet.jpg)
 ### Clean, clean, clean, clean, clean... and clean some more. 
+![clean_snippet.jpg](clean_snippet.jpg)
 ### Explore and analyze.
 ### Preprocess to here.
 ![data_preproc_snippet.jpg](data_preproc_snippet.jpg)
