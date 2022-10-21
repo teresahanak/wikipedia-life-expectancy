@@ -51,9 +51,6 @@ The project consists of 13 Jupyter notebooks:
 - [Notebook 12: Linear Regression -- Interpetation Emphasis](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/wp_life_expect_olsmodel_thanak_2022_10_9.ipynb)
 - [Notebook 13: Modeling for Regression -- Prediction Emphasis](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/wp_life_expect_olsmodel_thanak_2022_10_9.ipynb)
 
-[Scrape.](wp_life_expect_data_collect_thanak_2022_06_10.ipynb)
-
-### Scrape.
 
 ## Run the Project
 
