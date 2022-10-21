@@ -62,11 +62,11 @@ The link at the end of each notebook opens the subsequent notebook.  [Return to 
 The [References](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/README.md#references) section, on this page, is inclusive for all notebooks and files within the project.
 
 ## Run It
-Detailed instructions to set up virtual environment from [Frank Andrade](https://www.youtube.com/watch?v=ooNngLWhTC4&t=657s).
-1. Virtual evironment created with Anaconda Navigator 2.2.0
-2. Scrapy 2.6.1 installed in virtual environment
-3. PyCharm Professional 2021.1.2 synched to Anaconda virtual environment
-4. 
+Follow [these instructions](https://www.youtube.com/watch?v=ooNngLWhTC4&t=657s) to set up virtual environment from Frank Andrade.
+1. Virtual evironment created with Anaconda Navigator (2.2.0)
+2. Scrapy (2.6.1) installed in virtual environment
+3. PyCharm (Professional 2021.1.2) synched to Anaconda virtual environment
+4. Install protego (0.2.1)
 
 Python 3.9.12
 
