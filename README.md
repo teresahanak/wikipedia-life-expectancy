@@ -21,7 +21,7 @@ At the bottom of an indvidual's page (following the Name link), is a References 
 The number of references is easily scraped and can represent the individual's notability, quantified.  With this proxy for notability added, the above elements provide a framework for collecting the data.  
 
 ## Project Lifecycle
-### Collect.
+### Scrape.
 #### Scrape from here
 <a id=img1 a></a>
 ![wp_snippet.jpg](wp_snippet.jpg)  
