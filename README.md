@@ -57,8 +57,9 @@ Notebook 1 contains detailed Web-scraping instructions, including details of the
 
 **Observations** are throughout each notebook, documenting immediate context.  Exploratory Data Analysis, Linear Regression, and Modeling for Regression notebooks (10, 12, and 13) have additional "Summary", "Insights", or "Conclusion" sections at the end of their main content.
 
-The link at the end of each notebook opens the subsequent notebook.  [Return to README](https://github.com/teresahanak/wikipedia-life-expectancy#read-the-project) links are available at the top and bottom of each notebook, to return to these insructions.
+The link at the end of each notebook opens the subsequent notebook.  [Return to README](https://github.com/teresahanak/wikipedia-life-expectancy#read-the-project) links are available at the top and bottom of each notebook, to return to these insructions.  
 
+The References section on this page is inclusive for all notebooks and files within the project.
 
 ## Run the Project
 
