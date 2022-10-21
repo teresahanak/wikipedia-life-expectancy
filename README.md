@@ -43,6 +43,7 @@ The number of references is easily scraped and can represent the individual's no
   
 
 ## Read the Project
+[Scrape.](wp_life_expect_data_collect_thanak_2022_06_10.ipynb)
 
 ### Scrape.
 
