@@ -62,6 +62,15 @@ The link at the end of each notebook opens the subsequent notebook.  [Return to 
 The [References](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/README.md#references) section, on this page, is inclusive for all notebooks and files within the project.
 
 ## Run It
+Detailed instructions to set up virtual environment from [Frank Andrade](https://www.youtube.com/watch?v=ooNngLWhTC4&t=657s).
+1. Virtual evironment created with Anaconda Navigator 2.2.0
+2. Scrapy 2.6.1 installed in virtual environment
+3. PyCharm Professional 2021.1.2 synched to Anaconda virtual environment
+4. 
+
+Python 3.9.12
+
+
 See individual notebooks for standalone instructions to start at that step of the project.
 
 The [Web-scraping step](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/wp_life_expect_data_collect_thanak_2022_06_10.ipynb) is reproducible, with the following caveats:
