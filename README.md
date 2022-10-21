@@ -65,7 +65,7 @@ The [References](https://github.com/teresahanak/wikipedia-life-expectancy/blob/m
 See individual notebooks for standalone instructions to run that phase of the project.  
 
 - Anaconda Navigator 2.2.0 virtual environment ([instructions](#instruct))
-- Scrapy (2.6.1)
+- Scrapy (2.6.1) ([read first](#read))
 - PyCharm Professional 2021.1.2
 - Protego (0.2.1)
 - Jupyter Notebook 6.4.8
@@ -88,7 +88,7 @@ See individual notebooks for standalone instructions to run that phase of the pr
 - XGBoost 1.6.1
 
 
-
+<a id=read a></a>
 The [Web-scraping step](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/wp_life_expect_data_collect_thanak_2022_06_10.ipynb) is reproducible, with the following caveats:
 1. Wikipedia evolves with contribution and editing, so scraping even the identical dates will likely result in at least some minor variation in the raw dataset.
 2. Converting the raw data for what an individual was known, into a predictive categorical feature, is a programmatically-driven manual process.  Though faster than manual entry, and arguably more accurate, it has the same specificity to the dataset.  If new data is scraped, particularly for a different time period, it will need this cleaning step recoded to match the new data (no small feat!).
