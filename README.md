@@ -68,7 +68,8 @@ For Web scraping ([read first](#read))
 - Anaconda Navigator 2.2.0 virtual environment ([instructions](#instruct))
 - Scrapy (2.6.1)
 - PyCharm Professional 2021.1.2
-- Protego (0.2.1)
+- Protego (0.2.1)  
+
 For Notebooks:
 - Anaconda Navigator 2.2.0 virtual environment (same Scrapy project folder as Web scraping)
 - Jupyter Notebook 6.4.8
