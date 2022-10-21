@@ -42,7 +42,7 @@ The number of references is easily scraped and can represent the individual's no
   
   
 <a id=#read a></a>
-## Explore It
+## Explore the Project
 13 Jupyter notebooks encompass the project:
 - [Notebook 1: Data Collection](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/wp_life_expect_data_collect_thanak_2022_06_10.ipynb)
 - [Notebooks 2 - 9: Data Cleaning](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/wp_life_expect_data_clean1_thanak_2022_06_13.ipynb)
@@ -61,7 +61,7 @@ The link at the end of each notebook opens the subsequent notebook.  [Return to 
 
 The [References](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/README.md#references) section, on this page, is inclusive for all notebooks and files within the project.
 
-## Run It
+## Run the Project
 
 
 
