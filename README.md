@@ -66,6 +66,7 @@ See individual notebooks for standalone instructions to run that phase of the pr
 
 For Web scraping ([read first](#read))
 - Anaconda Navigator 2.2.0 virtual environment ([instructions](#instruct))
+- Python 3.9.12
 - Scrapy (2.6.1)
 - PyCharm Professional 2021.1.2
 - Protego (0.2.1)  
