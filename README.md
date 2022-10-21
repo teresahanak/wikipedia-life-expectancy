@@ -51,7 +51,7 @@ The number of references is easily scraped and can represent the individual's no
 - [Notebook 12: Linear Regression -- Interpetation Emphasis](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/wp_life_expect_olsmodel_thanak_2022_10_9.ipynb)
 - [Notebook 13: Modeling for Regression -- Prediction Emphasis](http://localhost:8888/notebooks/anaconda3/envs/wikipedia-life-expectancy/wp_life_expect_models_thanak_2022_10_14.ipynb)  
 
-Standalone contents and instructions introduce each notebook, including a data description for the dataset, in its current form, as it is loaded into the notebook. 
+Standalone contents and instructions introduce each notebook, including the description of the data being loaded into the notebook. 
 
 Notebook 1 contains Web-scraping instructions, including details of the PyCharm project folder and links to its contents.  
 
