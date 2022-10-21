@@ -59,7 +59,7 @@ Notebook 1 contains Web-scraping instructions, including details of the PyCharm 
 
 The link at the end of each notebook opens the subsequent notebook.  [Return to README](https://github.com/teresahanak/wikipedia-life-expectancy#read-the-project) links are available at the top and bottom of each notebook, to return to these insructions.  
 
-The References section on this page is inclusive for all notebooks and files within the project.
+The [References](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/README.md#references) section on this page is inclusive for all notebooks and files within the project.
 
 ## Run the Project
 
