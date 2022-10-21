@@ -34,8 +34,10 @@ The number of references is easily scraped and can represent the individual's no
 ![data_preproc_snippet.jpg](data_preproc_snippet.jpg)
 ### Model.  
 ![models_snippet.jpg](models_snippet.jpg)
-
-### Interpret.  Predict.
+### Interpret.
+![interp_snippet.jpg](interp_snippet.jpg)
+### Predict.
+![predict_snnippet.jpg](predict_snippet.jpg)
   
   
 
