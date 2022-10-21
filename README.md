@@ -65,6 +65,9 @@ The [References](https://github.com/teresahanak/wikipedia-life-expectancy/blob/m
 See individual notebooks for standalone instructions to run that phase of the project.  
 
 - Anaconda Navigator 2.2.0
+- Scrapy (2.6.1)
+- PyCharm Professional 2021.1.2
+- Protego (0.2.1)
 - Jupyter Notebook 6.4.8
 - Python 3.9.12
     - re (regular expressions)
@@ -93,10 +96,10 @@ The [Web-scraping step](https://github.com/teresahanak/wikipedia-life-expectancy
 4. Due to 1-3, reproducing the scraping steps as an exercise in Web scraping with Scrapy is recommended, over aiming to duplicate the results here from start to finish.  For comparitive results, choosing any entry point after scraping is the better option.
 
 Follow [these instructions](https://www.youtube.com/watch?v=ooNngLWhTC4) from Frank Andrade, to set up Anaconda virtual environment and Scrapy.
-1. Create virtual environment with Anaconda Navigator (2.2.0)
-2. Install Scrapy (2.6.1) in the virtual environment
-3. Synch PyCharm (Professional 2021.1.2) to the Anaconda virtual environment
-4. Install protego (0.2.1)
+1. Create virtual environment with Anaconda Navigator
+2. Install Scrapy in the virtual environment
+3. Synch PyCharm to the Anaconda virtual environment
+4. Install protego
 
 
 
