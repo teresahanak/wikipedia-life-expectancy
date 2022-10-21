@@ -35,7 +35,10 @@ The number of references is easily scraped and can represent the individual's no
 ![data_to_df_snippet.jpg](data_to_df_snippet.jpg)
 ### Clean, clean, clean, clean, clean... and clean some more. Explore and analyze. Preprocess to here.
 ![data_preproc_snippet.jpg](data_preproc_snippet.jpg)
-### Model.  Interpret.  Predict.
+### Model.  
+![model
+
+### Interpret.  Predict.
   
   
 
