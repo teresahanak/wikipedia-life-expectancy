@@ -66,8 +66,8 @@ See individual notebooks for standalone instructions to run that phase of the pr
 
 - Anaconda Navigator 2.2.0 virtual environment ([instructions](#instruct))
 - Scrapy (2.6.1) ([read first](#read))
-- PyCharm Professional 2021.1.2
-- Protego (0.2.1)
+- PyCharm Professional 2021.1.2 (for Web scraping)
+- Protego (0.2.1) (for Web scraping)
 - Jupyter Notebook 6.4.8
 - Python 3.9.12
     - re (regular expressions)
