@@ -29,6 +29,7 @@ The number of references is easily scraped and can represent the individual's no
 ### Clean.
 ![clean_snippet.jpg](clean_snippet.jpg)
 ### Explore and analyze.
+![EDA_snippet.jpg](EDA_snippet.jpg)
 ### Preprocess.
 ![data_preproc_snippet.jpg](data_preproc_snippet.jpg)
 ### Model.  
