@@ -64,7 +64,7 @@ The [References](https://github.com/teresahanak/wikipedia-life-expectancy/blob/m
 ## Run It
 See individual notebooks for standalone instructions to run that phase of the project.  
 
-- Anaconda Navigator 2.2.0
+Anaconda Navigator 2.2.0 virtual environment ([instructions](#instruct)):
 - Scrapy (2.6.1)
 - PyCharm Professional 2021.1.2
 - Protego (0.2.1)
@@ -95,6 +95,7 @@ The [Web-scraping step](https://github.com/teresahanak/wikipedia-life-expectancy
 3. The [pipelines.py](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/wikipedia_life_expectancy/pipelines.py) file is reused for all [spiders](https://github.com/teresahanak/wikipedia-life-expectancy/tree/main/wikipedia_life_expectancy/spiders) within the [Scrapy project folder](https://github.com/teresahanak/wikipedia-life-expectancy/tree/main/wikipedia_life_expectancy), so requires updating to match the spider that will be crawled.  [Frank Andrade's course](https://www.udemy.com/share/1050RC3@hQ2ccLlpcvivy0WcwxoyY-pTDZW1ATRujXa3_csxIPkk6f4MV3Ogh20gLzy_BSAf/) instructions for Scrapy were followed.
 4. Due to 1-3, reproducing the scraping steps as an exercise in Web scraping with Scrapy is recommended, over aiming to duplicate the results here from start to finish.  For comparitive results, choosing any entry point after scraping is the better option.
 
+<a id=instruct a></a>
 Follow [these instructions](https://www.youtube.com/watch?v=ooNngLWhTC4) from Frank Andrade, to set up Anaconda virtual environment and Scrapy.
 1. Create virtual environment with Anaconda Navigator
 2. Install Scrapy in the virtual environment
