@@ -69,7 +69,6 @@ See individual notebooks for standalone instructions to run that phase of the pr
 Python 3.9.12
 
 
-See individual notebooks for standalone instructions to start at that step of the project.
 
 The [Web-scraping step](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/wp_life_expect_data_collect_thanak_2022_06_10.ipynb) is reproducible, with the following caveats:
 1. Wikipedia evolves with contribution and editing, so scraping even the identical dates will likely result in at least some minor variation in the raw dataset.
