@@ -62,7 +62,7 @@ The link at the end of each notebook opens the subsequent notebook.  [Return to 
 The [References](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/README.md#references) section, on this page, is inclusive for all notebooks and files within the project.
 
 ## Run It
-See individual notebooks for standalone instructions to start at that step of the project.
+See individual notebooks for standalone instructions to start at that phase of the project.
 
 
 
