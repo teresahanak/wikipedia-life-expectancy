@@ -64,11 +64,7 @@ The [References](https://github.com/teresahanak/wikipedia-life-expectancy/blob/m
 ## Run It
 See individual notebooks for standalone instructions to start at that step of the project.
 
-Follow [these instructions](https://www.youtube.com/watch?v=ooNngLWhTC4) from Frank Andrade, to set up Anaconda virtual environment and Scrapy.
-1. Virtual evironment created with Anaconda Navigator (2.2.0)
-2. Scrapy (2.6.1) installed in virtual environment
-3. PyCharm (Professional 2021.1.2) synched to Anaconda virtual environment
-4. Install protego (0.2.1)
+
 
 Python 3.9.12
 
@@ -80,6 +76,12 @@ The [Web-scraping step](https://github.com/teresahanak/wikipedia-life-expectancy
 2. Converting the raw data for what an individual was known, into a predictive categorical feature, is a programmatically-driven manual process.  Though faster than manual entry, and arguably more accurate, it has the same specificity to the dataset.  If new data is scraped, particularly for a different time period, it will need this cleaning step recoded to match the new data (no small feat!).
 3. The [pipelines.py](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/wikipedia_life_expectancy/pipelines.py) file is reused for all [spiders](https://github.com/teresahanak/wikipedia-life-expectancy/tree/main/wikipedia_life_expectancy/spiders) within the [Scrapy project folder](https://github.com/teresahanak/wikipedia-life-expectancy/tree/main/wikipedia_life_expectancy), so requires updating to match the spider that will be crawled.  [Frank Andrade's course](https://www.udemy.com/share/1050RC3@hQ2ccLlpcvivy0WcwxoyY-pTDZW1ATRujXa3_csxIPkk6f4MV3Ogh20gLzy_BSAf/) instructions for Scrapy were followed.
 4. Due to 1-3, reproducing the scraping steps as an exercise in Web scraping with Scrapy is recommended, over aiming to duplicate the results here from start to finish.  For comparitive results, choosing any entry point after scraping is the better option.
+
+Follow [these instructions](https://www.youtube.com/watch?v=ooNngLWhTC4) from Frank Andrade, to set up Anaconda virtual environment and Scrapy.
+1. Virtual evironment created with Anaconda Navigator (2.2.0)
+2. Scrapy (2.6.1) installed in virtual environment
+3. PyCharm (Professional 2021.1.2) synched to Anaconda virtual environment
+4. Install protego (0.2.1)
 
 
 
