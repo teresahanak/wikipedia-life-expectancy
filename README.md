@@ -53,6 +53,8 @@ There are 13 Jupyter notebooks that encompass the project:
 
 Standalone contents and instructions introduce each notebook, including a data description for the dataset, in its current form, as it is loaded into the notebook.  Notebook 1 contains detailed Web-scraping instructions, including details of the PyCharm project folder and links to its contents.  The link at the end of each notebook opens the subsequent notebook.  "Return to README" links are available at the top and bottom of each notebook, to return to these instructions.
 
+"Observations" are throught each notebook, documenting immediate context.  Exploratory Data Analysis, Linear Regression, and Modeling for Regression notebooks have additional "Summary", "Insights", or "Conclusion" sections at the end of their main content.
+
 ## Run the Project
 
 
