@@ -57,7 +57,7 @@ Web scraping steps are in Notebook 1, including details of the PyCharm project f
 
 Follow the link at the end of each notebook to the next notebook.  [Return to README](https://github.com/teresahanak/wikipedia-life-expectancy#read-the-project) links are available at the top and bottom of each notebook, to return to these insructions.  
 
-All footnotes point to the [References](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/README.md#references) section on this page.
+All footnotes point to the common [References](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/README.md#references) section on this page.
 
 ## Application and Package Versions
 - Anaconda Navigator 2.2.0 virtual environment
