@@ -43,7 +43,7 @@ The number of references is easily scraped and can represent the individual's no
   
 <a id=#read a></a>
 ## Explore the Project
-13 Jupyter notebooks encompass the project.  Standalone contents and install/run instructions introduce each notebook, with a description of the data being loaded into the notebook.  Follow a notebook's link listed here to access that phase of the project.
+Thirteen Jupyter Notebooks encompass the project.  Standalone contents and install/run instructions introduce each notebook, with a description of the data being loaded into the notebook.  Follow a notebook's link listed here to access that phase of the project.
 - [Notebook 1: Data Collection](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/wp_life_expect_data_collect_thanak_2022_06_10.ipynb)
 - [Notebooks 2 - 9: Data Cleaning](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/wp_life_expect_data_clean1_thanak_2022_06_13.ipynb)
 - [Notebook 10: Exploratory Data Analysis](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/wp_life_expect_EDA_thanak_2022_09_30.ipynb)
