@@ -49,7 +49,7 @@ The links below access the Jupyter Notebooks that encompass the project.  Standa
 - [Notebook 10: Exploratory Data Analysis](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/wp_life_expect_EDA_thanak_2022_09_30.ipynb)
 - [Notebook 11: Data Preprocessing](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/wp_life_expect_data_preproc_thanak_2022_10_06.ipynb)
 - [Notebook 12: Linear Regression -- Interpetation Emphasis](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/wp_life_expect_olsmodel_thanak_2022_10_9.ipynb)
-- [Notebook 13: Modeling for Regression -- Prediction Emphasis](http://localhost:8888/notebooks/anaconda3/envs/wikipedia-life-expectancy/wp_life_expect_models_thanak_2022_10_14.ipynb)  
+- [Notebook 13: Modeling for Regression -- Prediction Emphasis](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/wp_life_expect_models_thanak_2022_10_14.ipynb)  
 
 Web scraping steps are in Notebook 1, including details of the PyCharm project folder and links to its contents.
 
