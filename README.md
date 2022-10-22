@@ -84,6 +84,8 @@ All footnotes point to the common [References](https://github.com/teresahanak/wi
 
 <a id=skills a></a>
 ## Skills Demonstrated
+- Virtual Environments
+  - Anaconda Navigator
 - Coding in Python
     - PyCharm
     - Jupyter Notebooks
