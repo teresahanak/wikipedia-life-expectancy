@@ -92,7 +92,7 @@ All footnotes point to the common [References](https://github.com/teresahanak/wi
 - Version control
     - Git
     - GitHub
-    - ReviewNB
+    - [ReviewNB](https://www.reviewnb.com/)
 - Web scraping
     - Scrapy
 - Relational database management
