@@ -53,7 +53,7 @@ The number of references is easily scraped and can represent the individual's no
 
 Standalone contents and install/run instructions introduce each notebook, with a description of the data being loaded into the notebook. 
 
-Notebook 1 contains Web-scraping instructions, including details of the PyCharm project folder and links to its contents.  
+Notebook 1 contains Web-scraping steps, including details of the PyCharm project folder and links to its contents.
 
 **Observations** appear throughout each notebook, documenting immediate context.  Exploratory Data Analysis, Linear Regression, and Modeling for Regression (Notebooks 10, 12, and 13) have additional "Summary", "Insights", or "Conclusion" sections at the end of their main content.
 
