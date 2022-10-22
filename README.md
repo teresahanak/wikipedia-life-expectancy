@@ -26,7 +26,7 @@ The number of references is easily scraped and can represent the individual's no
 <a id=img1b a></a>
 ![wp_snippet.jpg](wp_snippet.jpg)
 ### Combine.
-![image/data_to_df_snippet.jpg](image/data_to_df_snippet.jpg)
+![images/data_to_df_snippet.jpg](images/data_to_df_snippet.jpg)
 ### Clean.
 ![clean_snippet.jpg](clean_snippet.jpg)
 ### Explore and analyze.
