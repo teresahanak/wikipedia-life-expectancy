@@ -59,7 +59,7 @@ Web scraping steps are in Notebook 1, including details of the PyCharm project f
 
 Follow the link at the end of each notebook to the next notebook.  [Return to README](https://github.com/teresahanak/wikipedia-life-expectancy#read-the-project) links are available at the top and bottom of each notebook, to return to these insructions.  
 
-The [References](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/README.md#references) section, on this page, is inclusive for all notebooks and files within the project.
+All footnotes point to the [References](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/README.md#references) section on this page.
 
 ## Run It
 Individual notebooks contain standalone instructions to run that phase of the project.  Select a notebook link from the above list.
