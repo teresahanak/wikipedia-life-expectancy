@@ -59,27 +59,6 @@ The link at the end of each notebook opens the next notebook.  [Return to README
 
 All footnotes point to the common [References](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/README.md#references) section on this page.
 
-## Application and Package Versions
-- Anaconda Navigator 2.2.0 virtual environment
-- Python 3.9.12
-- Scrapy (2.6.1)
-- PyCharm Professional 2021.1.2
-- Protego (0.2.1)  
-- Jupyter Notebook 6.4.8
-- NumPy 1.223
-- pandas 1.4.2
-- pip 21.2.4
-- SQLite 3.38.3
-- [nb_black](https://pypi.org/project/nb-black/)
-- [chime 0.5.3](https://pypi.org/project/chime/)
-- Matplotlib 3.5.1
-- scikit-learn 1.0.2
-- seaborn 0.11.2
-- statsmodels 0.13.2
-- PyLab
-- SciPy 1.7.3
-- XGBoost 1.6.1
-
 ## Insights and Hindsights
 
 <a id=skills a></a>
@@ -129,6 +108,27 @@ All footnotes point to the common [References](https://github.com/teresahanak/wi
     - Production pipeline
 - User interface for predictions
 
+
+## Application and Package Versions
+- Anaconda Navigator 2.2.0 virtual environment
+- Python 3.9.12
+- Scrapy (2.6.1)
+- PyCharm Professional 2021.1.2
+- Protego (0.2.1)  
+- Jupyter Notebook 6.4.8
+- NumPy 1.223
+- pandas 1.4.2
+- pip 21.2.4
+- SQLite 3.38.3
+- [nb_black](https://pypi.org/project/nb-black/)
+- [chime 0.5.3](https://pypi.org/project/chime/)
+- Matplotlib 3.5.1
+- scikit-learn 1.0.2
+- seaborn 0.11.2
+- statsmodels 0.13.2
+- PyLab
+- SciPy 1.7.3
+- XGBoost 1.6.1
 
 
 
