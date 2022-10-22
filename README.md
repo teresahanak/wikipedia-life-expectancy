@@ -24,21 +24,21 @@ The number of references is easily scraped and can represent the individual's no
 ### Scrape.
 <a id=img1a a></a>
 <a id=img1b a></a>
-![wp_snippet.jpg](wp_snippet.jpg)
+![images/wp_snippet.jpg](images/wp_snippet.jpg)
 ### Combine.
 ![images/data_to_df_snippet.jpg](images/data_to_df_snippet.jpg)
 ### Clean.
-![clean_snippet.jpg](clean_snippet.jpg)
+![images/clean_snippet.jpg](images/clean_snippet.jpg)
 ### Explore and analyze.
-![EDA_snippet.jpg](EDA_snippet.jpg)
+![images/EDA_snippet.jpg](images/EDA_snippet.jpg)
 ### Preprocess.
-![data_preproc_snippet.jpg](data_preproc_snippet.jpg)
+![images/data_preproc_snippet.jpg](images/data_preproc_snippet.jpg)
 ### Model.  
-![models_snippet.jpg](models_snippet.jpg)
+![images/models_snippet.jpg](images/models_snippet.jpg)
 ### Interpret.
-![interp_snippet.jpg](interp_snippet.jpg)
+![images/interp_snippet.jpg](images/interp_snippet.jpg)
 ### Predict.
-![predict_snnippet.jpg](predict_snippet.jpg)
+![images/predict_snnippet.jpg](images/predict_snippet.jpg)
   
   
 <a id=#read a></a>
