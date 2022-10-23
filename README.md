@@ -140,13 +140,20 @@ The link at the end of each notebook opens the next notebook.  [Return to README
 - SciPy 1.7.3
 - XGBoost 1.6.1
 ##
-<sup>1</sup>
-<sup>2</sup>
-<sup>3</sup>
-<sup>4</sup>
-<sup>5</sup>
-<sup>6</sup>
-<sup>7</sup>
+<a id=refs1 a></a>
+<sup>1</sup>  
+<a id=refs2 a></a>
+<sup>2</sup>  
+<a id=refs3 a></a>
+<sup>3</sup>  
+<a id=refs4 a></a>
+<sup>4</sup> 
+<a id=refs5 a></a>
+<sup>5</sup> 
+<a id=refs6 a></a>
+<sup>6</sup>  
+<a id=refs7 a></a>
+<sup>7</sup>  
 
 <a id=refs a></a>
 ## References
