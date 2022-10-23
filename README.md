@@ -141,6 +141,12 @@ The link at the end of each notebook opens the next notebook.  [Return to README
 - XGBoost 1.6.1
 ##
 <sup>1</sup>
+<sup>2</sup>
+<sup>3</sup>
+<sup>4</sup>
+<sup>5</sup>
+<sup>6</sup>
+<sup>7</sup>
 
 <a id=refs a></a>
 ## References
