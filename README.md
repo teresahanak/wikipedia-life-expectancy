@@ -147,9 +147,9 @@ The link at the end of each notebook opens the next notebook.  [Return to README
 <a id=refs3 a></a>
 <sup>3</sup>  
 <a id=refs4 a></a>
-<sup>4</sup> 
+<sup>4</sup>  
 <a id=refs5 a></a>
-<sup>5</sup> 
+<sup>5</sup>  
 <a id=refs6 a></a>
 <sup>6</sup>  
 <a id=refs7 a></a>
