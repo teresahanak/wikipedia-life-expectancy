@@ -2,7 +2,7 @@
 ### An End-to-end Supervised Machine Learning Project
 
 ## Table of Contents
-- [Introduction](https://github.com/teresahanak/wikipedia-life-expectancy#introduction)
+- [Introduction](#intro)
 - [Background](https://github.com/teresahanak/wikipedia-life-expectancy#background)
 - [Project Overview](https://github.com/teresahanak/wikipedia-life-expectancy#project-overview)
 - [Explore the Project](https://github.com/teresahanak/wikipedia-life-expectancy#explore-the-project)
@@ -11,7 +11,7 @@
 - [Application and Package Versions](https://github.com/teresahanak/wikipedia-life-expectancy#application-and-package-versions)
 - [References](https://github.com/teresahanak/wikipedia-life-expectancy#references)
 
-
+<a id=intro a></a>
 ## Introduction
 *If a person makes the [Wikipedia Notable Deaths](https://en.wikipedia.org/wiki/Deaths_in_2022) list,[<sup>1</sup>](#ref1) is there information there that can be used to model and predict that person's life span?*
 
