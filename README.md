@@ -5,7 +5,7 @@
 
 
 ## Introduction
-*If a person makes the [Wikipedia Notable Deaths](https://en.wikipedia.org/wiki/Deaths_in_2022) list,[<sup>[1]</sup>](#ref1) is there information there that can be used to model and predict that person's life span?*
+*If a person makes the [Wikipedia Notable Deaths](https://en.wikipedia.org/wiki/Deaths_in_2022) list,[<sup>1</sup>](#ref1) is there information there that can be used to model and predict that person's life span?*
 
 In addition to demonstrating of a wide range of data science [skills](#skills), I had three portfolio project criteria: (1) to scrape the data from the Web, (2) to perform extensive data cleaning (i.e., messy data), and (3) to solve a regression problem.  Enter a social-sciences-based exploration of life expectancy for Wikipedia notables and we're off and running!
 
