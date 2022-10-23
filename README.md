@@ -140,7 +140,7 @@ The [References](#refs) section on this page is common for all notebooks.
 - SciPy 1.7.3
 - XGBoost 1.6.1
 ##
-
+<sup>1</sup>
 
 <a id=refs a></a>
 ## References
