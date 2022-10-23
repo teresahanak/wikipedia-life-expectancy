@@ -59,8 +59,7 @@ The link at the end of each notebook opens the next notebook.  [Return to README
 
 All footnotes point to the common [References](#refs) section on this page.
 
-## Insights and Hindsights
-
+## Insights
 <a id=skills a></a>
 ## Skills Demonstrated
 - Virtual Environments
