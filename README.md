@@ -1,5 +1,5 @@
 # wikipedia-life-expectancy
-#### An End-to-end Supervised Machine Learning Project
+### An End-to-end Supervised Machine Learning Project
 
 ## Table of Contents
 - [Introduction](https://github.com/teresahanak/wikipedia-life-expectancy#introduction)
