@@ -4,8 +4,8 @@
 ## Table of Contents
 ### [Introduction](https://github.com/teresahanak/wikipedia-life-expectancy#introduction)
 ### [Background](https://github.com/teresahanak/wikipedia-life-expectancy#background)
-### [Project Overview (in pictures)](https://github.com/teresahanak/wikipedia-life-expectancy#project-overview)
-### [(How to) Explore the Project](https://github.com/teresahanak/wikipedia-life-expectancy#explore-the-project)
+### [Project Overview](https://github.com/teresahanak/wikipedia-life-expectancy#project-overview)
+### [Explore the Project](https://github.com/teresahanak/wikipedia-life-expectancy#explore-the-project)
 ### [Insights](https://github.com/teresahanak/wikipedia-life-expectancy#insights)
 ### [Skills Demonstrated](https://github.com/teresahanak/wikipedia-life-expectancy#skills-demonstrated)
 ### [Application and Package Versions](https://github.com/teresahanak/wikipedia-life-expectancy#application-and-package-versions)
