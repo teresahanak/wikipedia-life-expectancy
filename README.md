@@ -140,11 +140,11 @@ The link at the end of each notebook opens the next notebook.  [Return to README
 - XGBoost 1.6.1
 <a id=ref1 a></a>
 ##
-1. "Deaths in 2022," Wikipedia, accessed October 23, 2022, https://en.wikipedia.org/wiki/Deaths_in_2022.
+1. "Deaths in 2022," Wikipedia, last modified October 24, 2022, https://en.wikipedia.org/wiki/Deaths_in_2022.
 <a id=ref2 a></a>
-2. "Lists of deaths by year," Wikipedia, accessed October 23, 2022, https://en.wikipedia.org/wiki/Lists_of_deaths_by_year.
+2. "Lists of deaths by year," Wikipedia, last modified October 1, 2022, https://en.wikipedia.org/wiki/Lists_of_deaths_by_year.
 <a id=ref3 a></a>
-3. "Wikipedia," Wikipedia, accessed October 23, 2022, https://en.wikipedia.org/wiki/Wikipedia.
+3. "Wikipedia," Wikipedia, last modified October 20, 2022, https://en.wikipedia.org/wiki/Wikipedia.
 <a id=ref4 a></a>
 4. See note 3 above.
 <a id=ref5 a></a>
@@ -152,11 +152,24 @@ The link at the end of each notebook opens the next notebook.  [Return to README
 <a id=ref6 a></a>
 6. "File:Wikipedia Deaths Jan 2022 snippet.png," Wikimedia Commons, accessed October 23, 2022, https://commons.wikimedia.org/wiki/File:Wikipedia_Deaths_Jan_2022_snippet.png.
 <a id=ref7 a></a>
-7. "Deaths in January 2022," Wikipedia, accessed October 23, 2022, https://en.wikipedia.org/wiki/Deaths_in_January_2022.
+7. "Deaths in January 2022," Wikipedia, last modified October 1, 2022, https://en.wikipedia.org/wiki/Deaths_in_January_2022.
 <a id=ref8 a></a>
 8. "File:Screenshot snippet of Wikipedia Ramiz Abutalibov References.png," Wikimedia Commons, accessed October 23, 2022, https://commons.wikimedia.org/wiki/File:Screenshot_snippet_of_Wikipedia_Ramiz_Abutalibov_References.png.
 <a id=ref9 a></a>
-9. "Ramiz Abutalibov," Wikipedia, accessed October 23, 2022, https://en.wikipedia.org/wiki/Ramiz_Abutalibov.
+9. "Ramiz Abutalibov," Wikipedia, last modified May 14, 2022, 2022, https://en.wikipedia.org/wiki/Ramiz_Abutalibov.
 
 <a id=refs a></a>
 ## References
+Wikimedia Commons. "File:Screenshot snippet of Wikipedia Ramiz Abutalibov References.png." Accessed October 23, 2022, https://commons.wikimedia.org/wiki/File:Screenshot_snippet_of_Wikipedia_Ramiz_Abutalibov_References.png.
+
+Wikimedia Commons. "File:Wikipedia Deaths Jan 2022 snippet.png." Accessed October 23,2022, https://commons.wikimedia.org/wiki/File:Wikipedia_Deaths_Jan_2022_snippet.png.
+
+Wikipedia. "Deaths in 2022." Last modified October 24, 2022, https://en.wikipedia.org/wiki/Deaths_in_2022. 
+
+Wikipedia. "Lists of deaths by year." Last modified October 1, 2022, https://en.wikipedia.org/wiki/Lists_of_deaths_by_year.
+
+Wikipedia. "Ramiz Abutalibov."  Last modified May 14, 2022, https://en.wikipedia.org/wiki/Ramiz_Abutalibov.
+
+Wikipedia. "Wikipedia." Last modified October 20, 2022, https://en.wikipedia.org/wiki/Wikipedia.
+
+
