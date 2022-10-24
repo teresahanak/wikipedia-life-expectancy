@@ -13,19 +13,19 @@
 
 <a id=intro a></a>
 ## Introduction
-*If a person makes the [Wikipedia Notable Deaths](https://en.wikipedia.org/wiki/Deaths_in_2022) list,[<sup>1</sup>](#refs1) is there information there that can be used to model and predict that person's life span?*
+*If a person makes the [Wikipedia Notable Deaths](https://en.wikipedia.org/wiki/Deaths_in_2022) list,[<sup>1</sup>](#ref1) is there information there that can be used to model and predict that person's life span?*
 
-In addition to demonstrating of a wide range of data science [skills](#skills), I had three portfolio project criteria: (1) to scrape the data from the Web, (2) to perform extensive data cleaning (i.e., messy data), and (3) to solve a regression problem.  Enter an exploration of life expectancy for Wikipedia notables, in the social sciences domain, and we're off and running\![<sup>2</sup>](#refs2)
+In addition to demonstrating of a wide range of data science [skills](#skills), I had three portfolio project criteria: (1) to scrape the data from the Web, (2) to perform extensive data cleaning (i.e., messy data), and (3) to solve a regression problem.  Enter an exploration of life expectancy for Wikipedia notables, in the social sciences domain, and we're off and running\![<sup>2</sup>](#ref2)
 
 <a id=back a></a>
 ## Background
 "[Wikipedia](https://en.wikipedia.org/wiki/Wikipedia) is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system."[<sup>3</sup>](#ref3)  The English-language version contains a [List of deaths by year](https://en.wikipedia.org/wiki/Lists_of_deaths_by_year) of notable individuals, with links to pages for each year, by month, from 1987 to present.[<sup>4</sup>](#ref4)  The current page format is consistent as far back as January, 1994, with the following Wikipedia-defined fields for each entry:
 > Name, age, country of citizenship at birth, subsequent country of citizenship (if applicable), reason for notability, cause of death (if known), and reference.[<sup>5</sup>](#ref5)  
 > 
-Year, month, and day of death are also readily available, as seen in the sample in [Image 1a](#img1a),[<sup>6</sup>](#refs6) from [Wikipedia Deaths in 2022, January](https://en.wikipedia.org/wiki/Deaths_in_January_2022).[<sup>7</sup>](#ref7)
+Year, month, and day of death are also readily available, as seen in the sample in [Image 1a](#img1a),[<sup>6</sup>](#ref6) from [Wikipedia Deaths in 2022, January](https://en.wikipedia.org/wiki/Deaths_in_January_2022).[<sup>7</sup>](#ref7)
 
 
-At the bottom of an indvidual's page (following the Name link), is a References section for that individual's page.  [Image 1b](#img1b)[<sup>8</sup>](#refs8) contains a sample from [Ramiz Abutalibov's](https://en.wikipedia.org/wiki/Ramiz_Abutalibov) page[<sup>9</sup>](#ref9).
+At the bottom of an indvidual's page (following the Name link), is a References section for that individual's page.  [Image 1b](#img1b)[<sup>8</sup>](#ref8) contains a sample from [Ramiz Abutalibov's](https://en.wikipedia.org/wiki/Ramiz_Abutalibov) page[<sup>9</sup>](#ref9).
 The number of references is easily scraped and can represent the individual's notability, quantified.  With this proxy for notability added, the above elements provide a framework for collecting the data.
 
 <a id=over a></a>
@@ -140,23 +140,23 @@ The link at the end of each notebook opens the next notebook.  [Return to README
 - SciPy 1.7.3
 - XGBoost 1.6.1
 ##
-<a id=refs1 a></a>.
+<a id=ref1 a></a>.
 1. "Deaths in 2022," Wikipedia, accessed October 23, 2022, https://en.wikipedia.org/wiki/Deaths_in_2022.
-<a id=refs2 a></a>
+<a id=ref2 a></a>
 2. "Lists of deaths by year," Wikipedia, accessed October 23, 2022, https://en.wikipedia.org/wiki/Lists_of_deaths_by_year.
-<a id=refs3 a></a>
+<a id=refs a></a>
 3. "Wikipedia," Wikipedia, accessed October 23, 2022, https://en.wikipedia.org/wiki/Wikipedia.
-<a id=refs4 a></a>
+<a id=ref4 a></a>
 4. See note 3 above.
-<a id=refs5 a></a>
+<a id=ref5 a></a>
 5. See note 1 above.
-<a id=refs6 a></a>
+<a id=ref6 a></a>
 6. "File:Wikipedia Deaths Jan 2022 snippet.png," Wikimedia Commons, accessed October 23, 2022, https://commons.wikimedia.org/wiki/File:Wikipedia_Deaths_Jan_2022_snippet.png.
-<a id=refs7 a></a>
+<a id=ref7 a></a>
 7. "Deaths in January 2022," Wikipedia, accessed October 23, 2022, https://en.wikipedia.org/wiki/Deaths_in_January_2022.
-<a id=refs8 a></a>
+<a id=ref8 a></a>
 8. "File:Screenshot snippet of Wikipedia Ramiz Abutalibov References.png," Wikimedia Commons, accessed October 23, 2022, https://commons.wikimedia.org/wiki/File:Screenshot_snippet_of_Wikipedia_Ramiz_Abutalibov_References.png.
-<a id=refs9 a></a>
+<a id=ref9 a></a>
 9. "Ramiz Abutalibov," Wikipedia, accessed October 23, 2022, https://en.wikipedia.org/wiki/Ramiz_Abutalibov.
 
 <a id=refs a></a>
