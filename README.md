@@ -177,7 +177,7 @@ Wikipedia. "Wikipedia." Last modified October 20, 2022, https://en.wikipedia.org
 
 <a id=license a></a>
 ## Contributions and License
-This project serves as an end-to-end portfolio project, so the author is the sole contributor.
+This project serves as an end-to-end portfolio project, so the author is its sole contributor.
 
 MIT License
 
