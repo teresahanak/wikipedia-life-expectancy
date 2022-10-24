@@ -166,7 +166,7 @@ Wikimedia Commons. "File:Wikipedia Deaths Jan 2022 snippet.png." Last modified O
 
 Wikipedia. "Deaths in 2022." Last modified October 24, 2022, https://en.wikipedia.org/wiki/Deaths_in_2022. 
 
-"Deaths in January 2022."  Last modified October 24, 2022, https://en.wikipedia.org/wiki/Deaths_in_January_2022.
+Wikipedia. "Deaths in January 2022."  Last modified October 24, 2022, https://en.wikipedia.org/wiki/Deaths_in_January_2022.
 
 Wikipedia. "Lists of deaths by year." Last modified October 1, 2022, https://en.wikipedia.org/wiki/Lists_of_deaths_by_year.
 
