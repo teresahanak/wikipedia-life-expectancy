@@ -1,4 +1,4 @@
- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)[![GitHub language count](https://img.shields.io/github/languages/count/teresahanak/wikipedia-life-expectancy)]
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)[![GitHub language count]
 ### An End-to-end Supervised Machine Learning Project
 
 ## Table of Contents
