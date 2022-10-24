@@ -117,7 +117,6 @@ The link at the end of each notebook opens the next notebook.  [Return to README
     - Custom transformers
     - Production pipeline
 - User interface for predictions
-
 <a id=versions a></a>
 ## Application and Package Versions
 - Anaconda Navigator 2.2.0 virtual environment
