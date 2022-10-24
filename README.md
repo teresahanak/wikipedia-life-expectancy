@@ -141,21 +141,21 @@ The link at the end of each notebook opens the next notebook.  [Return to README
 - XGBoost 1.6.1
 ##
 <a id=refs1 a></a>
-<sup>1</sup>  
+1
 <a id=refs2 a></a>
-<sup>2</sup>  
+2
 <a id=refs3 a></a>
-<sup>3</sup>  
+3 
 <a id=refs4 a></a>
-<sup>4</sup>  
+4
 <a id=refs5 a></a>
-<sup>5</sup>  
+5 
 <a id=refs6 a></a>
-<sup>6</sup>  
+6
 <a id=refs7 a></a>
-<sup>7</sup>  
+7 
 <a id=refs8 a></a>
-<sup>8</sup> 
+8
 
 <a id=refs a></a>
 ## References
