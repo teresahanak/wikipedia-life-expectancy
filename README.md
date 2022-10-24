@@ -10,6 +10,7 @@
 - [Skills Demonstrated](#skills)
 - [Application and Package Versions](#versions)
 - [References](#refs)
+- [License](#license)
 
 <a id=intro a></a>
 ## Introduction
@@ -174,7 +175,7 @@ Wikipedia. "Ramiz Abutalibov."  Last modified May 14, 2022, https://en.wikipedia
 
 Wikipedia. "Wikipedia." Last modified October 20, 2022, https://en.wikipedia.org/wiki/Wikipedia.
 
-
+<a id=license a></a>
 ## License
 MIT License
 
