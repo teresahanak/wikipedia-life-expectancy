@@ -176,7 +176,9 @@ Wikipedia. "Ramiz Abutalibov."  Last modified May 14, 2022, https://en.wikipedia
 Wikipedia. "Wikipedia." Last modified October 20, 2022, https://en.wikipedia.org/wiki/Wikipedia.
 
 <a id=license a></a>
-## License
+## Contributions and License
+This project serves as an end-to-end portfolio project, so the author is the sole contributor.
+
 MIT License
 
 Copyright (c) 2022 Teresa Hanak
