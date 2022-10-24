@@ -25,7 +25,7 @@ In addition to demonstrating of a wide range of data science [skills](#skills), 
 Year, month, and day of death are also readily available, as seen in the sample in [Image 1a](#img1a),[<sup>6</sup>](#refs6) from [Wikipedia Deaths in 2022, January](https://en.wikipedia.org/wiki/Deaths_in_January_2022).[<sup>7</sup>](#ref7)
 
 
-At the bottom of an indvidual's page (following the Name link), is a References section for that individual's page.  [Image 1b](#img1b)[<sup>6</sup>](#refs6) contains a sample from [Ramiz Abutalibov's](https://en.wikipedia.org/wiki/Ramiz_Abutalibov) page[<sup>8</sup>](#ref8).
+At the bottom of an indvidual's page (following the Name link), is a References section for that individual's page.  [Image 1b](#img1b)[<sup>8</sup>](#refs8) contains a sample from [Ramiz Abutalibov's](https://en.wikipedia.org/wiki/Ramiz_Abutalibov) page[<sup>9</sup>](#ref9).
 The number of references is easily scraped and can represent the individual's notability, quantified.  With this proxy for notability added, the above elements provide a framework for collecting the data.
 
 <a id=over a></a>
@@ -156,6 +156,8 @@ The link at the end of each notebook opens the next notebook.  [Return to README
 7.   
 <a id=refs8 a></a>
 8.  
+<a id=refs9 a></a>
+9.  
 
 <a id=refs a></a>
 ## References
