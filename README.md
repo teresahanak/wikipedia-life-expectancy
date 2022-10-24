@@ -151,13 +151,13 @@ The link at the end of each notebook opens the next notebook.  [Return to README
 <a id=refs5 a></a>
 5. See note 1 above.
 <a id=refs6 a></a>
-6.  "File:Wikipedia Deaths Jan 2022 snippet.png", Wikimedia Commons, accessed October 23, 2022, https://commons.wikimedia.org/wiki/File:Wikipedia_Deaths_Jan_2022_snippet.png.
+6. "File:Wikipedia Deaths Jan 2022 snippet.png," Wikimedia Commons, accessed October 23, 2022, https://commons.wikimedia.org/wiki/File:Wikipedia_Deaths_Jan_2022_snippet.png.
 <a id=refs7 a></a>
-7.   
+7. "Deaths in January 2022," Wikipedia, accessed October 23, 2022, https://en.wikipedia.org/wiki/Deaths_in_January_2022.
 <a id=refs8 a></a>
-8.  
+8. "File:Screenshot snippet of Wikipedia Ramiz Abutalibov References.png," Wikimedia Commons, accessed October 23, 2022, https://commons.wikimedia.org/wiki/File:Screenshot_snippet_of_Wikipedia_Ramiz_Abutalibov_References.png.
 <a id=refs9 a></a>
-9.  
+9. "Ramiz Abutalibov," Wikipedia, accessed October 23, 2022, https://en.wikipedia.org/wiki/Ramiz_Abutalibov.
 
 <a id=refs a></a>
 ## References
