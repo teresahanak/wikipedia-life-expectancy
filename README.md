@@ -138,7 +138,7 @@ The link at the end of each notebook opens the next notebook.  [Return to README
 - PyLab
 - SciPy 1.7.3
 - XGBoost 1.6.1
-- <a id=ref1 a></a>.
+<a id=ref1 a></a>
 ##
 1. "Deaths in 2022," Wikipedia, accessed October 23, 2022, https://en.wikipedia.org/wiki/Deaths_in_2022.
 <a id=ref2 a></a>
