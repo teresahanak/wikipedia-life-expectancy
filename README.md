@@ -10,7 +10,7 @@
 - [Skills Demonstrated](#skills)
 - [Application and Package Versions](#versions)
 - [References](#refs)
-- [License](#license)
+- [Contributions and License](#license)
 
 <a id=intro a></a>
 ## Introduction
