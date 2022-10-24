@@ -140,10 +140,10 @@ The link at the end of each notebook opens the next notebook.  [Return to README
 - SciPy 1.7.3
 - XGBoost 1.6.1
 ##
-<a id=refs1 a></a>
-1.  
+<a id=refs1 a></a>.
+1.  "Deaths in 2022," Wikipedia, accessed October 23, 2022, https://en.wikipedia.org/wiki/Deaths_in_2022.
 <a id=refs2 a></a>
-2.  
+2.  "Lists of deaths by year," Wikipedia, accessed October 23, 2022, [https://en.wikipedia.org/wiki/Deaths_in_2022](https://en.wikipedia.org/wiki/Lists_of_deaths_by_year).
 <a id=refs3 a></a>
 3.   
 <a id=refs4 a></a>
