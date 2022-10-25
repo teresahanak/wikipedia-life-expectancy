@@ -191,6 +191,4 @@ Wikipedia. "Wikipedia." Last modified October 20, 2022, https://en.wikipedia.org
 This project serves as an end-to-end portfolio project for its author as sole contributor.
 
 ## License
-[Creative Commons Attribution-ShareAlike License 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
-
-See also [license](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/License.txt).
+ wikipedia-life-expectancy © 2022 by Teresa Hanak is licensed under CC BY-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/
