@@ -1,3 +1,4 @@
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # wikipedia-life-expectancy
 ### An End-to-end Supervised Machine Learning Project
 
@@ -190,6 +191,8 @@ Wikipedia. "Wikipedia." Last modified October 20, 2022, https://en.wikipedia.org
 ## Contributions
 This project serves as an end-to-end portfolio project for its author as sole contributor.
 
-## License
-**Text and Dataset (all versions)**
+## Licenses
+#### Text and Data:
 wikipedia-life-expectancy © 2022 by Teresa Hanak is licensed under CC BY-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/
+#### Code:
+
