@@ -122,24 +122,24 @@ The link at the end of each notebook opens the next notebook.  [Return to README
 <a id=versions a></a>
 ## Application and Package Versions
 - [Anaconda Navigator](https://docs.anaconda.com/navigator/index.html) 2.2.0 virtual environment
-- Python 3.9.12
-- Scrapy (2.6.1)
-- PyCharm Professional 2021.1.2
-- Protego (0.2.1)  
-- Jupyter Notebook 6.4.8
-- NumPy 1.223
-- pandas 1.4.2
-- pip 21.2.4
-- SQLite 3.38.3
+- [Python](https://www.python.org/) 3.9.12
+- [Scrapy](https://scrapy.org/) (2.6.1)
+- [PyCharm](https://www.jetbrains.com/pycharm/) Professional 2021.1.2
+- [Protego](https://github.com/scrapy/protego) (0.2.1)  
+- [Jupyter Notebook](https://jupyter.org/) 6.4.8
+- [NumPy](https://numpy.org/) 1.223
+- [pandas](https://pandas.pydata.org/) 1.4.2
+- [pip](https://pypi.org/project/pip/) 21.2.4
+- [SQLite](https://www.sqlite.org/index.html) 3.38.3
 - [nb_black](https://pypi.org/project/nb-black/)
 - [chime 0.5.3](https://pypi.org/project/chime/)
-- Matplotlib 3.5.1
-- scikit-learn 1.0.2
-- seaborn 0.11.2
-- statsmodels 0.13.2
-- PyLab
-- SciPy 1.7.3
-- XGBoost 1.6.1
+- [Matplotlib](https://matplotlib.org/) 3.5.1
+- [scikit-learn](https://scikit-learn.org/stable/) 1.0.2
+- [seaborn](https://seaborn.pydata.org/) 0.11.2
+- [statsmodels](https://www.statsmodels.org/stable/index.html) 0.13.2
+- [PyLab](https://scipy.github.io/old-wiki/pages/PyLab)
+- [SciPy](https://scipy.org/) 1.7.3
+- [XGBoost](https://xgboost.readthedocs.io/en/stable/) 1.6.1
 <a id=ref1 a></a>
 ##
 1. "Deaths in 2022," Wikipedia, last modified October 24, 2022, https://en.wikipedia.org/wiki/Deaths_in_2022.
