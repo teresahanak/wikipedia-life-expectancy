@@ -121,7 +121,7 @@ The link at the end of each notebook opens the next notebook.  [Return to README
 - User interface for predictions
 <a id=versions a></a>
 ## Application and Package Versions
-- Anaconda Navigator 2.2.0 virtual environment
+- [Anaconda Navigator](https://docs.anaconda.com/navigator/index.html) 2.2.0 virtual environment
 - Python 3.9.12
 - Scrapy (2.6.1)
 - PyCharm Professional 2021.1.2
