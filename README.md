@@ -193,3 +193,5 @@ This project serves as an end-to-end portfolio project for its author as sole co
 
 ## License
 [Creative Commons Attribution-ShareAlike License 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+
+See also [license](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/License.txt).
