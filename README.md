@@ -1,4 +1,3 @@
- [![License: cc-by-sa-3.0](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # wikipedia-life-expectancy
 ### An End-to-end Supervised Machine Learning Project
 
