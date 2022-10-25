@@ -196,5 +196,5 @@ This project serves as an end-to-end portfolio project for its author, as sole c
 wikipedia-life-expectancy (Text and Data) © 2022 by Teresa Hanak is licensed under CC BY-SA 4.0 
 
 #### Code:
- wikipedia-life-expectancy (Code) released under MIT License
+ wikipedia-life-expectancy (Code) released under MIT License  
 Copyright 2022 Teresa Hanak
