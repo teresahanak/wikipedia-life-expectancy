@@ -189,7 +189,7 @@ Wikipedia. "Wikipedia." Last modified October 20, 2022, https://en.wikipedia.org
 
 <a id=license a></a>
 ## Contributions
-This project serves as an end-to-end portfolio project for its author as sole contributor.
+This project serves as an end-to-end portfolio project for its author, as sole contributor.
 
 ## [Licenses]()
 #### Text and Data:
