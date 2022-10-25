@@ -188,7 +188,8 @@ Wikipedia. "Wikipedia." Last modified October 20, 2022, https://en.wikipedia.org
 
 
 <a id=license a></a>
-## Contributions and License
+## Contributions
 This project serves as an end-to-end portfolio project for its author as sole contributor.
 
+## License
 [Creative Commons Attribution-ShareAlike License 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
