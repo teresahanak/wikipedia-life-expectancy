@@ -171,6 +171,8 @@ Wikimedia Commons. "File:Wikipedia Deaths Jan 2022 snippet.png." Last modified O
 
 Wikipedia. "Deaths in 2022." Last modified October 24, 2022, https://en.wikipedia.org/wiki/Deaths_in_2022. 
 
+Wikipedia. "Deaths in January 1994" through "Deaths in June 2022" (through June 9, 2022) and each listed individual's page. Accessed (scraped) June 9-10, 2022, https://en.wikipedia.org/wiki/Deaths_in_January_1994.
+
 Wikipedia. "Deaths in January 2022."  Last modified October 24, 2022, https://en.wikipedia.org/wiki/Deaths_in_January_2022.
 
 Wikipedia. "Lists of deaths by year." Last modified October 1, 2022, https://en.wikipedia.org/wiki/Lists_of_deaths_by_year.
@@ -179,7 +181,7 @@ Wikipedia. "Ramiz Abutalibov."  Last modified May 14, 2022, https://en.wikipedia
 
 Wikipedia. "Wikipedia." Last modified October 20, 2022, https://en.wikipedia.org/wiki/Wikipedia.
 
-Wikipedia. "Deaths in January 1994" through "Deaths in June 2022" (through June 9, 2022) and each listed individual's page. Accessed (scraped) June 9-10, 2022, https://en.wikipedia.org/wiki/Deaths_in_January_1994.
+
 
 <a id=license a></a>
 ## Contributions and License
