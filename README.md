@@ -11,7 +11,8 @@
 - [Skills Demonstrated](#skills)
 - [Application and Package Versions](#versions)
 - [References](#refs)
-- [Contributions and License](#license)
+- [Contributions](#contributions)
+- [Licenses](#license)
 
 <a id=intro a></a>
 ## Introduction
@@ -182,10 +183,10 @@ Wikipedia. "Wikipedia." Last modified October 20, 2022, https://en.wikipedia.org
 
 
 
-<a id=license a></a>
+<a id=contributions a></a>
 ## Contributions
 This project serves as an end-to-end portfolio project for its author, as sole contributor.
-
+<a id=license a></a>
 ## [Licenses](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/Licenses.txt)
 #### Text and Data:
 wikipedia-life-expectancy (Text and Data) © 2022 by Teresa Hanak is licensed under CC BY-SA 4.0 
