@@ -189,7 +189,7 @@ Wikipedia. "Ramiz Abutalibov."  Last modified May 14, 2022. https://en.wikipedia
 Wikipedia. "Wikipedia." Last modified October 20, 2022. https://en.wikipedia.org/wiki/Wikipedia.
 
 ## Other Credits
-A majority of the plots in Notebooks 10, 12, and 13 are adapted from examples learned in [The University of Texas McCombs School of Business Post Graduate Program in Data Science and Business Analytics in partnership with Great Learning](https://www.mygreatlearning.com/ut-austin-data-science-business-analytics-program?&utm_source=google&utm_medium=search&utm_campaign=BA_Int_Search_Brand_Broad_US&adgroup_id=124131117771&campaign_id=12451747881&Keyword=ut%20austin%20data%20science&placement=&gclid=Cj0KCQjwteOaBhDuARIsADBqRegPrwBrU9zW94FIAU9pNhR1pKb_iM1R52yPuee33gKlc6Aa4O-YzmYaAhoKEALw_wcB).
+A majority of the plots (Notebooks 10, 12, and 13) are adapted from examples learned in [The University of Texas McCombs School of Business Post Graduate Program in Data Science and Business Analytics in partnership with Great Learning](https://www.mygreatlearning.com/ut-austin-data-science-business-analytics-program?&utm_source=google&utm_medium=search&utm_campaign=BA_Int_Search_Brand_Broad_US&adgroup_id=124131117771&campaign_id=12451747881&Keyword=ut%20austin%20data%20science&placement=&gclid=Cj0KCQjwteOaBhDuARIsADBqRegPrwBrU9zW94FIAU9pNhR1pKb_iM1R52yPuee33gKlc6Aa4O-YzmYaAhoKEALw_wcB).
 
 <a id=contributions a></a>
 ## Contributions
