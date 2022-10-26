@@ -147,11 +147,13 @@ The link at the end of each notebook opens the next notebook.  [Return to README
 - [PyCharm](https://www.jetbrains.com/pycharm/) Professional 2021.1.2
 - [PyLab](https://scipy.github.io/old-wiki/pages/PyLab)
 - [Python](https://www.python.org/) 3.9.12
+- [ReviewNB](https://www.reviewnb.com/)
 - [scikit-learn](https://scikit-learn.org/stable/) 1.0.2
 - [SciPy](https://scipy.org/) 1.7.3
 - [Scrapy](https://scrapy.org/) (2.6.1)
 - [seaborn](https://seaborn.pydata.org/) 0.11.2
 - [SQLite](https://www.sqlite.org/index.html) 3.38.3
+- [SQLite Viewer](https://inloop.github.io/sqlite-viewer/)
 - [statsmodels](https://www.statsmodels.org/stable/index.html) 0.13.2
 - [XGBoost](https://xgboost.readthedocs.io/en/stable/) 1.6.1
 
