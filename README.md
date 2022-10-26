@@ -196,7 +196,7 @@ A majority of the plots (Notebooks 10, 12, and 13, and Project Overview images a
 This project serves as an end-to-end portfolio project for its author, as sole contributor.
 <a id=license a></a>
 ## [Licenses](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/Licenses.txt)
-#### Text and Wikipedia Data (excludes scraped and downloaded data for nationality/country/demonyms--see original sources):
+#### Text and Wikipedia Data (excludes images and scraped and downloaded data for nationality/country/demonyms--see original sources):
 wikipedia-life-expectancy (Text and Data) © 2022 by Teresa Hanak is licensed under CC BY-SA 4.0 
 
 #### Code (excludes data and plots):
