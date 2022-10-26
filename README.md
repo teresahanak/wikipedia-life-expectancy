@@ -142,9 +142,10 @@ The link at the end of each notebook opens the next notebook.  [Return to README
 - [XGBoost](https://xgboost.readthedocs.io/en/stable/) 1.6.1
 <a id=ref1 a></a>
 ##
-1. "Deaths in 2022," Wikipedia, last modified October 24, 2022, https://en.wikipedia.org/wiki/Deaths_in_2022.
+1. "Deaths in 2022," Wikipedia, last modified October 24, 2022, https://en.wikipedia.org/wiki/Deaths_in_2022.  
+
 <a id=ref2 a></a>
-2. "Lists of deaths by year," Wikipedia, last modified October 1, 2022, https://en.wikipedia.org/wiki/Lists_of_deaths_by_year.
+2. "Lists of deaths by year," Wikipedia, last modified October 1, 2022, https://en.wikipedia.org/wiki/Lists_of_deaths_by_year.  
 <a id=ref3 a></a>
 3. "Wikipedia," Wikipedia, last modified October 20, 2022, https://en.wikipedia.org/wiki/Wikipedia.
 <a id=ref4 a></a>
