@@ -162,30 +162,31 @@ The link at the end of each notebook opens the next notebook.  [Return to README
 ## References
 Andrade, Frank. "Python Scrapy for Beginners — A Complete Web Scraping Project [Web Scraping with Python]." 2021 YouTube video, 34:17. Posted by Frank Andrade. November 9, 2021. https://www.youtube.com/watch?v=ooNngLWhTC4.
 
-Andrade, Frank. "Web Scraping in Python BeautifulSoup, Selenium & Scrapy 2022 (Scrapy modules)." 2022 Udemy course, 98 minutes. Posted by Frank Andrade. Last updated June, 2022. https://www.udemy.com/course/web-scraping-course-in-python-bs4-selenium-and-scrapy/.
+Andrade, Frank. "Web Scraping in Python BeautifulSoup, Selenium & Scrapy 2022 (Scrapy modules)." 2022 Udemy course, 98 minutes. Posted by Frank Andrade. Last modified June, 2022. https://www.udemy.com/course/web-scraping-course-in-python-bs4-selenium-and-scrapy/.
 
-Huizendveld, Marjin. *List of nationalities*. GitHub, accessed June 17, 2022. https://gist.github.com/marijn/274449#file-nationalities-txt.
+Huizendveld, Marjin. *List of nationalities*. GitHub. Accessed June 17, 2022. https://gist.github.com/marijn/274449#file-nationalities-txt.
+
+Kiprop, Victor. "A List of Nationalities." WorldAtlas. Last modified May 14, 2018. https://www.worldatlas.com/articles/what-is-a-demonym-a-list-of-nationalities.html.
 
 Krishna and Ethan. "How to download a Jupyter Notebook from GitHub?" *Stack Exchange, Data Science* (blog).  Last modified 21 September 2021. 
 https://datascience.stackexchange.com/questions/35555/how-to-download-a-jupyter-notebook-from-GitHub.
 
-Wikimedia Commons. "File:Screenshot snippet of Wikipedia Ramiz Abutalibov References.png." Last modified October 23, 2022, https://commons.wikimedia.org/wiki/File:Screenshot_snippet_of_Wikipedia_Ramiz_Abutalibov_References.png.
+Wikimedia Commons. "File:Screenshot snippet of Wikipedia Ramiz Abutalibov References.png." Last modified October 23, 2022. https://commons.wikimedia.org/wiki/File:Screenshot_snippet_of_Wikipedia_Ramiz_Abutalibov_References.png.
 
-Wikimedia Commons. "File:Wikipedia Deaths Jan 2022 snippet.png." Last modified October 23,2022, https://commons.wikimedia.org/wiki/File:Wikipedia_Deaths_Jan_2022_snippet.png.
+Wikimedia Commons. "File:Wikipedia Deaths Jan 2022 snippet.png." Last modified October 23,2022. https://commons.wikimedia.org/wiki/File:Wikipedia_Deaths_Jan_2022_snippet.png.
 
-Wikipedia. "Deaths in 2022." Last modified October 24, 2022, https://en.wikipedia.org/wiki/Deaths_in_2022. 
+Wikipedia. "Deaths in 2022." Last modified October 24, 2022. https://en.wikipedia.org/wiki/Deaths_in_2022. 
 
 Wikipedia. "Deaths in January 1994" through "Deaths in June 2022" (through June 9, 2022) and each listed individual's page. Accessed (scraped) June 9-10, 2022, https://en.wikipedia.org/wiki/Deaths_in_January_1994.
 
-Wikipedia. "Deaths in January 2022."  Last modified October 24, 2022, https://en.wikipedia.org/wiki/Deaths_in_January_2022.
+Wikipedia. "Deaths in January 2022."  Last modified October 24, 2022. https://en.wikipedia.org/wiki/Deaths_in_January_2022.
 
-Wikipedia. "Lists of deaths by year." Last modified October 1, 2022, https://en.wikipedia.org/wiki/Lists_of_deaths_by_year.
+Wikipedia. "Lists of deaths by year." Last modified October 1, 2022. https://en.wikipedia.org/wiki/Lists_of_deaths_by_year.
 
-Wikipedia. "Ramiz Abutalibov."  Last modified May 14, 2022, https://en.wikipedia.org/wiki/Ramiz_Abutalibov.
+Wikipedia. "Ramiz Abutalibov."  Last modified May 14, 2022. https://en.wikipedia.org/wiki/Ramiz_Abutalibov.
 
-Wikipedia. "Wikipedia." Last modified October 20, 2022, https://en.wikipedia.org/wiki/Wikipedia.
+Wikipedia. "Wikipedia." Last modified October 20, 2022. https://en.wikipedia.org/wiki/Wikipedia.
 
-WorldAtlas. "A List of Nationalities." Accessed (scraped) June 17, 2022, https://www.worldatlas.com/articles/what-is-a-demonym-a-list-of-nationalities.html.
 
 
 <a id=contributions a></a>
