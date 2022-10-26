@@ -164,6 +164,8 @@ Andrade, Frank. "Python Scrapy for Beginners — A Complete Web Scraping Project
 
 Andrade, Frank. "Web Scraping in Python BeautifulSoup, Selenium & Scrapy 2022 (Scrapy modules)." 2022 Udemy course, 98 minutes. Posted by Frank Andrade. Last updated June, 2022. https://www.udemy.com/course/web-scraping-course-in-python-bs4-selenium-and-scrapy/.
 
+Huizendveld, Marjin. *List of nationalities*. GitHub, accessed June 17, 2022. https://gist.github.com/marijn/274449#file-nationalities-txt.
+
 Krishna and Ethan. "How to download a Jupyter Notebook from GitHub?" *Stack Exchange, Data Science* (blog).  Last modified 21 September 2021. 
 https://datascience.stackexchange.com/questions/35555/how-to-download-a-jupyter-notebook-from-GitHub.
 
@@ -183,6 +185,7 @@ Wikipedia. "Ramiz Abutalibov."  Last modified May 14, 2022, https://en.wikipedia
 
 Wikipedia. "Wikipedia." Last modified October 20, 2022, https://en.wikipedia.org/wiki/Wikipedia.
 
+WorldAtlas. "A List of Nationalities." Accessed (scraped) June 17, 2022, https://www.worldatlas.com/articles/what-is-a-demonym-a-list-of-nationalities.html.
 
 
 <a id=contributions a></a>
