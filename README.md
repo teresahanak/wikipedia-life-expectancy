@@ -1,4 +1,4 @@
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)[![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=teresahanak&theme=blue-green)](https://github-readme-stats.vercel.app/api/top-langs/?username=teresahanak&theme=blue-green)
 # wikipedia-life-expectancy
 ### An End-to-end Supervised Machine Learning Project
 
