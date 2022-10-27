@@ -1,3 +1,6 @@
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=teresahanak&show_icons=true)  
+![Profile View Counter](https://komarev.com/ghpvc/?username=teresahanak) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/teresahanak/chunk-drawer) ![GitHub contributors](https://img.shields.io/github/contributors/teresahanak/chunk-drawer) ![GitHub language count](https://img.shields.io/github/languages/count/teresahanak/chunk-drawer) ![GitHub top language](https://img.shields.io/github/languages/top/teresahanak/chunk-drawer) ![GitHub last commit](https://img.shields.io/github/last-commit/teresahanak/chunk-drawer)
+
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # wikipedia-life-expectancy
 
