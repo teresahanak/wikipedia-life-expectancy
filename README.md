@@ -70,9 +70,9 @@ Web scraping steps are in Notebook 1, including details of the PyCharm project f
 
 **Observations** appear throughout each notebook, documenting immediate context.  Exploratory Data Analysis, Linear Regression, and Modeling for Regression (Notebooks 10, 12, and 13) have additional **Summary**, **Insights**, or **Conclusion** sections at the end of their main content.
 
-The link at the end of each notebook opens the next notebook.  [Return to README](https://github.com/teresahanak/wikipedia-life-expectancy#explore-the-project) links are available at the top and bottom of each notebook, to return to these instructions.  
+The link at the end of each notebook opens the next notebook.  [Return to README](https://github.com/teresahanak/wikipedia-life-expectancy#explore-the-project) links are available at the top and bottom of each notebook, to return to these instructions.
 
-[References](#refs) for the entire project are on this page.  Individual notebooks and README have self-contained footnotes.
+[References](#refs) for the entire project are on this page.  Individual notebooks and README have self-contained footnotes.  Within project links point to the respective location within in the GitHub repository.
 
 <a id=insights a></a>
 ## Insights
