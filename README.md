@@ -77,7 +77,7 @@ The link at the end of each notebook opens the next notebook.  [Return to README
 <a id=insights a></a>
 ## Insights
 
-<a id=skills a></a>
+
 
 <a id=ref1 a></a>
 ##
@@ -91,6 +91,7 @@ The link at the end of each notebook opens the next notebook.  [Return to README
 8. "File:Screenshot snippet of Wikipedia Ramiz Abutalibov References.png," Wikimedia Commons, last modified October 23, 2022, https://commons.wikimedia.org/wiki/File:Screenshot_snippet_of_Wikipedia_Ramiz_Abutalibov_References.png.
 9. "Ramiz Abutalibov," Wikipedia, last modified May 14, 2022, 2022, https://en.wikipedia.org/wiki/Ramiz_Abutalibov.
 
+<a id=skills a></a>
 ## Skills Demonstrated
 - Virtual Environments
   - Anaconda Navigator
