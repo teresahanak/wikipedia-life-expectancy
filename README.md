@@ -99,6 +99,7 @@ The link at the end of the main content of each notebook opens the next notebook
 - Virtual Environments
   - Anaconda Navigator
 - Coding and Documentation
+    - Python
     - PyCharm
     - Jupyter Notebook
     - Markdown
