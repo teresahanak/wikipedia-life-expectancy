@@ -180,6 +180,8 @@ Kiprop, Victor. "A List of Nationalities." WorldAtlas. Last modified May 14, 201
 Krishna and Ethan. "How to download a Jupyter Notebook from GitHub?" *Stack Exchange, Data Science* (blog).  Last modified 21 September 2021. 
 https://datascience.stackexchange.com/questions/35555/how-to-download-a-jupyter-notebook-from-GitHub.
 
+Lewinson, Eryk. "Coding a custom imputer in scikit-learn." Towards Data Science. May 21, 2020. https://towardsdatascience.com/coding-a-custom-imputer-in-scikit-learn-31bd68e541de.
+
 Nations Online Project. "Map of the World's Continents and Regions."  Accessed June 29, 2022, https://www.nationsonline.org/oneworld/small_continents_map.htm.
 
 Wikimedia Commons. "File:Screenshot snippet of Wikipedia Ramiz Abutalibov References.png." Last modified October 23, 2022. https://commons.wikimedia.org/wiki/File:Screenshot_snippet_of_Wikipedia_Ramiz_Abutalibov_References.png.
