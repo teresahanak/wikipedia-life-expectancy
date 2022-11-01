@@ -114,7 +114,7 @@ The link at the end of the main content of each notebook opens the next notebook
     - SQLite
     - [SQLite Viewer](https://inloop.github.io/sqlite-viewer/) (tool used without reproduction)
 - Data Cleaning
-    - Python built-in string methods
+    - Python Built-in String Methods
     - regular expressions
     - pandas
 - Exploratory Data Analysis
@@ -123,15 +123,15 @@ The link at the end of the main content of each notebook opens the next notebook
     - Matplotlib
     - Seaborn
 - Data Preprocessing
-    - Feature extraction
+    - Feature Extraction
     - Transformations
 - Linear Regression Modeling--Interpretation Emphasis
-    - Assumptions of linear regression
-    - Interpretation of coefficients
+    - Assumptions
+    - Coefficient Interpretation
 - Regressor Algorithms--Prediction Emphasis
-    - scikit-learn regressors
+    - scikit-learn Regressors
     - XGBoost
-    - Hyperparamter tuning
+    - Hyperparamter Tuning
     - Cross validation
 - Model Performance Evaluation
     - RMSE
@@ -140,8 +140,8 @@ The link at the end of the main content of each notebook opens the next notebook
     - Adjusted $R^2$
     - MAPE
 - Pipelines
-    - Custom transformers
-    - Production pipeline
+    - Custom Transformers
+    - Production Pipeline
 - User Interface for Predictions
 <a id=versions a></a>
 ## Application and Package Versions
