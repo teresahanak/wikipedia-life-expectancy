@@ -104,16 +104,16 @@ The link at the end of the main content of each notebook opens the next notebook
     - Markdown
     - HTML
     - LaTeX
-- Version control
+- Version Control
     - Git
     - GitHub
     - [ReviewNB](https://www.reviewnb.com/) (tool used without reproduction)
 - Web scraping
     - Scrapy
-- Relational database management
+- Relational Database Management
     - SQLite
     - [SQLite Viewer](https://inloop.github.io/sqlite-viewer/) (tool used without reproduction)
-- Data cleaning
+- Data Cleaning
     - Python built-in string methods
     - regular expressions
     - pandas
@@ -122,13 +122,13 @@ The link at the end of the main content of each notebook opens the next notebook
     - pandas
     - Matplotlib
     - Seaborn
-- Data preprocessing
+- Data Preprocessing
     - Feature extraction
     - Transformations
-- Linear regression modeling--interpretation emphasis
+- Linear Regression Modeling--Interpretation Emphasis
     - Assumptions of linear regression
     - Interpretation of coefficients
-- Regressor algorithms--prediction emphasis
+- Regressor Algorithms--Prediction Emphasis
     - scikit-learn regressors
     - XGBoost
     - Hyperparamter tuning
@@ -142,7 +142,7 @@ The link at the end of the main content of each notebook opens the next notebook
 - Pipelines
     - Custom transformers
     - Production pipeline
-- User interface for predictions
+- User Interface for Predictions
 <a id=versions a></a>
 ## Application and Package Versions
 - [Anaconda Navigator](https://docs.anaconda.com/navigator/index.html) 2.2.0 virtual environment
