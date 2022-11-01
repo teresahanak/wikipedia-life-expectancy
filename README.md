@@ -202,7 +202,10 @@ Wikipedia. "Wikipedia." Last modified October 20, 2022. https://en.wikipedia.org
 ## Other Credits
 The overall approach to coding in Python, analysis and modeling, and a majority of the plots (Notebooks 10, 11, 12, and 13, and Project Overview images above) are adapted from examples learned in [The University of Texas McCombs School of Business Post Graduate Program in Data Science and Business Analytics in partnership with Great Learning](https://www.mygreatlearning.com/ut-austin-data-science-business-analytics-program?&utm_source=google&utm_medium=search&utm_campaign=BA_Int_Search_Brand_Broad_US&adgroup_id=124131117771&campaign_id=12451747881&Keyword=ut%20austin%20data%20science&placement=&gclid=Cj0KCQjwteOaBhDuARIsADBqRegPrwBrU9zW94FIAU9pNhR1pKb_iM1R52yPuee33gKlc6Aa4O-YzmYaAhoKEALw_wcB).
 
-Git and GitHub implementation was acquired through Anna Skoulikari's Udemy Course, ["Git Learning Journey - Guide to Learn Git (Version Control)"](https://www.udemy.com/share/102FUK3@gXOY8-8NIGjJAqOsTNhyO2n7DZU_PXlQaXytDb055i6wsiLN0PYjXXLc5CgsBGWE/).
+Git and GitHub implementation was acquired from Anna Skoulikari, through her Udemy Course, ["Git Learning Journey - Guide to Learn Git (Version Control)"](https://www.udemy.com/share/102FUK3@gXOY8-8NIGjJAqOsTNhyO2n7DZU_PXlQaXytDb055i6wsiLN0PYjXXLc5CgsBGWE/).
+
+Web scraping with Scrapy was learned from Frank Andrade, through his Udemy Course, [Web Scraping in Python BeautifulSoup, Selenium & Scrapy 2022]
+(https://www.udemy.com/share/1050RC3@OPQBrWla1wb5dcRcMS85QPUjfv5L0Oh_D2zoekwqDPKrFKWCzRD1NlqRzdEWUzNo/).
 
 
 
