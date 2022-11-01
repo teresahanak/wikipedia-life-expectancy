@@ -204,8 +204,7 @@ The overall approach to coding in Python, analysis and modeling, and a majority 
 
 Git and GitHub implementation were acquired from Anna Skoulikari, through her Udemy Course, ["Git Learning Journey - Guide to Learn Git (Version Control)"](https://www.udemy.com/share/102FUK3@gXOY8-8NIGjJAqOsTNhyO2n7DZU_PXlQaXytDb055i6wsiLN0PYjXXLc5CgsBGWE/).
 
-Web scraping with Scrapy was learned from Frank Andrade, through his Udemy Course, [Web Scraping in Python BeautifulSoup, Selenium & Scrapy 2022]
-(https://www.udemy.com/share/1050RC3@OPQBrWla1wb5dcRcMS85QPUjfv5L0Oh_D2zoekwqDPKrFKWCzRD1NlqRzdEWUzNo/).
+Web scraping with Scrapy was learned from Frank Andrade, through his Udemy Course, [Web Scraping in Python BeautifulSoup, Selenium & Scrapy 2022](https://www.udemy.com/share/1050RC3@OPQBrWla1wb5dcRcMS85QPUjfv5L0Oh_D2zoekwqDPKrFKWCzRD1NlqRzdEWUzNo/).
 
 
 
