@@ -134,11 +134,11 @@ The link at the end of the main content of each notebook opens the next notebook
     - Hyperparamter tuning
     - Cross validation
 - Model Performance Evaluation
-    - RMSE
-    - MAE
+    - $RMSE$
+    - $MAE$
     - $R^2$
-    - Adjusted $R^2$
-    - MAPE
+    - $Adjusted R^2$
+    - $MAPE$
 - Pipelines
     - Custom transformers
     - Production pipeline
