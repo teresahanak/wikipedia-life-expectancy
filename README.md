@@ -194,6 +194,8 @@ Wikipedia. "Lists of deaths by year." Last modified October 1, 2022. https://en.
 
 Wikipedia. "Ramiz Abutalibov."  Last modified May 14, 2022. https://en.wikipedia.org/wiki/Ramiz_Abutalibov.
 
+Wikipedia. "Sudhakar Chaturvedi." Last modified October, 24, 2022.  https://en.wikipedia.org/wiki/Sudhakar_Chaturvedi.
+
 Wikipedia. "Wikipedia." Last modified October 20, 2022. https://en.wikipedia.org/wiki/Wikipedia.
 
 <a id=credit a></a>
