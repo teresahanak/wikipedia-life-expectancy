@@ -98,9 +98,12 @@ The link at the end of the main content of each notebook opens the next notebook
 ## Skills Demonstrated
 - Virtual Environments
   - Anaconda Navigator
-- Coding in Python
+- Coding and Documentation
     - PyCharm
-    - Jupyter Notebooks
+    - Jupyter Notebook
+    - Markdown
+    - HTML
+    - LaTeX
 - Version control
     - Git
     - GitHub
