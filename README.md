@@ -136,8 +136,8 @@ The link at the end of the main content of each notebook opens the next notebook
 - Model Performance Evaluation
     - RMSE
     - MAE
-    - R<sup>2</sup>
-    - Adjusted R<sup>2</sup>
+    - $R^2$
+    - Adjusted $R^2$
     - MAPE
 - Pipelines
     - Custom transformers
