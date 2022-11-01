@@ -361,7 +361,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 3,81.0,0,0,0,0,0,0,1,0,0,0,1,6561.0,0.3333333333333333,26,676,Europe,No Prior Region,sports
 10,87.0,0,0,0,0,0,0,1,0,0,0,1,7569.0,0.1,24,576,Russian Federation,No Prior Region,sports
 5,88.0,0,0,0,0,0,0,1,0,0,0,1,7744.0,0.2,19,361,Oceania,Mid-Cent America/Caribbean,sports
-8,38.0,0,0,0,0,0,1,0,0,0,0,2,1444.0,0.125,27,729,North America,Europe,two
+8,38.0,0,0,0,0,0,1,0,0,0,0,1,1444.0,0.125,27,729,North America,Europe,arts
 8,67.0,0,0,0,0,0,0,1,0,0,0,1,4489.0,0.125,18,324,Middle East,No Prior Region,sports
 4,78.0,0,0,0,0,0,0,1,0,0,0,1,6084.0,0.25,25,625,North America,No Prior Region,sports
 4,68.0,0,0,0,0,0,1,0,0,0,0,1,4624.0,0.25,2,4,Europe,No Prior Region,arts
@@ -454,7 +454,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 12,90.0,0,0,0,0,0,1,0,0,0,0,1,8100.0,0.08333333333333333,23,529,North America,No Prior Region,arts
 7,82.0,0,0,0,0,0,1,0,0,0,0,1,6724.0,0.14285714285714285,5,25,North America,No Prior Region,arts
 5,89.0,0,0,0,1,0,0,0,0,1,0,2,7921.0,0.2,16,256,North America,No Prior Region,two
-10,51.0,0,0,0,0,0,0,0,1,0,0,2,2601.0,0.1,8,64,North America,No Prior Region,two
+10,51.0,0,0,0,0,0,0,0,1,0,0,1,2601.0,0.1,8,64,North America,No Prior Region,law_enf_military_operator
 24,68.0,0,0,0,1,1,0,0,0,0,0,2,4624.0,0.041666666666666664,16,256,Asia,No Prior Region,two
 6,91.0,0,0,0,0,0,1,0,0,0,0,1,8281.0,0.16666666666666666,16,256,North America,No Prior Region,arts
 31,68.0,0,0,0,0,0,1,1,0,0,0,2,4624.0,0.03225806451612903,0,0,North America,No Prior Region,two
@@ -964,7 +964,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 3,61.0,0,0,0,0,0,1,0,0,0,0,1,3721.0,0.3333333333333333,25,625,Europe,No Prior Region,arts
 4,93.0,0,0,0,1,0,0,1,0,0,0,2,8649.0,0.25,22,484,Europe,No Prior Region,two
 15,68.0,0,0,0,0,0,0,0,0,0,1,1,4624.0,0.06666666666666667,17,289,Europe,No Prior Region,crime
-3,99.0,0,0,0,0,0,0,0,1,0,0,2,9801.0,0.3333333333333333,22,484,Europe,No Prior Region,two
+3,99.0,0,0,0,0,0,0,0,1,0,0,1,9801.0,0.3333333333333333,22,484,Europe,No Prior Region,law_enf_military_operator
 9,80.0,0,0,0,0,0,1,0,0,0,0,1,6400.0,0.1111111111111111,18,324,Asia,No Prior Region,arts
 4,84.0,0,0,0,0,0,1,0,0,0,0,1,7056.0,0.25,3,9,Europe,No Prior Region,arts
 7,71.0,0,0,0,0,0,1,0,0,0,0,1,5041.0,0.14285714285714285,27,729,Russian Federation,No Prior Region,arts
@@ -1229,7 +1229,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 85,90.0,0,0,0,0,0,1,0,1,0,0,2,8100.0,0.011764705882352941,3,9,North America,No Prior Region,two
 5,85.0,0,0,0,1,0,0,0,0,0,0,1,7225.0,0.2,10,100,Europe,No Prior Region,academia_humanities
 5,82.0,0,0,0,0,0,0,1,0,0,0,1,6724.0,0.2,22,484,North America,No Prior Region,sports
-10,86.0,0,0,0,0,0,0,0,1,0,0,2,7396.0,0.1,12,144,North America,No Prior Region,two
+10,86.0,0,0,0,0,0,0,0,1,0,0,1,7396.0,0.1,12,144,North America,No Prior Region,law_enf_military_operator
 5,67.0,0,0,0,0,0,1,0,0,0,0,1,4489.0,0.2,0,0,North America,No Prior Region,arts
 14,84.0,0,0,0,0,0,1,0,0,0,0,1,7056.0,0.07142857142857142,11,121,Africa,No Prior Region,arts
 11,86.0,0,0,0,1,0,0,0,0,0,0,1,7396.0,0.09090909090909091,26,676,Europe,No Prior Region,academia_humanities
@@ -2049,7 +2049,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 9,66.0,0,0,0,0,0,0,1,0,0,0,1,4356.0,0.1111111111111111,27,729,South America,No Prior Region,sports
 6,85.0,0,0,0,0,0,1,0,0,0,0,1,7225.0,0.16666666666666666,20,400,Africa,No Prior Region,arts
 3,73.0,0,0,0,0,0,0,1,0,0,0,1,5329.0,0.3333333333333333,22,484,Europe,No Prior Region,sports
-36,67.0,0,0,1,0,0,0,0,0,0,0,2,4489.0,0.027777777777777776,21,441,Europe,No Prior Region,two
+36,67.0,0,0,1,0,0,0,0,0,0,0,1,4489.0,0.027777777777777776,21,441,Europe,No Prior Region,spiritual
 5,81.0,0,0,0,0,0,1,0,0,0,0,1,6561.0,0.2,10,100,North America,No Prior Region,arts
 5,66.0,0,0,0,0,0,0,0,0,1,0,1,4356.0,0.2,13,169,Middle East,No Prior Region,politics_govt_law
 3,90.0,0,0,0,0,0,0,1,0,0,0,1,8100.0,0.3333333333333333,26,676,Europe,No Prior Region,sports
@@ -2557,7 +2557,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 11,75.0,0,0,0,0,0,1,0,0,0,0,1,5625.0,0.09090909090909091,26,676,Middle East,No Prior Region,arts
 5,89.0,0,0,1,0,0,0,0,0,0,0,1,7921.0,0.2,22,484,Europe,No Prior Region,spiritual
 6,75.0,0,0,0,0,0,1,0,0,0,0,1,5625.0,0.16666666666666666,26,676,Europe,No Prior Region,arts
-4,88.0,0,0,0,1,0,0,0,0,0,0,2,7744.0,0.25,19,361,South East Asia,No Prior Region,two
+4,88.0,0,0,0,1,0,0,0,0,0,0,1,7744.0,0.25,19,361,South East Asia,No Prior Region,academia_humanities
 10,68.0,0,0,0,0,0,1,0,0,0,0,1,4624.0,0.1,26,676,North America,No Prior Region,arts
 3,82.0,0,0,0,0,0,1,0,0,0,0,1,6724.0,0.3333333333333333,19,361,Europe,No Prior Region,arts
 78,74.0,0,0,1,0,0,0,0,1,0,0,2,5476.0,0.01282051282051282,16,256,Middle East,No Prior Region,two
@@ -2589,7 +2589,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 23,71.0,0,0,0,0,0,1,0,0,1,0,2,5041.0,0.043478260869565216,4,16,Europe,No Prior Region,two
 5,72.0,1,0,0,1,0,0,0,0,0,0,2,5184.0,0.2,26,676,Europe,No Prior Region,two
 6,87.0,0,0,0,0,0,0,0,0,0,1,1,7569.0,0.16666666666666666,26,676,North America,No Prior Region,crime
-7,91.0,0,0,0,1,0,0,0,0,0,0,2,8281.0,0.14285714285714285,18,324,Europe,No Prior Region,two
+7,91.0,0,0,0,1,0,0,0,0,0,0,1,8281.0,0.14285714285714285,18,324,Europe,No Prior Region,academia_humanities
 4,32.0,0,0,0,0,0,0,1,0,0,0,1,1024.0,0.25,26,676,North America,No Prior Region,sports
 9,50.0,0,0,0,0,0,1,0,0,0,0,1,2500.0,0.1111111111111111,25,625,Europe,No Prior Region,arts
 6,42.0,0,0,0,1,0,0,0,0,0,0,1,1764.0,0.16666666666666666,21,441,Europe,No Prior Region,academia_humanities
@@ -2832,7 +2832,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 4,52.0,0,0,0,0,0,1,0,0,0,0,1,2704.0,0.25,15,225,North America,No Prior Region,arts
 4,75.0,0,0,0,1,0,0,0,0,0,0,1,5625.0,0.25,5,25,Europe,No Prior Region,academia_humanities
 7,77.0,1,0,0,0,0,0,0,0,0,0,1,5929.0,0.14285714285714285,23,529,Europe,No Prior Region,sciences
-6,93.0,0,0,0,0,0,1,0,0,0,0,2,8649.0,0.16666666666666666,27,729,Europe,Europe,two
+6,93.0,0,0,0,0,0,1,0,0,0,0,1,8649.0,0.16666666666666666,27,729,Europe,Europe,arts
 8,68.0,0,0,0,0,0,0,0,0,1,0,1,4624.0,0.125,23,529,Europe,No Prior Region,politics_govt_law
 28,77.0,1,0,0,0,0,0,0,0,1,0,2,5929.0,0.03571428571428571,21,441,Russian Federation,Europe,two
 6,55.0,0,0,0,0,0,1,0,0,0,0,1,3025.0,0.16666666666666666,19,361,Europe,No Prior Region,arts
@@ -2917,7 +2917,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 4,74.0,0,0,0,0,0,0,1,0,0,0,1,5476.0,0.25,24,576,Europe,No Prior Region,sports
 4,57.0,0,0,0,0,0,1,0,0,0,0,1,3249.0,0.25,1,1,North America,No Prior Region,arts
 35,83.0,0,0,0,0,0,0,0,0,1,0,1,6889.0,0.02857142857142857,26,676,North America,No Prior Region,politics_govt_law
-13,72.0,0,0,1,0,0,0,0,0,0,0,2,5184.0,0.07692307692307693,23,529,Oceania,Oceania,two
+13,72.0,0,0,1,0,0,0,0,0,0,0,1,5184.0,0.07692307692307693,23,529,Oceania,Oceania,spiritual
 3,94.0,0,0,0,0,0,1,0,0,1,0,2,8836.0,0.3333333333333333,26,676,Europe,No Prior Region,two
 7,74.0,0,0,0,0,0,1,0,0,0,0,1,5476.0,0.14285714285714285,9,81,Africa,No Prior Region,arts
 5,93.0,1,0,0,0,0,0,0,0,0,0,1,8649.0,0.2,23,529,North America,No Prior Region,sciences
@@ -3541,7 +3541,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 9,66.0,0,0,0,0,0,0,0,0,1,0,1,4356.0,0.1111111111111111,9,81,Africa,No Prior Region,politics_govt_law
 7,71.0,0,0,0,0,0,1,0,0,0,0,1,5041.0,0.14285714285714285,23,529,Europe,No Prior Region,arts
 17,81.0,0,0,0,0,0,0,0,0,1,0,1,6561.0,0.058823529411764705,24,576,South East Asia,No Prior Region,politics_govt_law
-3,95.0,0,0,0,0,0,1,0,0,0,0,2,9025.0,0.3333333333333333,26,676,Europe,No Prior Region,two
+3,95.0,0,0,0,0,0,1,0,0,0,0,1,9025.0,0.3333333333333333,26,676,Europe,No Prior Region,arts
 9,86.0,0,0,0,0,0,0,0,0,1,0,1,7396.0,0.1111111111111111,26,676,Europe,No Prior Region,politics_govt_law
 134,82.0,0,0,0,0,0,1,0,0,0,0,1,6724.0,0.007462686567164179,26,676,Europe,No Prior Region,arts
 9,93.0,0,0,0,0,0,1,0,0,0,0,1,8649.0,0.1111111111111111,21,441,North America,No Prior Region,arts
@@ -3966,7 +3966,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 22,82.0,0,0,0,1,0,0,0,0,0,0,1,6724.0,0.045454545454545456,27,729,North America,No Prior Region,academia_humanities
 7,75.0,0,0,0,0,0,1,0,0,1,0,2,5625.0,0.14285714285714285,20,400,North America,No Prior Region,two
 6,76.0,0,0,0,0,0,1,0,0,0,0,1,5776.0,0.16666666666666666,20,400,Europe,No Prior Region,arts
-11,88.0,0,0,0,0,0,1,0,0,0,0,2,7744.0,0.09090909090909091,26,676,North America,Europe,two
+11,88.0,0,0,0,0,0,1,0,0,0,0,1,7744.0,0.09090909090909091,26,676,North America,Europe,arts
 21,61.0,0,0,0,0,0,0,1,0,0,0,1,3721.0,0.047619047619047616,24,576,Europe,No Prior Region,sports
 8,94.0,0,0,0,0,0,0,0,0,1,0,1,8836.0,0.125,21,441,North America,No Prior Region,politics_govt_law
 3,78.0,0,0,0,0,0,0,1,0,0,0,1,6084.0,0.3333333333333333,15,225,South East Asia,No Prior Region,sports
@@ -4145,7 +4145,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 16,76.0,0,0,1,0,0,0,0,0,1,0,2,5776.0,0.0625,17,289,North America,No Prior Region,two
 9,53.0,0,0,0,0,0,0,1,0,0,0,1,2809.0,0.1111111111111111,5,25,North America,No Prior Region,sports
 3,69.0,0,0,0,0,0,0,1,0,0,0,1,4761.0,0.3333333333333333,20,400,North America,No Prior Region,sports
-9,78.0,0,0,0,0,0,1,0,0,0,0,2,6084.0,0.1111111111111111,22,484,Europe,No Prior Region,two
+9,78.0,0,0,0,0,0,1,0,0,0,0,1,6084.0,0.1111111111111111,22,484,Europe,No Prior Region,arts
 8,91.0,0,0,0,0,0,1,0,0,0,0,1,8281.0,0.125,13,169,Europe,No Prior Region,arts
 4,91.0,0,0,0,0,0,0,0,0,1,0,1,8281.0,0.25,21,441,North America,No Prior Region,politics_govt_law
 16,80.0,0,0,1,0,0,0,0,0,0,0,1,6400.0,0.0625,19,361,Europe,Europe,spiritual
@@ -4264,7 +4264,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 10,88.0,0,0,0,0,0,0,0,0,1,0,1,7744.0,0.1,20,400,Asia,No Prior Region,politics_govt_law
 11,87.0,1,0,0,1,0,0,0,0,0,0,2,7569.0,0.09090909090909091,24,576,Oceania,No Prior Region,two
 15,54.0,0,0,0,0,0,1,0,0,0,0,1,2916.0,0.06666666666666667,23,529,Oceania,No Prior Region,arts
-4,90.0,0,0,0,0,0,1,0,0,0,0,2,8100.0,0.25,21,441,South America,Europe,two
+4,90.0,0,0,0,0,0,1,0,0,0,0,1,8100.0,0.25,21,441,South America,Europe,arts
 8,84.0,1,0,0,0,0,0,0,0,0,0,1,7056.0,0.125,23,529,Oceania,No Prior Region,sciences
 3,69.0,0,0,0,0,0,0,1,0,0,0,1,4761.0,0.3333333333333333,12,144,Europe,No Prior Region,sports
 6,60.0,1,0,0,1,0,0,0,0,0,0,2,3600.0,0.16666666666666666,25,625,Asia,No Prior Region,two
@@ -4751,7 +4751,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 8,87.0,1,0,0,0,0,0,0,0,0,0,1,7569.0,0.125,22,484,North America,No Prior Region,sciences
 7,75.0,1,0,0,0,0,0,0,0,1,0,2,5625.0,0.14285714285714285,27,729,Asia,No Prior Region,two
 5,77.0,0,0,0,0,0,1,0,0,0,0,1,5929.0,0.2,11,121,North America,No Prior Region,arts
-192,84.0,0,0,0,0,0,1,0,0,0,0,2,7056.0,0.005208333333333333,17,289,Europe,No Prior Region,two
+192,84.0,0,0,0,0,0,1,0,0,0,0,1,7056.0,0.005208333333333333,17,289,Europe,No Prior Region,arts
 6,56.0,0,0,0,0,0,0,0,0,1,0,1,3136.0,0.16666666666666666,2,4,Europe,No Prior Region,politics_govt_law
 11,83.0,0,0,0,0,0,0,0,0,1,0,1,6889.0,0.09090909090909091,7,49,Europe,No Prior Region,politics_govt_law
 9,73.0,0,0,0,0,0,0,0,1,0,0,1,5329.0,0.1111111111111111,9,81,Europe,No Prior Region,law_enf_military_operator
@@ -4777,7 +4777,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 10,72.0,0,0,0,0,0,1,0,0,0,0,1,5184.0,0.1,10,100,Mid-Cent America/Caribbean,No Prior Region,arts
 3,68.0,0,0,0,0,0,0,0,0,1,0,1,4624.0,0.3333333333333333,22,484,Europe,No Prior Region,politics_govt_law
 3,92.0,0,0,0,0,0,1,0,0,0,0,1,8464.0,0.3333333333333333,11,121,North America,No Prior Region,arts
-10,93.0,0,0,0,0,0,1,0,0,0,0,2,8649.0,0.1,22,484,Europe,No Prior Region,two
+10,93.0,0,0,0,0,0,1,0,0,0,0,1,8649.0,0.1,22,484,Europe,No Prior Region,arts
 3,69.0,0,0,0,0,0,0,1,0,0,0,1,4761.0,0.3333333333333333,0,0,North America,No Prior Region,sports
 5,47.0,0,0,0,0,1,0,0,0,0,0,1,2209.0,0.2,16,256,North America,No Prior Region,business_farming
 16,56.0,0,0,0,0,0,0,0,0,1,0,1,3136.0,0.0625,26,676,South East Asia,No Prior Region,politics_govt_law
@@ -5211,7 +5211,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 9,80.0,0,0,0,0,0,0,1,0,0,0,1,6400.0,0.1111111111111111,14,196,North America,No Prior Region,sports
 23,39.0,0,0,0,0,0,1,1,0,0,0,2,1521.0,0.043478260869565216,27,729,Europe,No Prior Region,two
 10,65.0,0,0,0,0,0,0,1,0,0,0,1,4225.0,0.1,23,529,North America,No Prior Region,sports
-5,93.0,0,0,0,0,0,1,0,0,1,0,3,8649.0,0.2,20,400,North America,Europe,three_to_five
+5,93.0,0,0,0,0,0,1,0,0,1,0,2,8649.0,0.2,20,400,North America,Europe,two
 45,93.0,0,0,0,1,0,1,0,0,0,0,2,8649.0,0.022222222222222223,6,36,North America,North America,two
 15,85.0,0,0,0,1,0,1,0,0,0,0,2,7225.0,0.06666666666666667,24,576,North America,No Prior Region,two
 6,77.0,0,0,0,0,0,0,1,0,0,0,1,5929.0,0.16666666666666666,20,400,Europe,No Prior Region,sports
@@ -5280,7 +5280,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 11,83.0,0,0,0,0,0,0,0,1,0,0,1,6889.0,0.09090909090909091,9,81,Europe,No Prior Region,law_enf_military_operator
 3,85.0,0,0,0,0,0,0,0,0,1,0,1,7225.0,0.3333333333333333,19,361,North America,No Prior Region,politics_govt_law
 4,58.0,1,0,0,0,0,0,0,0,0,0,1,3364.0,0.25,3,9,Europe,No Prior Region,sciences
-47,85.0,0,0,0,1,0,1,0,0,0,0,3,7225.0,0.02127659574468085,25,625,North America,Europe,three_to_five
+47,85.0,0,0,0,1,0,1,0,0,0,0,2,7225.0,0.02127659574468085,25,625,North America,Europe,two
 21,56.0,0,0,0,0,0,1,0,0,0,0,1,3136.0,0.047619047619047616,5,25,Asia,No Prior Region,arts
 8,79.0,0,0,0,0,0,1,0,0,0,0,1,6241.0,0.125,24,576,South America,Europe,arts
 5,78.0,0,0,0,0,0,1,0,0,0,0,1,6084.0,0.2,22,484,Russian Federation,No Prior Region,arts
@@ -5435,7 +5435,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 5,93.0,0,0,0,0,0,0,0,0,1,0,1,8649.0,0.2,23,529,North America,No Prior Region,politics_govt_law
 8,105.0,0,0,0,0,0,1,0,0,0,0,1,11025.0,0.125,24,576,North America,No Prior Region,arts
 9,69.0,0,0,0,0,0,1,0,0,0,0,1,4761.0,0.1111111111111111,21,441,Africa,No Prior Region,arts
-23,46.0,0,0,0,0,0,0,0,0,1,0,2,2116.0,0.043478260869565216,27,729,Europe,No Prior Region,two
+23,46.0,0,0,0,0,0,0,0,0,1,0,1,2116.0,0.043478260869565216,27,729,Europe,No Prior Region,politics_govt_law
 4,71.0,0,0,0,0,0,1,0,0,0,0,1,5041.0,0.25,19,361,Europe,No Prior Region,arts
 23,48.0,0,0,0,0,0,1,0,0,0,0,1,2304.0,0.043478260869565216,6,36,North America,No Prior Region,arts
 3,74.0,0,0,0,0,0,1,0,0,0,0,1,5476.0,0.3333333333333333,21,441,South America,No Prior Region,arts
@@ -5458,7 +5458,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 8,28.0,0,0,0,0,0,0,1,0,0,0,1,784.0,0.125,24,576,Asia,No Prior Region,sports
 57,72.0,0,0,0,0,0,0,0,0,1,0,1,5184.0,0.017543859649122806,24,576,Europe,No Prior Region,politics_govt_law
 5,90.0,0,0,0,0,0,0,0,0,1,0,1,8100.0,0.2,26,676,North America,No Prior Region,politics_govt_law
-57,26.0,0,0,0,0,0,1,0,0,0,0,2,676.0,0.017543859649122806,27,729,North America,No Prior Region,two
+57,26.0,0,0,0,0,0,1,0,0,0,0,1,676.0,0.017543859649122806,27,729,North America,No Prior Region,arts
 5,60.0,0,0,0,0,0,0,0,0,1,0,1,3600.0,0.2,21,441,Europe,No Prior Region,politics_govt_law
 5,96.0,0,0,0,0,0,0,0,0,1,0,1,9216.0,0.2,16,256,North America,No Prior Region,politics_govt_law
 11,88.0,0,0,0,0,0,0,0,0,1,0,1,7744.0,0.09090909090909091,22,484,North America,No Prior Region,politics_govt_law
@@ -5562,7 +5562,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 16,80.0,0,0,0,1,0,0,0,0,0,0,1,6400.0,0.0625,6,36,North America,No Prior Region,academia_humanities
 10,99.0,0,0,0,0,0,0,1,0,0,0,1,9801.0,0.1,8,64,North America,No Prior Region,sports
 5,60.0,0,0,0,0,1,0,0,0,1,0,2,3600.0,0.2,24,576,Mid-Cent America/Caribbean,No Prior Region,two
-47,108.0,0,0,0,0,0,1,0,0,0,0,2,11664.0,0.02127659574468085,28,784,Europe,No Prior Region,two
+47,108.0,0,0,0,0,0,1,0,0,0,0,1,11664.0,0.02127659574468085,28,784,Europe,No Prior Region,arts
 6,88.0,0,0,0,0,0,0,0,1,1,0,2,7744.0,0.16666666666666666,19,361,Europe,No Prior Region,two
 3,73.0,0,0,0,0,0,0,1,0,0,0,1,5329.0,0.3333333333333333,2,4,North America,No Prior Region,sports
 8,87.0,0,0,0,0,0,0,0,0,1,0,1,7569.0,0.125,17,289,North America,No Prior Region,politics_govt_law
@@ -5693,7 +5693,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 3,58.0,0,0,0,0,0,0,0,0,1,0,1,3364.0,0.3333333333333333,13,169,Europe,No Prior Region,politics_govt_law
 4,89.0,0,0,0,0,0,1,0,0,0,0,1,7921.0,0.25,24,576,Europe,Europe,arts
 12,77.0,0,0,0,0,0,0,0,0,1,0,1,5929.0,0.08333333333333333,2,4,Europe,No Prior Region,politics_govt_law
-3,84.0,0,0,0,0,0,0,0,1,0,0,2,7056.0,0.3333333333333333,9,81,North America,No Prior Region,two
+3,84.0,0,0,0,0,0,0,0,1,0,0,1,7056.0,0.3333333333333333,9,81,North America,No Prior Region,law_enf_military_operator
 22,101.0,0,0,0,0,0,0,0,0,1,0,1,10201.0,0.045454545454545456,27,729,Asia,No Prior Region,politics_govt_law
 7,84.0,0,0,0,0,0,0,0,0,1,0,1,7056.0,0.14285714285714285,3,9,Oceania,No Prior Region,politics_govt_law
 87,46.0,0,0,0,0,0,1,0,0,0,0,1,2116.0,0.011494252873563218,9,81,Asia,No Prior Region,arts
@@ -5871,7 +5871,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 5,83.0,0,0,0,0,0,1,0,0,0,0,1,6889.0,0.2,4,16,North America,Europe,arts
 4,90.0,0,0,0,0,1,0,0,1,0,0,2,8100.0,0.25,16,256,Europe,No Prior Region,two
 7,71.0,0,0,0,0,0,0,1,0,0,0,1,5041.0,0.14285714285714285,25,625,Europe,No Prior Region,sports
-15,99.0,0,0,0,0,0,0,0,0,1,0,2,9801.0,0.06666666666666667,27,729,Europe,Europe,two
+15,99.0,0,0,0,0,0,0,0,0,1,0,1,9801.0,0.06666666666666667,27,729,Europe,Europe,politics_govt_law
 38,64.0,0,0,0,0,0,1,0,0,0,0,1,4096.0,0.02631578947368421,26,676,Asia,No Prior Region,arts
 28,91.0,0,0,0,0,0,1,0,0,0,0,1,8281.0,0.03571428571428571,14,196,North America,No Prior Region,arts
 4,84.0,0,0,0,0,0,1,0,0,0,0,1,7056.0,0.25,9,81,Europe,No Prior Region,arts
@@ -6814,7 +6814,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 8,69.0,0,0,0,0,0,1,0,0,0,0,1,4761.0,0.125,10,100,North America,No Prior Region,arts
 4,82.0,0,0,0,0,0,0,1,0,0,0,1,6724.0,0.25,25,625,North America,No Prior Region,sports
 7,45.0,0,0,0,0,0,0,1,0,0,0,1,2025.0,0.14285714285714285,7,49,Europe,No Prior Region,sports
-42,64.0,0,0,0,0,0,0,0,0,0,1,2,4096.0,0.023809523809523808,27,729,North America,No Prior Region,two
+42,64.0,0,0,0,0,0,0,0,0,0,1,1,4096.0,0.023809523809523808,27,729,North America,No Prior Region,crime
 44,39.0,0,0,0,0,0,1,0,0,0,0,1,1521.0,0.022727272727272728,26,676,Asia,No Prior Region,arts
 3,84.0,0,0,0,0,0,0,0,0,1,0,1,7056.0,0.3333333333333333,26,676,South East Asia,No Prior Region,politics_govt_law
 5,75.0,0,0,0,0,0,0,0,0,1,0,1,5625.0,0.2,20,400,Africa,No Prior Region,politics_govt_law
@@ -6899,7 +6899,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 28,84.0,0,0,0,0,0,0,0,0,1,0,1,7056.0,0.03571428571428571,22,484,Asia,No Prior Region,politics_govt_law
 43,99.0,1,0,0,0,0,0,0,0,0,0,1,9801.0,0.023255813953488372,21,441,North America,No Prior Region,sciences
 5,85.0,0,0,0,0,0,1,0,0,0,0,1,7225.0,0.2,17,289,North America,No Prior Region,arts
-14,95.0,0,0,0,0,0,0,0,0,1,0,2,9025.0,0.07142857142857142,26,676,Asia,No Prior Region,two
+14,95.0,0,0,0,0,0,0,0,0,1,0,1,9025.0,0.07142857142857142,26,676,Asia,No Prior Region,politics_govt_law
 5,60.0,0,0,0,0,0,0,0,0,1,0,1,3600.0,0.2,21,441,Asia,No Prior Region,politics_govt_law
 5,88.0,0,0,0,0,0,0,0,0,1,0,1,7744.0,0.2,19,361,North America,No Prior Region,politics_govt_law
 12,93.0,0,0,0,0,0,1,0,0,0,0,1,8649.0,0.08333333333333333,19,361,Europe,Asia,arts
@@ -7127,7 +7127,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 6,98.0,0,0,0,1,0,0,0,0,0,0,1,9604.0,0.16666666666666666,9,81,Europe,No Prior Region,academia_humanities
 6,81.0,0,0,0,1,0,0,0,0,1,0,2,6561.0,0.16666666666666666,1,1,Europe,No Prior Region,two
 23,87.0,0,0,0,0,0,1,0,0,0,0,1,7569.0,0.043478260869565216,22,484,Russian Federation,No Prior Region,arts
-9,68.0,0,0,0,0,1,1,0,0,0,0,3,4624.0,0.1111111111111111,22,484,North America,No Prior Region,three_to_five
+9,68.0,0,0,0,0,1,1,0,0,0,0,2,4624.0,0.1111111111111111,22,484,North America,No Prior Region,two
 10,64.0,0,0,0,0,0,1,0,0,0,0,1,4096.0,0.1,16,256,South America,No Prior Region,arts
 7,37.0,0,0,0,0,0,0,1,0,0,0,1,1369.0,0.14285714285714285,20,400,North America,No Prior Region,sports
 4,80.0,0,0,0,0,0,0,1,0,0,0,1,6400.0,0.25,26,676,Oceania,No Prior Region,sports
@@ -7303,7 +7303,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 19,38.0,0,0,0,0,0,0,0,1,0,0,1,1444.0,0.05263157894736842,23,529,Europe,No Prior Region,law_enf_military_operator
 49,79.0,0,0,0,0,0,0,0,1,0,0,1,6241.0,0.02040816326530612,20,400,Europe,No Prior Region,law_enf_military_operator
 22,53.0,0,0,0,0,0,0,0,0,1,0,1,2809.0,0.045454545454545456,21,441,North America,No Prior Region,politics_govt_law
-5,52.0,0,0,0,0,0,0,0,1,0,0,2,2704.0,0.2,27,729,Mid-Cent America/Caribbean,No Prior Region,two
+5,52.0,0,0,0,0,0,0,0,1,0,0,1,2704.0,0.2,27,729,Mid-Cent America/Caribbean,No Prior Region,law_enf_military_operator
 4,75.0,0,0,0,0,0,1,0,0,0,0,1,5625.0,0.25,21,441,South East Asia,No Prior Region,arts
 6,64.0,0,0,0,1,0,0,0,0,0,0,1,4096.0,0.16666666666666666,16,256,Mid-Cent America/Caribbean,No Prior Region,academia_humanities
 9,61.0,0,0,0,0,1,0,0,0,0,0,1,3721.0,0.1111111111111111,9,81,North America,No Prior Region,business_farming
@@ -8564,8 +8564,8 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 8,72.0,0,0,0,0,1,0,0,0,0,0,1,5184.0,0.125,24,576,Europe,Middle East,business_farming
 9,96.0,0,0,0,0,0,0,0,1,1,0,2,9216.0,0.1111111111111111,18,324,Asia,No Prior Region,two
 5,55.0,0,0,0,0,0,0,0,0,1,0,1,3025.0,0.2,3,9,Africa,No Prior Region,politics_govt_law
-13,88.0,0,0,0,0,0,1,0,0,0,0,2,7744.0,0.07692307692307693,27,729,North America,Europe,two
-24,55.0,1,0,0,0,0,0,1,0,0,0,3,3025.0,0.041666666666666664,20,400,Europe,No Prior Region,three_to_five
+13,88.0,0,0,0,0,0,1,0,0,0,0,1,7744.0,0.07692307692307693,27,729,North America,Europe,arts
+24,55.0,1,0,0,0,0,0,1,0,0,0,2,3025.0,0.041666666666666664,20,400,Europe,No Prior Region,two
 9,29.0,0,0,0,0,0,0,1,0,0,0,1,841.0,0.1111111111111111,17,289,North America,No Prior Region,sports
 6,50.0,0,0,0,0,0,1,0,0,0,0,1,2500.0,0.16666666666666666,1,1,Oceania,No Prior Region,arts
 6,86.0,0,0,0,0,1,0,0,0,0,0,1,7396.0,0.16666666666666666,22,484,Africa,No Prior Region,business_farming
@@ -9091,7 +9091,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 13,50.5,0,0,0,0,0,1,0,0,0,0,1,2550.25,0.07692307692307693,24,576,Asia,No Prior Region,arts
 7,61.0,0,0,0,0,0,1,0,0,0,0,1,3721.0,0.14285714285714285,18,324,North America,No Prior Region,arts
 3,67.0,0,0,0,0,0,0,1,0,0,0,1,4489.0,0.3333333333333333,27,729,Europe,No Prior Region,sports
-37,74.0,0,0,0,0,1,0,0,0,0,0,2,5476.0,0.02702702702702703,19,361,Europe,No Prior Region,two
+37,74.0,0,0,0,0,1,0,0,0,0,0,1,5476.0,0.02702702702702703,19,361,Europe,No Prior Region,business_farming
 5,79.0,0,0,0,0,0,0,0,0,1,0,1,6241.0,0.2,26,676,Asia,No Prior Region,politics_govt_law
 8,67.0,0,0,0,1,0,0,0,0,0,0,1,4489.0,0.125,16,256,Europe,No Prior Region,academia_humanities
 9,91.0,0,0,0,0,0,0,1,0,0,0,1,8281.0,0.1111111111111111,16,256,Europe,No Prior Region,sports
@@ -9206,7 +9206,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 20,93.0,0,0,0,0,0,1,0,0,0,0,1,8649.0,0.05,1,1,Europe,No Prior Region,arts
 14,95.0,0,0,0,0,0,0,1,0,0,0,1,9025.0,0.07142857142857142,21,441,North America,No Prior Region,sports
 8,85.0,0,0,0,0,0,0,1,0,0,0,1,7225.0,0.125,15,225,Europe,No Prior Region,sports
-4,38.0,0,0,0,0,0,1,0,0,0,0,2,1444.0,0.25,12,144,Mid-Cent America/Caribbean,No Prior Region,two
+4,38.0,0,0,0,0,0,1,0,0,0,0,1,1444.0,0.25,12,144,Mid-Cent America/Caribbean,No Prior Region,arts
 5,62.0,0,0,0,0,0,0,0,1,0,0,1,3844.0,0.2,24,576,Oceania,No Prior Region,law_enf_military_operator
 7,68.0,0,0,0,0,0,1,0,0,0,0,1,4624.0,0.14285714285714285,17,289,North America,No Prior Region,arts
 7,82.0,0,0,0,0,0,1,0,0,0,0,1,6724.0,0.14285714285714285,22,484,North America,Europe,arts
@@ -10631,7 +10631,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 26,74.0,0,0,0,0,1,0,0,0,0,0,1,5476.0,0.038461538461538464,6,36,Europe,No Prior Region,business_farming
 6,85.0,0,0,0,0,0,1,0,0,0,0,1,7225.0,0.16666666666666666,26,676,North America,No Prior Region,arts
 5,85.0,0,0,0,0,0,0,1,0,0,0,1,7225.0,0.2,19,361,Europe,No Prior Region,sports
-31,42.0,0,0,1,0,0,0,0,0,0,0,2,1764.0,0.03225806451612903,13,169,Asia,No Prior Region,two
+31,42.0,0,0,1,0,0,0,0,0,0,0,1,1764.0,0.03225806451612903,13,169,Asia,No Prior Region,spiritual
 7,39.0,0,0,0,0,0,1,0,0,0,0,1,1521.0,0.14285714285714285,19,361,North America,No Prior Region,arts
 21,69.0,0,0,0,0,0,0,0,0,1,0,1,4761.0,0.047619047619047616,23,529,North America,No Prior Region,politics_govt_law
 12,80.0,0,0,0,0,0,0,0,0,1,0,1,6400.0,0.08333333333333333,24,576,North America,No Prior Region,politics_govt_law
@@ -11549,7 +11549,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 6,89.0,0,0,0,0,0,0,1,0,0,0,1,7921.0,0.16666666666666666,24,576,Europe,No Prior Region,sports
 7,70.0,0,0,0,0,0,0,1,0,0,0,1,4900.0,0.14285714285714285,3,9,Europe,No Prior Region,sports
 18,62.0,0,0,0,0,1,0,0,0,0,0,1,3844.0,0.05555555555555555,21,441,North America,No Prior Region,business_farming
-8,76.0,0,0,0,0,1,0,0,0,0,0,2,5776.0,0.125,9,81,North America,Europe,two
+8,76.0,0,0,0,0,1,0,0,0,0,0,1,5776.0,0.125,9,81,North America,Europe,business_farming
 12,81.0,0,0,0,0,0,1,0,0,0,0,1,6561.0,0.08333333333333333,3,9,North America,No Prior Region,arts
 19,70.0,0,0,0,0,0,0,0,0,1,0,1,4900.0,0.05263157894736842,8,64,Russian Federation,Russian Federation,politics_govt_law
 7,86.0,0,0,0,0,0,1,0,0,0,0,1,7396.0,0.14285714285714285,1,1,North America,No Prior Region,arts
@@ -11926,7 +11926,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 7,83.0,0,0,0,0,0,1,0,0,0,0,1,6889.0,0.14285714285714285,15,225,Europe,Africa,arts
 10,77.0,0,0,0,0,0,1,0,0,0,0,1,5929.0,0.1,0,0,North America,No Prior Region,arts
 4,77.0,0,0,0,0,0,0,0,0,1,0,1,5929.0,0.25,22,484,North America,No Prior Region,politics_govt_law
-10,34.0,0,0,0,0,0,0,0,0,0,1,2,1156.0,0.1,24,576,South East Asia,No Prior Region,two
+10,34.0,0,0,0,0,0,0,0,0,0,1,1,1156.0,0.1,24,576,South East Asia,No Prior Region,crime
 23,85.0,0,0,0,0,0,1,0,0,0,0,1,7225.0,0.043478260869565216,22,484,Europe,No Prior Region,arts
 9,48.0,0,0,0,1,0,1,0,0,0,0,2,2304.0,0.1111111111111111,23,529,North America,Europe,two
 6,51.0,0,0,0,0,0,1,0,0,0,0,1,2601.0,0.16666666666666666,15,225,Asia,No Prior Region,arts
@@ -11959,7 +11959,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 4,97.0,0,0,0,0,0,0,1,0,0,0,1,9409.0,0.25,26,676,Oceania,Europe,sports
 7,70.0,0,0,0,0,0,1,0,0,0,0,1,4900.0,0.14285714285714285,23,529,South America,No Prior Region,arts
 5,91.0,0,0,0,0,0,0,0,1,1,0,2,8281.0,0.2,18,324,North America,No Prior Region,two
-13,88.0,0,0,0,0,0,1,0,0,0,0,2,7744.0,0.07692307692307693,23,529,Europe,No Prior Region,two
+13,88.0,0,0,0,0,0,1,0,0,0,0,1,7744.0,0.07692307692307693,23,529,Europe,No Prior Region,arts
 3,92.0,0,0,0,0,0,0,0,0,1,0,1,8464.0,0.3333333333333333,4,16,North America,No Prior Region,politics_govt_law
 4,83.0,0,0,0,0,0,0,1,0,0,0,1,6889.0,0.25,18,324,North America,No Prior Region,sports
 13,79.0,1,0,0,0,0,0,0,0,0,0,1,6241.0,0.07692307692307693,4,16,Asia,No Prior Region,sciences
@@ -12002,7 +12002,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 3,21.0,0,0,0,0,0,0,1,0,0,0,1,441.0,0.3333333333333333,12,144,Europe,No Prior Region,sports
 50,76.0,0,0,0,0,0,0,0,0,1,0,1,5776.0,0.02,19,361,Africa,No Prior Region,politics_govt_law
 5,78.0,0,0,0,0,0,0,1,0,0,0,1,6084.0,0.2,24,576,Europe,No Prior Region,sports
-4,96.0,0,0,0,0,0,0,0,0,1,0,2,9216.0,0.25,23,529,Europe,No Prior Region,two
+4,96.0,0,0,0,0,0,0,0,0,1,0,1,9216.0,0.25,23,529,Europe,No Prior Region,politics_govt_law
 7,81.0,0,0,0,0,0,0,0,0,1,0,1,6561.0,0.14285714285714285,26,676,North America,No Prior Region,politics_govt_law
 11,91.0,0,0,0,0,0,1,0,0,0,0,1,8281.0,0.09090909090909091,23,529,North America,No Prior Region,arts
 4,82.0,0,0,0,0,0,0,0,0,1,0,1,6724.0,0.25,17,289,Europe,No Prior Region,politics_govt_law
@@ -12306,7 +12306,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 7,65.0,0,0,0,0,0,1,0,0,0,0,1,4225.0,0.14285714285714285,25,625,North America,No Prior Region,arts
 4,96.0,0,0,0,0,0,1,0,0,0,0,1,9216.0,0.25,25,625,South America,South America,arts
 5,73.0,1,0,0,0,0,0,0,0,0,0,1,5329.0,0.2,14,196,Europe,No Prior Region,sciences
-7,90.0,0,0,0,0,0,0,0,1,0,0,2,8100.0,0.14285714285714285,22,484,Europe,No Prior Region,two
+7,90.0,0,0,0,0,0,0,0,1,0,0,1,8100.0,0.14285714285714285,22,484,Europe,No Prior Region,law_enf_military_operator
 20,98.0,0,0,0,0,0,1,0,0,0,0,1,9604.0,0.05,26,676,North America,No Prior Region,arts
 4,85.0,0,0,0,0,0,1,0,0,0,0,1,7225.0,0.25,26,676,North America,No Prior Region,arts
 3,88.0,0,0,0,0,0,1,0,0,0,0,1,7744.0,0.3333333333333333,7,49,North America,No Prior Region,arts
@@ -12350,7 +12350,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 43,80.0,0,0,0,0,0,0,0,1,0,0,1,6400.0,0.023255813953488372,4,16,Europe,No Prior Region,law_enf_military_operator
 20,48.0,0,0,0,0,0,0,1,0,0,0,1,2304.0,0.05,18,324,Europe,No Prior Region,sports
 10,73.0,0,0,0,0,0,0,0,0,1,0,1,5329.0,0.1,25,625,North America,No Prior Region,politics_govt_law
-15,111.0,0,0,0,0,0,0,1,0,0,0,2,12321.0,0.06666666666666667,28,784,Europe,No Prior Region,two
+15,111.0,0,0,0,0,0,0,1,0,0,0,1,12321.0,0.06666666666666667,28,784,Europe,No Prior Region,sports
 3,82.0,0,0,0,0,0,0,1,0,0,0,1,6724.0,0.3333333333333333,19,361,Europe,No Prior Region,sports
 5,91.0,1,0,0,1,0,1,0,0,0,0,3,8281.0,0.2,20,400,North America,No Prior Region,three_to_five
 3,91.0,0,0,1,1,0,0,0,0,0,0,2,8281.0,0.3333333333333333,23,529,Europe,No Prior Region,two
@@ -12870,7 +12870,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 17,48.0,0,0,0,0,0,1,0,0,0,0,1,2304.0,0.058823529411764705,24,576,North America,No Prior Region,arts
 6,58.0,0,0,0,0,0,1,0,0,0,0,1,3364.0,0.16666666666666666,7,49,Europe,No Prior Region,arts
 5,73.0,0,0,0,0,0,0,1,0,0,0,1,5329.0,0.2,20,400,Europe,No Prior Region,sports
-7,53.0,0,0,0,0,0,0,0,0,1,0,2,2809.0,0.14285714285714285,14,196,Europe,No Prior Region,two
+7,53.0,0,0,0,0,0,0,0,0,1,0,1,2809.0,0.14285714285714285,14,196,Europe,No Prior Region,politics_govt_law
 7,33.0,0,0,0,0,0,1,0,0,0,0,1,1089.0,0.14285714285714285,20,400,Asia,No Prior Region,arts
 11,62.0,0,0,0,0,0,1,0,0,0,0,1,3844.0,0.09090909090909091,13,169,South America,No Prior Region,arts
 3,79.0,0,0,0,0,0,0,1,0,0,0,1,6241.0,0.3333333333333333,27,729,Europe,No Prior Region,sports
@@ -13271,7 +13271,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 25,87.0,0,0,0,0,0,1,0,0,0,0,1,7569.0,0.04,25,625,Europe,No Prior Region,arts
 5,68.0,1,0,0,0,0,0,0,0,1,0,2,4624.0,0.2,16,256,Middle East,No Prior Region,two
 8,21.0,0,0,0,0,0,0,0,1,0,0,1,441.0,0.125,2,4,Europe,No Prior Region,law_enf_military_operator
-9,104.0,0,0,0,0,0,1,0,0,0,0,2,10816.0,0.1111111111111111,16,256,Europe,No Prior Region,two
+9,104.0,0,0,0,0,0,1,0,0,0,0,1,10816.0,0.1111111111111111,16,256,Europe,No Prior Region,arts
 6,86.0,0,0,0,0,0,1,0,0,0,0,1,7396.0,0.16666666666666666,15,225,Europe,No Prior Region,arts
 7,88.0,1,0,0,0,0,0,0,0,0,0,1,7744.0,0.14285714285714285,17,289,Europe,No Prior Region,sciences
 3,83.0,0,0,0,0,0,1,0,0,0,0,1,6889.0,0.3333333333333333,24,576,Mid-Cent America/Caribbean,No Prior Region,arts
@@ -13721,7 +13721,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 42,92.0,0,0,0,0,0,0,0,0,1,0,1,8464.0,0.023809523809523808,21,441,North America,No Prior Region,politics_govt_law
 26,74.0,0,0,0,0,0,1,0,0,0,0,1,5476.0,0.038461538461538464,27,729,North America,No Prior Region,arts
 9,22.0,0,0,0,0,0,0,1,0,0,0,1,484.0,0.1111111111111111,2,4,North America,No Prior Region,sports
-21,37.0,0,0,1,0,0,0,0,0,0,0,2,1369.0,0.047619047619047616,25,625,North America,No Prior Region,two
+21,37.0,0,0,1,0,0,0,0,0,0,0,1,1369.0,0.047619047619047616,25,625,North America,No Prior Region,spiritual
 57,58.0,0,0,0,0,0,0,0,0,0,1,1,3364.0,0.017543859649122806,27,729,North America,No Prior Region,crime
 3,85.0,0,0,0,0,0,1,0,0,0,0,1,7225.0,0.3333333333333333,27,729,Europe,No Prior Region,arts
 11,81.0,0,0,0,0,0,1,0,0,0,0,1,6561.0,0.09090909090909091,13,169,Mid-Cent America/Caribbean,No Prior Region,arts
@@ -13785,7 +13785,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 12,98.0,1,0,0,0,0,1,0,0,0,0,2,9604.0,0.08333333333333333,24,576,Europe,No Prior Region,two
 39,111.0,0,0,0,0,0,1,0,0,0,0,1,12321.0,0.02564102564102564,8,64,North America,Europe,arts
 8,83.0,0,0,0,0,0,1,0,0,0,0,1,6889.0,0.125,26,676,North America,No Prior Region,arts
-9,77.0,1,0,0,0,0,0,0,0,0,0,2,5929.0,0.1111111111111111,17,289,North America,No Prior Region,two
+9,77.0,1,0,0,0,0,0,0,0,0,0,1,5929.0,0.1111111111111111,17,289,North America,No Prior Region,sciences
 6,79.0,0,0,0,0,0,0,0,0,1,0,1,6241.0,0.16666666666666666,28,784,Europe,No Prior Region,politics_govt_law
 5,87.0,0,0,0,0,0,1,0,0,0,0,1,7569.0,0.2,22,484,North America,No Prior Region,arts
 6,64.0,0,0,0,0,0,0,0,0,1,0,1,4096.0,0.16666666666666666,22,484,Europe,No Prior Region,politics_govt_law
@@ -14253,7 +14253,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 15,92.0,0,0,0,0,0,1,0,0,0,0,1,8464.0,0.06666666666666667,22,484,Europe,No Prior Region,arts
 18,68.0,0,0,0,0,0,0,1,0,0,0,1,4624.0,0.05555555555555555,27,729,North America,No Prior Region,sports
 23,86.0,0,0,0,0,0,0,1,0,0,0,1,7396.0,0.043478260869565216,22,484,North America,No Prior Region,sports
-53,26.0,0,0,0,0,0,0,0,1,0,0,2,676.0,0.018867924528301886,21,441,Middle East,No Prior Region,two
+53,26.0,0,0,0,0,0,0,0,1,0,0,1,676.0,0.018867924528301886,21,441,Middle East,No Prior Region,law_enf_military_operator
 9,92.0,0,0,0,0,0,1,0,0,0,0,1,8464.0,0.1111111111111111,7,49,North America,No Prior Region,arts
 3,47.0,0,0,0,0,0,0,1,0,0,0,1,2209.0,0.3333333333333333,25,625,Russian Federation,No Prior Region,sports
 4,80.0,0,0,0,0,0,1,0,0,0,0,1,6400.0,0.25,20,400,Europe,No Prior Region,arts
@@ -15166,7 +15166,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 3,84.0,0,0,0,0,0,0,0,0,1,0,1,7056.0,0.3333333333333333,26,676,Asia,No Prior Region,politics_govt_law
 3,79.0,0,0,0,0,0,0,0,0,1,0,1,6241.0,0.3333333333333333,13,169,Asia,No Prior Region,politics_govt_law
 35,84.0,0,0,0,0,0,0,1,0,0,0,1,7056.0,0.02857142857142857,1,1,North America,No Prior Region,sports
-4,42.0,0,0,0,0,0,0,0,0,1,0,2,1764.0,0.25,5,25,Europe,No Prior Region,two
+4,42.0,0,0,0,0,0,0,0,0,1,0,1,1764.0,0.25,5,25,Europe,No Prior Region,politics_govt_law
 3,91.0,0,0,0,1,0,1,0,0,1,0,3,8281.0,0.3333333333333333,13,169,Middle East,No Prior Region,three_to_five
 3,72.0,0,0,0,0,0,0,0,0,1,0,1,5184.0,0.3333333333333333,25,625,Asia,No Prior Region,politics_govt_law
 3,68.0,0,0,0,0,0,0,1,0,0,0,1,4624.0,0.3333333333333333,21,441,Europe,No Prior Region,sports
@@ -15294,7 +15294,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 7,83.0,0,0,0,0,0,1,0,0,0,0,1,6889.0,0.14285714285714285,28,784,North America,No Prior Region,arts
 28,67.0,0,0,0,0,0,0,0,0,1,0,1,4489.0,0.03571428571428571,0,0,North America,No Prior Region,politics_govt_law
 8,85.0,0,0,0,0,0,1,0,0,0,0,1,7225.0,0.125,21,441,North America,No Prior Region,arts
-10,95.0,0,0,0,1,0,1,0,0,0,0,3,9025.0,0.1,24,576,Europe,No Prior Region,three_to_five
+10,95.0,0,0,0,1,0,1,0,0,0,0,2,9025.0,0.1,24,576,Europe,No Prior Region,two
 11,71.0,1,0,0,0,0,0,0,0,0,0,1,5041.0,0.09090909090909091,21,441,North America,No Prior Region,sciences
 29,85.0,0,0,0,0,0,1,0,0,0,0,1,7225.0,0.034482758620689655,25,625,North America,No Prior Region,arts
 3,89.0,0,0,0,0,0,1,0,0,0,0,1,7921.0,0.3333333333333333,16,256,Europe,No Prior Region,arts
@@ -15671,7 +15671,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 17,81.0,0,0,0,0,0,0,0,0,1,0,1,6561.0,0.058823529411764705,16,256,North America,No Prior Region,politics_govt_law
 11,91.0,0,0,0,0,0,1,0,0,0,0,1,8281.0,0.09090909090909091,16,256,Europe,No Prior Region,arts
 22,82.0,0,0,0,0,0,0,1,0,0,0,1,6724.0,0.045454545454545456,10,100,Europe,No Prior Region,sports
-7,94.0,0,0,0,1,0,0,0,0,0,0,2,8836.0,0.14285714285714285,26,676,Europe,No Prior Region,two
+7,94.0,0,0,0,1,0,0,0,0,0,0,1,8836.0,0.14285714285714285,26,676,Europe,No Prior Region,academia_humanities
 28,87.0,0,0,0,0,0,1,0,0,0,0,1,7569.0,0.03571428571428571,1,1,North America,No Prior Region,arts
 49,35.0,0,0,0,0,0,0,1,0,0,0,1,1225.0,0.02040816326530612,13,169,Europe,No Prior Region,sports
 9,78.0,0,0,0,0,1,0,0,0,0,0,1,6084.0,0.1111111111111111,5,25,North America,No Prior Region,business_farming
@@ -15950,7 +15950,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 9,93.0,0,0,0,0,0,1,0,0,0,0,1,8649.0,0.1111111111111111,4,16,North America,No Prior Region,arts
 6,95.0,0,0,0,0,0,0,0,0,1,0,1,9025.0,0.16666666666666666,21,441,Oceania,No Prior Region,politics_govt_law
 6,79.0,0,0,0,0,0,1,0,0,0,0,1,6241.0,0.16666666666666666,13,169,Europe,No Prior Region,arts
-6,98.0,0,0,0,1,0,0,0,0,0,0,2,9604.0,0.16666666666666666,24,576,Europe,No Prior Region,two
+6,98.0,0,0,0,1,0,0,0,0,0,0,1,9604.0,0.16666666666666666,24,576,Europe,No Prior Region,academia_humanities
 3,76.0,0,0,0,0,0,0,0,0,1,0,1,5776.0,0.3333333333333333,18,324,Asia,No Prior Region,politics_govt_law
 19,23.0,0,0,0,0,0,1,0,0,0,0,1,529.0,0.05263157894736842,27,729,South America,No Prior Region,arts
 3,84.0,0,0,0,0,0,0,0,0,1,0,1,7056.0,0.3333333333333333,27,729,Europe,No Prior Region,politics_govt_law
@@ -17029,9 +17029,9 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 5,78.0,0,0,0,0,0,0,0,0,1,0,1,6084.0,0.2,27,729,South America,No Prior Region,politics_govt_law
 4,71.0,0,0,0,0,0,1,0,0,0,0,1,5041.0,0.25,18,324,North America,No Prior Region,arts
 22,89.0,0,0,0,0,0,0,0,0,1,0,1,7921.0,0.045454545454545456,20,400,Asia,No Prior Region,politics_govt_law
-23,113.0,0,1,0,0,0,0,0,0,0,0,2,12769.0,0.043478260869565216,17,289,South East Asia,Asia,two
+23,113.0,0,1,0,0,0,0,0,0,0,0,1,12769.0,0.043478260869565216,17,289,South East Asia,Asia,social
 3,83.0,0,0,0,0,0,1,0,0,0,0,1,6889.0,0.3333333333333333,9,81,Europe,No Prior Region,arts
-7,95.0,0,0,0,0,0,1,0,0,0,0,2,9025.0,0.14285714285714285,24,576,Oceania,Oceania,two
+7,95.0,0,0,0,0,0,1,0,0,0,0,1,9025.0,0.14285714285714285,24,576,Oceania,Oceania,arts
 5,94.0,0,0,0,0,0,1,0,0,0,0,1,8836.0,0.2,22,484,North America,No Prior Region,arts
 15,88.0,0,0,0,0,0,0,1,0,0,0,1,7744.0,0.06666666666666667,26,676,Russian Federation,No Prior Region,sports
 8,87.0,1,0,0,0,0,0,0,0,0,0,1,7569.0,0.125,18,324,North America,No Prior Region,sciences
@@ -17201,7 +17201,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 15,46.0,0,0,1,0,0,0,0,1,0,0,2,2116.0,0.06666666666666667,27,729,Russian Federation,No Prior Region,two
 3,58.0,0,0,0,0,0,1,0,0,0,0,1,3364.0,0.3333333333333333,16,256,Europe,No Prior Region,arts
 3,98.0,0,0,0,0,0,0,1,0,0,0,1,9604.0,0.3333333333333333,8,64,Europe,No Prior Region,sports
-21,23.0,0,0,0,0,0,1,0,0,0,0,2,529.0,0.047619047619047616,20,400,Middle East,No Prior Region,two
+21,23.0,0,0,0,0,0,1,0,0,0,0,1,529.0,0.047619047619047616,20,400,Middle East,No Prior Region,arts
 3,70.0,0,0,0,0,0,0,0,0,1,0,1,4900.0,0.3333333333333333,3,9,North America,No Prior Region,politics_govt_law
 22,76.0,0,0,0,0,0,1,0,0,0,0,1,5776.0,0.045454545454545456,26,676,North America,No Prior Region,arts
 4,24.0,0,0,0,0,0,0,1,0,0,0,1,576.0,0.25,21,441,Europe,No Prior Region,sports
@@ -17212,7 +17212,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 8,45.0,0,0,0,0,0,0,1,0,0,0,1,2025.0,0.125,17,289,Mid-Cent America/Caribbean,No Prior Region,sports
 7,58.0,0,0,0,0,0,1,0,0,0,0,1,3364.0,0.14285714285714285,16,256,North America,No Prior Region,arts
 10,96.0,0,0,0,0,0,1,0,0,0,0,1,9216.0,0.1,17,289,Asia,No Prior Region,arts
-19,88.0,0,0,0,0,0,1,0,0,0,0,2,7744.0,0.05263157894736842,21,441,Europe,No Prior Region,two
+19,88.0,0,0,0,0,0,1,0,0,0,0,1,7744.0,0.05263157894736842,21,441,Europe,No Prior Region,arts
 5,88.0,0,0,0,0,0,1,0,0,0,0,1,7744.0,0.2,18,324,Russian Federation,No Prior Region,arts
 15,67.0,0,1,0,0,0,1,0,0,0,0,2,4489.0,0.06666666666666667,20,400,Europe,No Prior Region,two
 4,69.0,1,0,0,0,0,0,0,0,0,0,1,4761.0,0.25,19,361,Europe,No Prior Region,sciences
@@ -17371,7 +17371,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 4,66.0,0,0,0,0,0,0,0,0,1,0,1,4356.0,0.25,19,361,Oceania,No Prior Region,politics_govt_law
 14,84.0,0,0,0,0,0,0,0,0,1,0,1,7056.0,0.07142857142857142,22,484,Middle East,No Prior Region,politics_govt_law
 28,70.0,1,0,0,1,0,0,0,0,0,0,2,4900.0,0.03571428571428571,4,16,Europe,No Prior Region,two
-17,111.0,0,0,0,1,0,0,0,0,0,0,2,12321.0,0.058823529411764705,23,529,Asia,No Prior Region,two
+17,111.0,0,0,0,1,0,0,0,0,0,0,1,12321.0,0.058823529411764705,23,529,Asia,No Prior Region,academia_humanities
 14,90.0,0,0,1,0,0,0,0,0,0,0,1,8100.0,0.07142857142857142,26,676,Europe,No Prior Region,spiritual
 14,92.0,0,0,0,1,0,1,0,0,0,0,2,8464.0,0.07142857142857142,23,529,North America,South America,two
 15,94.0,0,0,0,0,0,1,0,0,0,0,1,8836.0,0.06666666666666667,20,400,Europe,No Prior Region,arts
@@ -17455,7 +17455,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 5,97.0,1,0,0,0,0,0,0,0,0,0,1,9409.0,0.2,17,289,North America,No Prior Region,sciences
 20,72.0,0,0,1,0,0,0,0,0,0,0,1,5184.0,0.05,25,625,North America,No Prior Region,spiritual
 6,50.0,0,0,0,0,0,1,0,0,0,0,1,2500.0,0.16666666666666666,19,361,Europe,No Prior Region,arts
-10,110.0,0,0,0,0,0,0,0,1,0,0,2,12100.0,0.1,22,484,North America,No Prior Region,two
+10,110.0,0,0,0,0,0,0,0,1,0,0,1,12100.0,0.1,22,484,North America,No Prior Region,law_enf_military_operator
 4,101.0,0,0,0,0,0,1,0,0,0,0,1,10201.0,0.25,10,100,North America,No Prior Region,arts
 7,90.0,0,0,0,0,0,0,1,0,0,0,1,8100.0,0.14285714285714285,7,49,North America,No Prior Region,sports
 11,89.0,0,0,0,0,0,1,0,0,0,0,1,7921.0,0.09090909090909091,22,484,North America,No Prior Region,arts
@@ -18062,7 +18062,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 3,79.0,0,0,0,0,0,0,1,0,0,0,1,6241.0,0.3333333333333333,24,576,South America,No Prior Region,sports
 3,81.0,0,0,0,0,0,1,0,0,0,0,1,6561.0,0.3333333333333333,28,784,Middle East,Europe,arts
 4,58.0,0,0,0,0,0,0,0,0,1,0,1,3364.0,0.25,15,225,Oceania,No Prior Region,politics_govt_law
-17,81.0,0,0,1,0,0,0,0,0,0,0,2,6561.0,0.058823529411764705,15,225,North America,No Prior Region,two
+17,81.0,0,0,1,0,0,0,0,0,0,0,1,6561.0,0.058823529411764705,15,225,North America,No Prior Region,spiritual
 3,95.0,0,0,0,0,0,1,1,0,0,0,2,9025.0,0.3333333333333333,25,625,North America,No Prior Region,two
 8,37.0,0,0,0,1,0,0,0,0,1,0,2,1369.0,0.125,13,169,North America,No Prior Region,two
 5,98.0,0,0,0,1,0,0,0,0,1,0,2,9604.0,0.2,25,625,Asia,No Prior Region,two
@@ -18082,7 +18082,7 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 14,94.0,0,0,0,0,0,0,0,0,1,0,1,8836.0,0.07142857142857142,22,484,North America,No Prior Region,politics_govt_law
 3,71.0,0,0,0,0,0,1,0,0,0,0,1,5041.0,0.3333333333333333,22,484,Russian Federation,No Prior Region,arts
 12,73.0,0,0,0,0,0,0,0,0,1,0,1,5329.0,0.08333333333333333,8,64,Africa,No Prior Region,politics_govt_law
-17,111.0,1,0,0,0,0,0,0,0,0,0,2,12321.0,0.058823529411764705,20,400,Russian Federation,No Prior Region,two
+17,111.0,1,0,0,0,0,0,0,0,0,0,1,12321.0,0.058823529411764705,20,400,Russian Federation,No Prior Region,sciences
 3,82.0,0,0,0,0,0,1,0,0,0,0,1,6724.0,0.3333333333333333,13,169,North America,No Prior Region,arts
 5,82.0,0,0,0,0,0,0,0,0,1,0,1,6724.0,0.2,14,196,Europe,No Prior Region,politics_govt_law
 5,80.0,0,0,0,0,0,0,1,0,0,0,1,6400.0,0.2,19,361,Europe,No Prior Region,sports
@@ -19196,14 +19196,14 @@ num_references,age,sciences,social,spiritual,academia_humanities,business_farmin
 3,97.0,0,0,0,0,0,0,0,0,1,0,1,9409.0,0.3333333333333333,9,81,North America,No Prior Region,politics_govt_law
 6,62.0,0,0,0,0,0,0,1,0,0,0,1,3844.0,0.16666666666666666,19,361,North America,No Prior Region,sports
 15,88.0,1,0,0,0,0,0,0,0,0,0,1,7744.0,0.06666666666666667,27,729,Asia,No Prior Region,sciences
-3,84.0,0,0,0,0,0,1,0,0,0,0,2,7056.0,0.3333333333333333,13,169,North America,No Prior Region,two
+3,84.0,0,0,0,0,0,1,0,0,0,0,1,7056.0,0.3333333333333333,13,169,North America,No Prior Region,arts
 7,94.0,0,0,0,0,0,0,0,0,1,0,1,8836.0,0.14285714285714285,20,400,North America,No Prior Region,politics_govt_law
 5,93.0,0,0,0,1,0,1,0,0,0,0,2,8649.0,0.2,18,324,North America,No Prior Region,two
 10,85.0,0,0,0,0,0,0,1,0,0,0,1,7225.0,0.1,22,484,North America,No Prior Region,sports
 8,90.0,0,0,0,0,0,0,0,0,1,0,1,8100.0,0.125,6,36,North America,No Prior Region,politics_govt_law
 94,65.0,0,0,0,0,0,0,0,0,0,1,1,4225.0,0.010638297872340425,17,289,North America,No Prior Region,crime
 3,74.0,0,0,0,0,0,0,0,1,0,0,1,5476.0,0.3333333333333333,25,625,Europe,No Prior Region,law_enf_military_operator
-7,91.0,0,0,0,0,0,0,0,1,0,0,2,8281.0,0.14285714285714285,17,289,Europe,Europe,two
+7,91.0,0,0,0,0,0,0,0,1,0,0,1,8281.0,0.14285714285714285,17,289,Europe,Europe,law_enf_military_operator
 3,85.0,1,0,0,1,0,0,0,0,0,0,2,7225.0,0.3333333333333333,20,400,North America,No Prior Region,two
 4,101.0,0,0,0,0,0,1,0,0,0,0,1,10201.0,0.25,17,289,North America,Europe,arts
 17,93.0,0,0,0,0,0,1,0,0,0,0,1,8649.0,0.058823529411764705,7,49,Europe,No Prior Region,arts
