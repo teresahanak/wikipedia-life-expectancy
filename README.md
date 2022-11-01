@@ -206,6 +206,8 @@ The overall approach to coding in Python, analysis and modeling, and a majority 
 
 Git and GitHub implementation were acquired from Anna Skoulikari, through her Udemy course, [Git Learning Journey - Guide to Learn Git (Version Control)](https://www.udemy.com/share/102FUK3@gXOY8-8NIGjJAqOsTNhyO2n7DZU_PXlQaXytDb055i6wsiLN0PYjXXLc5CgsBGWE/).
 
+Review of Jupyter Notebooks on GitHub was entirely dependent on ReviewNB, following Amit Rathi's [instructions](https://towardsdatascience.com/how-to-use-git-github-with-jupyter-notebook-7144d6577b44).
+
 Web scraping with Scrapy was learned from Frank Andrade, through his Udemy course, [Web Scraping in Python BeautifulSoup, Selenium & Scrapy 2022](https://www.udemy.com/share/1050RC3@OPQBrWla1wb5dcRcMS85QPUjfv5L0Oh_D2zoekwqDPKrFKWCzRD1NlqRzdEWUzNo/).
 
 Though not extensively used in this project, SQL implementation was acquired from Jose Portilla, through his Udemy course, [The Complete SQL Bootcamp 2022: Go from Zero to Hero](https://www.udemy.com/share/101Whk3@9gWCE0SdPuKlezaUcy_GNhWrQ8ZkhLvMl7_AjRoovgr6p8O6dJVtd5TGmF4OKBWb/).
