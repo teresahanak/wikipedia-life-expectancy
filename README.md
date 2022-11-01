@@ -104,6 +104,7 @@ The link at the end of the main content of each notebook opens the next notebook
     - Jupyter Notebook
     - Markdown
     - HTML
+    - LaTeX
 - Version Control
     - Git
     - GitHub
