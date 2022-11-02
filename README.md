@@ -218,6 +218,8 @@ Web scraping with Scrapy was learned from Frank Andrade, through the Udemy cours
 
 Though not extensively used in this project, SQL implementation was acquired from Jose Portilla, through the Udemy course, [The Complete SQL Bootcamp 2022: Go from Zero to Hero](https://www.udemy.com/share/101Whk3@9gWCE0SdPuKlezaUcy_GNhWrQ8ZkhLvMl7_AjRoovgr6p8O6dJVtd5TGmF4OKBWb/).
 
+Custom imputer coding steps are from Eryk Lewinson's Towards Data Science article, ["Coding a custom imputer in scikit-learn"](https://towardsdatascience.com/coding-a-custom-imputer-in-scikit-learn-31bd68e541de), with the addition of a strategy for mode.
+
 <a id=contributions a></a>
 ## Contributions
 This project serves as an end-to-end portfolio project for its author, as sole contributor.
