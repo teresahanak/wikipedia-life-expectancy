@@ -140,18 +140,18 @@ We analyzed a dataset of over 78,000 (in-sample) entries of notable indviduals s
 # Conclusion
     
 #### *Is there information in the [Wikipedia Notable Deaths](https://en.wikipedia.org/wiki/Deaths_in_2022) list with which to model a notable's life span?*<sup>9</sup>
->There is scant predictive information, but not nothing.  
+- There is scant predictive information, but not nothing.  
 
->Compared to the suggested benchmark of $R^2$ > 0.35 for machine learning models in the social sciences,<sup>9</sup> the champion model is not a very good predictor.  However, given the very narrow breadth of included predictors (region, prior region (if any), number of references (a proxy for notability), year of death, and the domain(s) for which the individual was known), explaining 11.2% of the variation in life span is reasonable.
+- Compared to the suggested benchmark of $R^2$ > 0.35 for machine learning models in the social sciences,<sup>9</sup> the champion model is not a very good predictor.  However, given the very narrow breadth of included predictors (region, prior region (if any), number of references (a proxy for notability), year of death, and the domain(s) for which the individual was known), explaining 11.2% of the variation in life span is reasonable.
 
->
->Other potentially predictive features such as gender, marital status, income, education level, ethnicity, etc., are not overtly present in the model.  It is feasible that the addition of some other key predictors to the current model's predictors (i.e., not in lieu of them) could close the gap between the model's performance and the domain's benchmark minimum $R^2$ for performance.
->
+
+- Other potentially predictive features such as gender, marital status, income, education level, ethnicity, etc., are not overtly present in the model.  It is feasible that the addition of some other key predictors to the current model's predictors (i.e., not in lieu of them) could close the gap between the model's performance and the domain's benchmark minimum $R^2$ for performance.
+
 
 #### *Follow-up Opportunities:*
->Cause of death was collected but not examined in this project.  Both COVID-19 and suicide stood out anecdotally.  Comparison of rates, both in-sample, with regard to `known for` category, and in relation to those of the general population, are potential areas of study.
+- Cause of death was collected but not examined in this project.  Both COVID-19 and suicide stood out anecdotally.  Comparison of rates, both in-sample, with regard to `known for` category, and in relation to those of the general population, are potential areas of study.
 
->Delineation of `known for` categories is a likely source of noise.  For example, in the current version of the dataset, a person who was known for activism related to an illness, who died at an early age from that illness, is included in either politics_govt_law or social (dependent on how their activism manifested).  In many cases, the individual became an activist as a result of the diagnosis.  In a sense there is a combined passive situation with resultant proactive behavior, for which the person was then known.  The problem for analysis lies in the possibility that the individual is known for activity directly tied to a shortened life span.  Another approach would be to add a `known for` category for such activism.
+- Delineation of `known for` categories is a likely source of noise.  For example, in the current version of the dataset, a person who was known for activism related to an illness, who died at an early age from that illness, is included in either politics_govt_law or social (dependent on how their activism manifested).  In many cases, the individual became an activist as a result of the diagnosis.  In a sense there is a combined passive situation with resultant proactive behavior, for which the person was then known.  The problem for analysis lies in the possibility that the individual is known for activity directly tied to a shortened life span.  Another approach would be to add a `known for` category for such activism.
 
 
 
