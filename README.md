@@ -10,6 +10,7 @@
 - [Project Overview](#over)
 - [Explore the Project](#explore)
 - [Project Recap](#recap)
+- [Conclusion](#conclusion)
 - [Skills Demonstrated](#skills)
 - [Application and Package Versions](#versions)
 - [References](#refs)
@@ -136,8 +137,9 @@ We analyzed a dataset of over 78,000 (in-sample) entries of notable indviduals s
 - The champion model, *GBM2_tuned*, is able to account for ~11.2% of the variation in life span of Wikipedia notables who meet inclusion criteria.  
 - The productionized model is able to predict life span of said individuals within an average error of ~11.5 years or ~18.7%.
 - The combination of a more robust algorithm, the inclusion of the original `known for` category and `num_categories` features, and hyperparameter tuning, resulted in an increase of 2.4% in explained variation in life span by the champion model, *GBM2_tuned*, over the linear regression model, *olsmodel3*.
-        
-# Conclusion
+
+<a id=conclusion a></a>
+## Conclusion
     
 #### *Is there information in the [Wikipedia Notable Deaths](https://en.wikipedia.org/wiki/Deaths_in_2022) list with which to model a notable's life span?*<sup>9</sup>
 - There is scant predictive information, but not nothing.  
