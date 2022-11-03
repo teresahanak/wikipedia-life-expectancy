@@ -82,7 +82,7 @@ The link at the end of the main content of each notebook opens the next notebook
 <a id=recap a></a>
 ## Project Recap
 ### We set out to answer the question:
->*If a person makes the [Wikipedia Notable Deaths](https://en.wikipedia.org/wiki/Deaths_in_2022) list,<sup>7</sup> is there information there that can be used to model and predict that person's life span?*
+>*If a person makes the [Wikipedia Notable Deaths](https://en.wikipedia.org/wiki/Deaths_in_2022) list,<sup>10</sup> is there information there that can be used to model and predict that person's life span?*
 >
 As intended, the journey took us through the processes of Web scraping, cleaning (*very*) messy data, and solving a regression problem.
 
@@ -168,6 +168,7 @@ We analyzed a dataset of over 78,000 (in-sample) entries of notable indviduals s
 7. "Deaths in January 2022," Wikipedia, last modified October 24, 2022, https://en.wikipedia.org/wiki/Deaths_in_January_2022.
 8. "File:Screenshot snippet of Wikipedia Ramiz Abutalibov References.png," Wikimedia Commons, last modified October 23, 2022, https://commons.wikimedia.org/wiki/File:Screenshot_snippet_of_Wikipedia_Ramiz_Abutalibov_References.png.
 9. "Ramiz Abutalibov," Wikipedia, last modified May 14, 2022, 2022, https://en.wikipedia.org/wiki/Ramiz_Abutalibov.
+10. See note 1 above.
 
 <a id=skills a></a>
 ## Skills Demonstrated
