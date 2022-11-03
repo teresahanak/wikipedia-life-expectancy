@@ -79,7 +79,79 @@ The link at the end of the main content of each notebook opens the next notebook
 
 
 <a id=insights a></a>
-## Insights
+## Project Recap
+### We set out to answer the question:
+>*If a person makes the [Wikipedia Notable Deaths](https://en.wikipedia.org/wiki/Deaths_in_2022) list,<sup>7</sup> is there information there that can be used to model and predict that person's life span?*
+>
+As intended, the journey took us through the processes of Web scraping, cleaning (*very*) messy data, and solving a regression problem.
+
+### Along the way, we made key decisions as to which path to take:
+
+- During **data collection**, the number of references for each individual's Wikipedia page was collected as a proxy for notability.  This feature, `num_references`, has the 4th highest importance of predictors in the champion model. 
+- Nearing completion of the first attempt, extracting `known for` information (the most challenging and lengthy phase of both **data cleaning** and the project overall) was completely rebooted.  It was at that point that the current standardized version of its code was realized.  The difficult but worthwhile decision was made to repeat that step with the better code.  
+- The inclusion criterion of having at least 3 references was also decided during **data cleaning**, at the cost of reducing the size of the dataset, but with the benefit of increased focus on more notable individuals.  The decision came with the secondary benefit of reducing the extraction time for the `known for` categories.
+- Delineating the `known for` categories, also part of **data cleaning**, was its own challenge and potential source of noise.  The programatically-driven manual approach to extracting this information was beneficial over a purely manual approach, in that prior iterations on earlier searched columns could be easily referenced or updated for consistency and accuracy.
+- Additional inclusion criteria were added at the start of **EDA**, to focus the study on notability for proactive living, rather than for passive association with events or characteristics.  They included minimum attained age of 18 and being `known for` at least one category other than `event_record_other`--an inherently noisy class that accounts for individuals known for extreme age, physical characteristics, association with or being the victim of an event, etc.  To follow suit for the remaining entries, the `event_record_other` category was then dropped, altogether.
+- Also during **EDA**, a new `known_for` feature was engineered combining `known for` categories into a single column, with 2 new classes for entries with multiple categories ("two" and "three_to_five").  The original columns would have been problematic for linear regression interpretation, due to some individuals having multiple categories.
+- For emphasis on **interpretability**, a **linear regression model** was built, though the assumption of normally distributed residuals was sacrificed for ease of coefficient interpretation.  
+- For better **prediction**, **model building with various regressors with hyperparameter tuning** was performed.  Before choosing the champion model, separate iterations of model building were performed: (1) with the engineered combined `known_for` feature, and (2) with the original `known for` categories plus `num_categories` (number of (known for) categories for and individual).
+
+### What did we find?
+We analyzed a dataset of over 78,000 (in-sample) entries of notable indviduals scraped from [Wikipedia Notable Deaths](https://en.wikipedia.org/wiki/Deaths_in_January_1994) for January, 1, 1994, through June 9, 2022, with the goal of ascertaining if the information there was sufficient to model a notable individual's life span.<sup>8</sup>   Key insights include observed characteristics of the dataset, interpretation of key predictive features, and model performance.
+#### Observed Characteristics of the Dataset
+- Life span ranges from 18 to 122, averaging ~77 years.  
+- The  number of references ranges from 3 to 660, with at least 75% of entries have 13 or fewer references. 
+- Of the 11 residency regions, North America is the top value, followed by Europe, accounting for \~73% of entries combined.
+- Over 94% of entries have a single region of residency.  The most relocations came from European countries (\~3% of entries).
+- The vast majority (\~86%) of entries have a single known for category, but there are entries with as many as 5 categories.
+- Just over 1/3 of entries are known for arts, followed by sports, then politics_govt_law, which combined also make up just over 1/3 of entries. 
+
+#### Interpretation of Key Predictors from EDA, Linear Regression *olsmodel3*, and Champion Model *GBM2_tuned*
+- *Notoriety is not a recipe for longevity:*
+    - Notables in the crime category have the shortest average life span, of ~55 years.
+    - In *olsmodel3*, being known for crime is associated with a 23.5 year decrease in age.* 
+    - In the the champion model, *GBM2_tuned*, (known for) crime is the 2nd most important predictive feature.
+- *More publicity isn't better:*
+    - In *olsmodel3*, a 10 unit increase in number of references is associated with a 0.4 year decrease in age.*  The finding may reflect well-known convicted criminals (i.e., with shorter life spans) and the unexpected death of other famous younger individuals drawing more attention, keeping in mind that association does not imply causation.  In contrast, longer living individuals have more time to make their mark, but apparently that possibility does not offset the other underlying contributing factors to decreased life span with increased notability.
+    - In the champion model, *GBM2_tuned*, number of references is the 4th most important predictive feature.
+- *Mind vs Body Connection?*
+    - Notables in the sports category had the second shortest average life span, of ~72 years, while those in spiritual and sciences categories had the highest, of ~82 years.
+    - In *olsmodel3*, being known for sports  is associated with a 7 year decrease in age while being known for spiritual living or sciences is associated with a 3.5 year or 3 year increase in age, respectively.*
+    - In the champion model, *GBM2_tuned* sports is the most important predictive feature.  Sciences and spiritual are 9th and 14th, respectively.
+- *Time will tell:*
+    - There is an overall upward trend in mean age with the advancement of year of death.  The net increase in mean life span is ~5 years, from ~74 to ~79 years, from January, 1994, to June, 2022.
+    - In *olsmodel3*, a unit increase in years is associated with a 0.2 year increase in age--a finding consistent with the expectation of overall increasing human life expectancy.*
+    - In the champion model, *GBM2_tuned*, years is the 3rd most important predictive feature.
+- *Location, location, location:*
+    - Individuals of the Central Asia region have the shortest average life span (\~67 years), followed by Africa (\~69 years), while those of Europe and North America have the longest (\~78 years).
+    - In *olsmodel3*, being of region Europe OR North America OR Asia is associated with a nearly 10 year increase in age.*
+    - In the champion model, *GBM2_tuned*, regions North America and Europe are the 5th and 6th most important predictive features, respectively.  
+    
+    \*All else constant and compared to reference level for categorical features:  
+        - region: Africa OR Central Asia
+        - prior_region: Africa, No Prior Region, South America, Central Asia, Mid-Cent America/Caribbean, North America, OR Oceania
+        - known_for: academia_humanities, politics_govt_law, business_farming, OR social
+        
+#### Champion Model and Performance
+- The champion model, *GBM2_tuned*, is able to account for ~11.2% of the variation in life span of Wikipedia notables who meet inclusion criteria.  
+- The productionized model is able to predict life span of said individuals within an average error of ~11.5 years or ~18.7%.
+- The combination of a more robust algorithm, the inclusion of the original `known for` category and `num_categories` features, and hyperparameter tuning, resulted in an increase of 2.4% in explained variation in life span by the champion model, *GBM2_tuned*, over the linear regression model, *olsmodel3*.
+        
+# Conclusion
+    
+#### *As to whether there is information in the [Wikipedia Notable Deaths](https://en.wikipedia.org/wiki/Deaths_in_2022) list with which to model a notable's life span:*<sup>9</sup>
+>There is scant predictive information, but not nothing.  
+
+>Compared to the suggested benchmark of $R^2$ > 0.35 for machine learning models in the social sciences,<sup>9</sup> the champion model is not a very good predictor.  However, given the very narrow breadth of included predictors (region, prior region (if any), number of references (a proxy for notability), year of death, and the domain(s) for which the individual was known), explaining 11.2% of the variation in life span is reasonable.
+
+>
+>Other potentially predictive features such as gender, marital status, income, education level, ethnicity, etc., are not overtly present in the model.  It is feasible that the addition of some other key predictors to the current model's predictors (i.e., not in lieu of them) could close the gap between the model's performance and the domain's benchmark minimum $R^2$ for performance.
+>
+
+#### *Follow-up Opportunities:*
+>Cause of death was collected but not examined in this project.  Both COVID-19 and suicide stood out anecdotally.  Comparison of rates, both in-sample, with regard to `known for` category, and in relation to those of the general population, are potential areas of study.
+
+>Delineation of `known for` categories is a likely source of noise.  For example, in the current version of the dataset, a person who was known for activism related to an illness, who died at an early age from that illness, is included in either politics_govt_law or social (dependent on how their activism manifested).  In many cases, the individual became an activist as a result of the diagnosis.  In a sense there is a combined passive situation with resultant proactive behavior, for which the person was then known.  The problem for analysis lies in the possibility that the individual is known for activity directly tied to a shortened life span.  Another approach would be to add a `known for` category for activism.
 
 
 
