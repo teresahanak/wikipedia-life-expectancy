@@ -112,7 +112,7 @@ We analyzed a dataset of over 78,000 (in-sample) entries of notable indviduals s
     - Notables in the crime category have the shortest average life span, of ~55 years.
     - In *olsmodel3*, being known for crime is associated with a 23.5 year decrease in age.* 
     - In the the champion model, *GBM2_tuned*, (known for) crime is the 2nd most important predictive feature.
-- *When it comes to publicity, more is not better:*
+- *When it comes to life span, more publicity is not better:*
     - In *olsmodel3*, a 10 unit increase in number of references is associated with a 0.4 year decrease in age.*  The finding may reflect well-known convicted criminals (i.e., with shorter life spans) and the unexpected death of other famous younger individuals drawing more attention, keeping in mind that association does not imply causation.  In contrast, longer living individuals have more time to make their mark, but apparently that possibility does not offset the other underlying contributing factors to decreased life span with increased notability.
     - In the champion model, *GBM2_tuned*, number of references is the 4th most important predictive feature.
 - *Mind vs body connection?*
