@@ -98,7 +98,7 @@ As intended, the journey took us through the processes of Web scraping, cleaning
 - For better **prediction**, **model building with various regressors with hyperparameter tuning** was performed.  Before choosing the champion model, separate iterations of model building were performed: (1) with the engineered combined `known_for` feature, and (2) with the original `known for` categories plus `num_categories` (number of `known for` categories for and individual).
 
 ### What did we find?
-We analyzed a dataset of over 78,000 (in-sample) entries of notable indviduals scraped from [Wikipedia Notable Deaths](https://en.wikipedia.org/wiki/Deaths_in_January_1994) for January, 1, 1994, through June 9, 2022, with the goal of ascertaining if the information there was sufficient to model a notable individual's life span.<sup>8</sup>   Key insights include observed characteristics of the dataset, interpretation of key predictive features, and model performance.
+We analyzed a dataset of over 78,000 (in-sample) entries of notable indviduals scraped from [Wikipedia Notable Deaths](https://en.wikipedia.org/wiki/Deaths_in_January_1994) for January, 1, 1994, through June 9, 2022,<sup>11</sup> with the goal of ascertaining if the information there was sufficient to model a notable individual's life span.   Key insights include observed characteristics of the dataset, interpretation of key predictive features, and model performance.
 #### Observed Characteristics of the Dataset
 - Life span ranges from 18 to 122, averaging ~77 years.  
 - The  number of references ranges from 3 to 660, with at least 75% of entries have 13 or fewer references. 
@@ -169,6 +169,7 @@ We analyzed a dataset of over 78,000 (in-sample) entries of notable indviduals s
 8. "File:Screenshot snippet of Wikipedia Ramiz Abutalibov References.png," Wikimedia Commons, last modified October 23, 2022, https://commons.wikimedia.org/wiki/File:Screenshot_snippet_of_Wikipedia_Ramiz_Abutalibov_References.png.
 9. "Ramiz Abutalibov," Wikipedia, last modified May 14, 2022, 2022, https://en.wikipedia.org/wiki/Ramiz_Abutalibov.
 10. See note 1 above.
+11. "Deaths in January 1994" through "Deaths in June 2022" (through June 9, 2022) and each listed individual's page, Wikipedia, accessed (scraped) June 9-10, 2022, https://en.wikipedia.org/wiki/Deaths_in_January_1994; "A List of Nationalities," WorldAtlas, Victor Kiprop, last modified May 14, 2018, https://www.worldatlas.com/articles/what-is-a-demonym-a-list-of-nationalities.html.; Marijn Huizendveld, List of nationalities. (GitHub, accessed June 17, 2022), https://gist.github.com/marijn/274449#file-nationalities-txt; "Map of the World's Continents and Regions," Nations Online Project, accessed June 29, 2022, https://www.nationsonline.org/oneworld/small_continents_map.htm.
 
 <a id=skills a></a>
 ## Skills Demonstrated
