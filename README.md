@@ -151,7 +151,7 @@ We analyzed a dataset of over 78,000 (in-sample) entries of notable indviduals s
 
 
 #### *Follow-up Opportunities:*
-- Cause of death was collected but not examined in this project.  Both COVID-19 and suicide stood out anecdotally.  Comparisons of rates, both in-sample (with regard to `known for` category) and in relation to those of the general population, are potential areas of further study.
+- Cause of death was collected but not examined in this project.  Both COVID-19 and suicide stood out anecdotally.  Comparison of rates, both in-sample (with regard to `known for` category) and in relation to those of the general population, is a potential area of further study.
 
 - Delineation of `known for` categories is a likely source of noise.  For example, in the current version of the dataset, a person who was known for activism related to an illness, who died at an early age from that illness, is included in either politics_govt_law or social (dependent on how their activism manifested).  In many cases, the individual became an activist as a result of the diagnosis.  In a sense there is a combined passive situation with resultant proactive behavior, for which the person was then known.  The problem for analysis lies in the possibility that the individual is known for activity directly tied to a shortened life span.  Another approach would be to add a `known for` category for such activism.
 
