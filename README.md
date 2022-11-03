@@ -108,22 +108,22 @@ We analyzed a dataset of over 78,000 (in-sample) entries of notable indviduals s
 - Just over 1/3 of entries are known for arts, followed by sports, then politics_govt_law, which combined also make up just over 1/3 of entries. 
 
 #### Interpretation of Key Predictors from EDA, Linear Regression *olsmodel3*, and Champion Model *GBM2_tuned*
-- *Notoriety is not the key to longevity:*
+- *Notoriety is not the key to longevity.*
     - Notables in the crime category have the shortest average life span, of ~55 years.
     - In *olsmodel3*, being known for crime is associated with a 23.5 year decrease in age.* 
     - In the the champion model, *GBM2_tuned*, (known for) crime is the 2nd most important predictive feature.
-- *When it comes to life span, more publicity is not better:*
+- *When it comes to life span, more publicity is not better.*
     - In *olsmodel3*, a 10 unit increase in number of references is associated with a 0.4 year decrease in age.*  The finding may reflect well-known convicted criminals (i.e., with shorter life spans) and the unexpected death of other famous younger individuals drawing more attention, keeping in mind that association does not imply causation.  In contrast, longer living individuals have more time to make their mark, but apparently that possibility does not offset the other underlying contributing factors to decreased life span with increased notability.
     - In the champion model, *GBM2_tuned*, number of references is the 4th most important predictive feature.
 - *Mind vs body connection?*
     - Notables in the sports category had the second shortest average life span, of ~72 years, while those in spiritual and sciences categories had the highest, of ~82 years.
     - In *olsmodel3*, being known for sports  is associated with a 7 year decrease in age, while being known for spiritual living or sciences is associated with a 3.5 year or 3 year increase in age, respectively.*
     - In the champion model, *GBM2_tuned*, sports is the most important predictive feature.  Sciences and spiritual are 9th and 14th, respectively.
-- *Time will tell:*
+- *Time will tell.*
     - There is an overall upward trend in mean age with the advancement of year of death.  The net increase in mean life span is ~5 years, from ~74 to ~79 years, from January, 1994, to June, 2022.
     - In *olsmodel3*, a unit increase in years (i.e., year of death) is associated with a 0.2 year increase in age--a finding consistent with the expectation of overall increasing human life expectancy.*
     - In the champion model, *GBM2_tuned*, years (i.e., year of death) is the 3rd most important predictive feature.
-- *Location, location, location:*
+- *Location, location, location.*
     - Individuals of the Central Asia region have the shortest average life span (\~67 years), followed by Africa (\~69 years), while those of Europe and North America have the longest (\~78 years).
     - In *olsmodel3*, being of region Europe OR North America OR Asia is associated with a nearly 10 year increase in age.*
     - In the champion model, *GBM2_tuned*, regions North America and Europe are the 5th and 6th most important predictive features, respectively.  
