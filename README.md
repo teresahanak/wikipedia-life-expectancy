@@ -108,7 +108,7 @@ We analyzed a dataset of over 78,000 (in-sample) entries of notable indviduals s
 - Just over 1/3 of entries are known for arts, followed by sports, then politics_govt_law, which combined also make up just over 1/3 of entries. 
 
 #### Interpretation of Key Predictors from EDA, Linear Regression *olsmodel3*, and Champion Model *GBM2_tuned*
-- *Notoriety is not a recipe for longevity:*
+- *Notoriety is not the key to longevity:*
     - Notables in the crime category have the shortest average life span, of ~55 years.
     - In *olsmodel3*, being known for crime is associated with a 23.5 year decrease in age.* 
     - In the the champion model, *GBM2_tuned*, (known for) crime is the 2nd most important predictive feature.
