@@ -9,7 +9,7 @@
 - [Background](#back)
 - [Project Overview](#over)
 - [Explore the Project](#explore)
-- [Insights](#insights)
+- [Project Recap](#recap)
 - [Skills Demonstrated](#skills)
 - [Application and Package Versions](#versions)
 - [References](#refs)
@@ -78,7 +78,7 @@ The link at the end of the main content of each notebook opens the next notebook
   ![images/refresh_snippet.jpg](images/refresh_snippet.jpg)
 
 
-<a id=insights a></a>
+<a id=recap a></a>
 ## Project Recap
 ### We set out to answer the question:
 >*If a person makes the [Wikipedia Notable Deaths](https://en.wikipedia.org/wiki/Deaths_in_2022) list,<sup>7</sup> is there information there that can be used to model and predict that person's life span?*
