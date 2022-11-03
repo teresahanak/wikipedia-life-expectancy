@@ -125,7 +125,7 @@ The link at the end of the main content of each notebook opens the next notebook
     - Matplotlib
     - Seaborn
 - Data Preprocessing
-    - Feature Extraction
+    - Feature Engineering
     - Transformations
 - Linear Regression Modeling--Interpretation Emphasis
     - Assumptions
