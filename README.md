@@ -115,7 +115,7 @@ We analyzed a dataset of over 78,000 (in-sample) entries of notable indviduals s
 - *More publicity isn't better:*
     - In *olsmodel3*, a 10 unit increase in number of references is associated with a 0.4 year decrease in age.*  The finding may reflect well-known convicted criminals (i.e., with shorter life spans) and the unexpected death of other famous younger individuals drawing more attention, keeping in mind that association does not imply causation.  In contrast, longer living individuals have more time to make their mark, but apparently that possibility does not offset the other underlying contributing factors to decreased life span with increased notability.
     - In the champion model, *GBM2_tuned*, number of references is the 4th most important predictive feature.
-- *Mind vs Body Connection?*
+- *Mind vs body connection?*
     - Notables in the sports category had the second shortest average life span, of ~72 years, while those in spiritual and sciences categories had the highest, of ~82 years.
     - In *olsmodel3*, being known for sports  is associated with a 7 year decrease in age while being known for spiritual living or sciences is associated with a 3.5 year or 3 year increase in age, respectively.*
     - In the champion model, *GBM2_tuned*, sports is the most important predictive feature.  Sciences and spiritual are 9th and 14th, respectively.
