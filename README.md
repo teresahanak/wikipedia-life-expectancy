@@ -128,9 +128,9 @@ We analyzed a dataset of over 78,000 (in-sample) entries of notable indviduals s
     - In the champion model, *GBM2_tuned*, regions North America and Europe are the 5th and 6th most important predictive features, respectively.  
     
     \*All else constant and compared to reference level for categorical features:  
-        - region: Africa OR Central Asia  
-        - prior_region: Africa, No Prior Region, South America, Central Asia, Mid-Cent America/Caribbean, North America, OR Oceania  
-        - known_for: academia_humanities, politics_govt_law, business_farming, OR social  
+          - region: Africa OR Central Asia  
+          - prior_region: Africa, No Prior Region, South America, Central Asia, Mid-Cent America/Caribbean, North America, OR Oceania  
+          - known_for: academia_humanities, politics_govt_law, business_farming, OR social  
         
 #### Champion Model and Performance
 - The champion model, *GBM2_tuned*, is able to account for ~11.2% of the variation in life span of Wikipedia notables who meet inclusion criteria.  
