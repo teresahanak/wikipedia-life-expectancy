@@ -70,7 +70,7 @@ The links below access the Jupyter Notebooks that encompass the project.  Standa
 
 Web scraping steps are in Notebook 1, including details of the PyCharm project folder and links to its contents.
 
-**Observations** appear throughout each notebook, documenting immediate context.  Exploratory Data Analysis, Linear Regression, and Modeling for Regression (Notebooks 10, 12, and 13) have additional **Summary**, **Insights**, or **Conclusion** sections at the end of their main content.
+**Observations** appear throughout each notebook, documenting immediate context.  Exploratory Data Analysis, Linear Regression, and Modeling for Regression (Notebooks 10, 12, and 13) have additional **Summary**, **Key Findings**, or **Recap and Conclusion** sections at the end of their main content.
 
 The link at the end of the main content of each notebook opens the next notebook.  [Return to README](https://github.com/teresahanak/wikipedia-life-expectancy#explore-the-project) links are also available at start and end of the main content of each notebook, to return to these instructions.
 
