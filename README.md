@@ -128,7 +128,7 @@ We analyzed a dataset of over 78,000 (in-sample) entries of notable indviduals s
     - In *olsmodel3*, being of region Europe OR North America OR Asia is associated with a nearly 10 year increase in age.*
     - In the champion model, *GBM2_tuned*, regions North America and Europe are the 5th and 6th most important predictive features, respectively.  
     
-    \*All else constant and compared to reference level for categorical features:  
+    \*All else constant and compared to the following reference levels for categorical features:  
           - region: Africa OR Central Asia  
           - prior_region: Africa, No Prior Region, South America, Central Asia, Mid-Cent America/Caribbean, North America, OR Oceania  
           - known_for: academia_humanities, politics_govt_law, business_farming, OR social  
