@@ -157,7 +157,7 @@ We analyzed a dataset of over 78,000 (in-sample) entries of notable indviduals s
 
 
 <a id=ref1 a></a>
-##
+______________________
 1. "Deaths in 2022," Wikipedia, last modified October 24, 2022, https://en.wikipedia.org/wiki/Deaths_in_2022.
 2. "Lists of deaths by year," Wikipedia, last modified October 1, 2022, https://en.wikipedia.org/wiki/Lists_of_deaths_by_year.
 3. "Wikipedia," Wikipedia, last modified October 20, 2022, https://en.wikipedia.org/wiki/Wikipedia.
