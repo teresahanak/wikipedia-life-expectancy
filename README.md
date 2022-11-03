@@ -145,7 +145,7 @@ We analyzed a dataset of over 78,000 (in-sample) entries of notable indviduals s
 #### *Is there information in the [Wikipedia Notable Deaths](https://en.wikipedia.org/wiki/Deaths_in_2022) list with which to model a notable's life span?*<sup>9</sup>
 - There is scant predictive information, but not nothing.  
 
-- Compared to the suggested benchmark of $R^2$ > 0.35 for machine learning models in the social sciences,<sup>9</sup> the champion model is not a very good predictor.  However, given the very narrow breadth of included predictors (region, prior region (if any), number of references (a proxy for notability), year of death, and the domain(s) for which the individual was known), explaining 11.2% of the variation in life span is reasonable.
+- Compared to the suggested benchmark of $R^2$ > 0.35 for machine learning models in the social sciences,<sup>11</sup> the champion model is not a very good predictor.  However, given the very narrow breadth of included predictors (region, prior region (if any), number of references (a proxy for notability), year of death, and the domain(s) for which the individual was known), explaining 11.2% of the variation in life span is reasonable.
 
 - Other potentially predictive features such as gender, marital status, income, education level, ethnicity, etc., are not overtly present in the model.  It is feasible that the addition of some other key predictors to the current model's predictors (i.e., not in lieu of them) could close the gap between the model's performance and the domain's benchmark minimum $R^2$ for performance.
 
