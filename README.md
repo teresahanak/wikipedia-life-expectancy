@@ -98,7 +98,7 @@ As intended, the journey took us through the processes of Web scraping, cleaning
 - For better **prediction**, **model building with various ensemble regressors with hyperparameter tuning** was performed.  Before choosing the champion model, separate iterations of model building were conducted: (1) with the engineered combined `known_for` feature, and (2) with the original `known for` categories plus `num_categories` (number of `known for` categories for and individual).
 
 ### What did we find?
-We analyzed a dataset of over 78,000 (in-sample) entries of notable indviduals scraped from [Wikipedia Notable Deaths](https://en.wikipedia.org/wiki/Deaths_in_January_1994) for January, 1, 1994, through June 9, 2022,<sup>11</sup> with the goal of ascertaining if the information there was sufficient to model a notable individual's life span.  Highlights include observed characteristics of the dataset, interpretation of key predictive features, and model performance.
+We analyzed a dataset of over 78,000 (in-sample) entries of notable indviduals scraped from [Wikipedia Notable Deaths](https://en.wikipedia.org/wiki/Deaths_in_January_1994) for January, 1, 1994, through June 9, 2022,[<sup>11</sup>](#ref1) with the goal of ascertaining if the information there was sufficient to model a notable individual's life span.  Highlights include observed characteristics of the dataset, interpretation of key predictive features, and model performance.
 #### Observed Characteristics of the Dataset
 - Life span ranges from 18 to 122, averaging ~77 years.  
 - The  number of references ranges from 3 to 660, with at least 75% of entries have 13 or fewer references. 
@@ -142,7 +142,7 @@ We analyzed a dataset of over 78,000 (in-sample) entries of notable indviduals s
         
 ## Conclusion
     
-#### *Is there information in the [Wikipedia Notable Deaths](https://en.wikipedia.org/wiki/Deaths_in_2022) list with which to model a notable's life span?*<sup>9</sup>
+#### *Is there information in the [Wikipedia Notable Deaths](https://en.wikipedia.org/wiki/Deaths_in_2022) list with which to model a notable's life span?*[<sup>12</sup>](#ref1)
 - There is scant predictive information, but not nothing.  
 
 - Compared to the suggested benchmark of $R^2$ > 0.35 for machine learning models in the social sciences,<sup>12</sup> the champion model is not a very good predictor.  However, given the very narrow breadth of included predictors (region, prior region (if any), number of references (a proxy for notability), year of death, and the domain(s) for which the individual was known), explaining 11.2% of the variation in life span is reasonable.
