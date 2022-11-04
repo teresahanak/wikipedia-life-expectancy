@@ -131,7 +131,7 @@ We analyzed a dataset of over 78,000 (in-sample) entries of notable indviduals s
 #### Champion Model and Performance
 - The champion model, *GBM2_tuned*, is able to account for ~11.2% of the variation in life span of Wikipedia notables who meet inclusion criteria.  
 - The productionized model is able to predict life span of said individuals within an average error of ~11.5 years or ~18.7%.
-- The combination of a more robust algorithm, the inclusion of the original `known for` category and `num_categories` features, and hyperparameter tuning, resulted in an increase of 2.4% in explained variation in life span by the champion model, *GBM2_tuned*, over the linear regression model, *olsmodel3*.
+- Combined, the more robust ensemble algorithm, inclusion of the original `known for` category and `num_categories` predictors, and hyperparameter tuning resulted in an increase of 2.4% in explained variation in life span by the champion model, *GBM2_tuned*, over the linear regression model, *olsmodel3*.
     ___________________________
     \*All else constant and compared to reference level for categorical features:  
     - region: Africa OR Central Asia  
