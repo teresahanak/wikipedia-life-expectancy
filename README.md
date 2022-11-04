@@ -225,7 +225,7 @@ ______________________
 - Pipelines
     - Custom Transformers
     - Production Pipeline
-- User Interface for Predictions
+    - 
 <a id=versions a></a>
 ## Application and Package Versions
 - [Anaconda Navigator](https://docs.anaconda.com/navigator/index.html) 2.2.0 virtual environment
