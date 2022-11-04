@@ -98,7 +98,7 @@ As intended, the journey took us through the processes of Web scraping, cleaning
 - For better **prediction**, **model building with various ensemble regressors with hyperparameter tuning** was performed.  Before choosing the champion model, separate iterations of model building were conducted: (1) with the engineered combined `known_for` feature, and (2) with the original `known for` categories plus `num_categories` (number of `known for` categories for and individual).
 
 ### What did we find?
-We analyzed a dataset of ~78,000 entries (additional ~19,400 entries withheld as test set) of notable indviduals scraped from [Wikipedia Notable Deaths](https://en.wikipedia.org/wiki/Deaths_in_January_1994) for January, 1, 1994, through June 9, 2022,[<sup>13</sup>](#ref1) with the goal of ascertaining if the information there was sufficient to model a notable individual's life span.  Highlights include observed characteristics of the dataset, interpretation of key predictive features, and model performance.
+We analyzed a dataset of ~78,000 entries of notable indviduals scraped from [Wikipedia Notable Deaths](https://en.wikipedia.org/wiki/Deaths_in_January_1994) for January, 1, 1994, through June 9, 2022,[<sup>13</sup>](#ref1) with the goal of ascertaining if the information there was sufficient to model a notable individual's life span.  An additional ~19,400 entries were maintained separately for testing.  Highlights include observed characteristics of the dataset, interpretation of key predictive features, and model performance.
 #### Observed Characteristics of the Dataset
 - Life span ranges from 18 to 122, averaging ~77 years.  
 - The  number of references ranges from 3 to 660, with at least 75% of entries have 13 or fewer references. 
