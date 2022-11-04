@@ -34,7 +34,7 @@ Year, month, and day of death are also readily available, as seen in the sample 
 
 
 At the bottom of an indvidual's page (accessed by following the Name link), is a References section for that individual's page.  [Image 1b](#img1b)[<sup>8</sup>](#ref1) contains a sample from [Ramiz Abutalibov's](https://en.wikipedia.org/wiki/Ramiz_Abutalibov) page[<sup>9</sup>](#ref1).
-The number of references is easily scraped and can represent the individual's notability, quantified.  With this proxy for notability added, the above elements provide a framework for collecting the data ([Image 1a-d](#img1a))[<sup>10</sup>](#ref1) and proceeding with the analysis as outlined in the following project overview.[<sup>11</sup>](#ref1)
+The number of references is easily scraped and can represent the individual's notability, quantified.  With this proxy for notability added, the above elements provide a framework for collecting the data ([Image 1a-d](#img1a))[<sup>10</sup>](#ref1) and proceeding with the analysis, as outlined in the following project overview.[<sup>11</sup>](#ref1)
 
 <a id=over a></a>
 ## Project Overview
