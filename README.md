@@ -155,6 +155,8 @@ We analyzed a dataset of over 78,000 (in-sample) entries of notable indviduals s
 
 - Delineation of `known for` categories is a likely source of noise.  For example, in the current version of the dataset, a person who was known for activism related to an illness, who died at an early age from that illness, is included in either the politics_govt_law or social category (dependent on how their activism manifested).  In many cases, the individual became an activist as a result of the diagnosis.  In a sense there is a combined passive situation with resultant proactive behavior, for which the person was then known.  The problem for analysis lies in the possibility that the individual is known for activity directly tied to a shortened life span.  Another approach would be to add a `known for` category for such activism.
 
+- Another source of noise is whether or not military service is captured.  In particular, males of the World War II generation were very likely to have served.  For those notables who were known specifically for their military service, the category is captured.  For the others, it is hit or miss.  In some instances, the category was captured secondary to a manual check of an individual's page for another reason.  Finding the information within an individual's page is a much more complicated programmatic challenge than scraping the listed information, as we have done here.
+
 
 <a id=ref1 a></a>
 ______________________
