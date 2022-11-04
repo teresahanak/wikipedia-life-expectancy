@@ -121,8 +121,8 @@ We analyzed a dataset of over 78,000 (in-sample) entries of notable indviduals s
     - In the champion model, *GBM2_tuned*, sports is the most important predictive feature.  Sciences and spiritual are 9th and 14th, respectively.
 - *Time will tell.*
     - There is an overall upward trend in mean age with the advancement of year of death.  The net increase in mean life span is ~5 years, from ~74 to ~79 years, from January, 1994, to June, 2022.
-    - In *olsmodel3*, a unit increase in years is associated with a 0.2-year increase in age--a finding consistent with the expectation of overall increasing human life expectancy.*
-    - In the champion model, *GBM2_tuned*, years is the 3rd most important predictive feature.
+    - In *olsmodel3*, a unit increase in years (i.e., year of death) is associated with a 0.2-year increase in age--a finding consistent with the expectation of overall increasing human life expectancy.*
+    - In the champion model, *GBM2_tuned*, years (i.e., year of death) is the 3rd most important predictive feature.
 - *Location, location, location.*
     - Individuals of the Central Asia region have the shortest average life span (\~67 years), followed by Africa (\~69 years), while those of Europe and North America have the longest (\~78 years).
     - In *olsmodel3*, being of region Europe OR North America OR Asia is associated with a nearly 10-year increase in age.*
