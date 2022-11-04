@@ -298,7 +298,7 @@ Though not extensively used in this project, SQL implementation was acquired fro
 
 Custom imputer coding steps are from Eryk Lewinson's Towards Data Science article, ["Coding a custom imputer in scikit-learn"](https://towardsdatascience.com/coding-a-custom-imputer-in-scikit-learn-31bd68e541de), with the addition of a strategy for mode.
 
-Thank you to all of the Wikipedians and Wikipedia Notables whose respective contributions and fascinating lives made this exploration possible.
+Thank you to all of the Wikipedians and Wikipedia Notables whose respective contributions and fascinating lives lived made this exploration possible.
 
 <a id=contributions a></a>
 ## Contributions
