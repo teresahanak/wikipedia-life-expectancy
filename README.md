@@ -235,14 +235,14 @@ ______________________
 - [NumPy](https://numpy.org/) 1.223
 - [pandas](https://pandas.pydata.org/) 1.4.2
 - [pip](https://pypi.org/project/pip/) 21.2.4
-- [Protego](https://github.com/scrapy/protego) (0.2.1)  
+- [Protego](https://github.com/scrapy/protego) 0.2.1
 - [PyCharm](https://www.jetbrains.com/pycharm/) Professional 2021.1.2
 - [PyLab](https://scipy.github.io/old-wiki/pages/PyLab)
 - [Python](https://www.python.org/) 3.9.12
 - [ReviewNB](https://www.reviewnb.com/) (tool used without reproduction)
 - [scikit-learn](https://scikit-learn.org/stable/) 1.0.2
 - [SciPy](https://scipy.org/) 1.7.3
-- [Scrapy](https://scrapy.org/) (2.6.1)
+- [Scrapy](https://scrapy.org/) 2.6.1
 - [seaborn](https://seaborn.pydata.org/) 0.11.2
 - [SQLite](https://www.sqlite.org/index.html) 3.38.3
 - [SQLite Viewer](https://inloop.github.io/sqlite-viewer/) (tool used without reproduction)
