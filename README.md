@@ -82,7 +82,7 @@ The link at the end of the main content of each notebook opens the next notebook
 <a id=recap a></a>
 ## Project Recap
 ### We set out to answer the question:
->*If a person makes the [Wikipedia Notable Deaths](https://en.wikipedia.org/wiki/Deaths_in_2022) list,[<sup>10</sup>](#ref1) is there information there that can be used to model and predict that person's life span?*
+>*If a person makes the [Wikipedia Notable Deaths](https://en.wikipedia.org/wiki/Deaths_in_2022) list,[<sup>12</sup>](#ref1) is there information there that can be used to model and predict that person's life span?*
 >
 As intended, the journey took us through the processes of Web scraping, cleaning (*very*) messy data, and solving a regression problem.
 
