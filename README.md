@@ -228,7 +228,7 @@ ______________________
     - Custom Transformers
     - Production Pipeline
 - Model Testing with User Interface
-    - Gradio
+  - [Gradio](https://gradio.app/)
 
 
 <a id=versions a></a>
