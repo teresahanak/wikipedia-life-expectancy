@@ -56,6 +56,7 @@ The number of references is easily scraped and can represent the individual's no
 ![images/interp_snippet.jpg](images/interp_snippet.jpg)
 ### Predict.
 ![images/predict_snnippet.jpg](images/predict_snippet.jpg)
+![images/Gradio_snippet.jpg](images/Gradio_snippet.jpg)
   
   
 <a id=explore a></a>
