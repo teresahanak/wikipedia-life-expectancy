@@ -227,7 +227,7 @@ ______________________
 - Pipelines
     - Custom Transformers
     - Production Pipeline
-- User Interface to Test Model
+- Model Testing with User Interface
     - Gradio
 
 
