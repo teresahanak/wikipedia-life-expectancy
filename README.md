@@ -254,7 +254,7 @@ ______________________
 
 <a id=refs a></a>
 ## References
-Abid, Abubakar and Abdalla, Ali and Abid, Ali and Khan, Dawood and Alfozan, Abdulrahman and Zou, James.  "Gradio: Hassle-Free Sharing and Testing of ML Models in the Wild."  arXiv preprint arXiv:1906.02569. Submitted June 6, 2019.  https://arxiv.org/abs/1906.02569.
+Abid, Abubakar and Abdalla, Ali and Abid, Ali and Khan, Dawood and Alfozan, Abdulrahman and Zou, James.  "Gradio: Hassle-Free Sharing and Testing of ML Models in the Wild."  arXiv preprint arXiv:1906.02569. June 6, 2019.  https://arxiv.org/abs/1906.02569.
 
 Andrade, Frank. "Python Scrapy for Beginners — A Complete Web Scraping Project [Web Scraping with Python]." 2021 YouTube video, 34:17. Posted by Frank Andrade. November 9, 2021. https://www.youtube.com/watch?v=ooNngLWhTC4.
 
