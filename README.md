@@ -233,6 +233,7 @@ ______________________
 ## Application and Package Versions
 - [Anaconda Navigator](https://docs.anaconda.com/navigator/index.html) 2.2.0 virtual environment
 - [chime 0.5.3](https://pypi.org/project/chime/)
+- [Gradio](https://gradio.app/)
 - [Jupyter Notebook](https://jupyter.org/) 6.4.8
 - [Matplotlib](https://matplotlib.org/) 3.5.1
 - [nb_black](https://pypi.org/project/nb-black/)
