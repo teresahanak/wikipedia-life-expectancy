@@ -105,7 +105,7 @@ As intended, the journey took us through the processes of Web scraping, cleaning
 We analyzed a dataset of ~78,000 entries of notable indviduals scraped from [Wikipedia Notable Deaths](https://en.wikipedia.org/wiki/Deaths_in_January_1994) for January, 1, 1994, through June 9, 2022,[<sup>13</sup>](#ref1) with the goal of ascertaining if the information there was sufficient to model a notable individual's life span.  An additional ~19,400 entries were maintained separately for testing.  Highlights include observed characteristics of the dataset, interpretation of key predictive features, and model performance.
 #### Observed Characteristics of the Dataset
 - Life span ranges from 18 to 122, averaging ~77 years.  
-- The  number of references ranges from 3 to 660, with at least 75% of entries have 13 or fewer references. 
+- The  number of references ranges from 3 to 660, with at least 75% of entries having 13 or fewer references. 
 - Of the 11 residency regions, North America is the top value, followed by Europe, accounting for \~73% of entries combined.
 - Over 94% of entries have a single region of residency.  The most relocations came from European countries (\~3% of entries).
 - The vast majority (\~86%) of entries have a single known for category, but there are entries with as many as 5 categories.
