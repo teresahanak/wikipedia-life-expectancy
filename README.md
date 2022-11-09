@@ -230,6 +230,7 @@ ______________________
     - Production Pipeline
 - Model Testing with User Interface
   - [Gradio](https://gradio.app/)
+  - [Hugging Face](https://huggingface.co/)
 
 
 <a id=versions a></a>
