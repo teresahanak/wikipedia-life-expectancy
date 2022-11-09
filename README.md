@@ -332,7 +332,7 @@ Copyright 2022 Teresa Hanak
 
 ## Apppendix: Production Model Feature Dictionary
 - **num_references**:  Number of references for individual's page
-- **years**: Translation of year pf death(year - 1994)
+- **years**: Translation of year pf death (year - 1994)
 - **sciences**: (0 for no or 1 for yes) individual known for sciences (math, physics, chemistry, engineering, mechanics, etc.)
 - **social**: (0 for no or 1 for yes) individual known for social action (philanthropy, fund-raising for social cause, founder of charity, etc.)
 - **spiritual**: (0 for no or 1 for yes) individual known for spiritual association (religious association, traditional healing, self-help/motivational instructor, etc.)
