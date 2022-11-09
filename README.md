@@ -17,6 +17,7 @@
 - [Other Credits](#credit)
 - [Contributions](#contributions)
 - [Licenses](#license)
+- [Appendix: Production Model Feature Dictionary](#appendix)
 
 <a id=intro a></a>
 ## Introduction
@@ -328,3 +329,41 @@ wikipedia-life-expectancy (Text and Data) © 2022 by Teresa Hanak is licensed un
 #### Code (excludes data and plots):
 wikipedia-life-expectancy (Code) released under MIT License  
 Copyright 2022 Teresa Hanak
+
+## Apppendix: Production Model Feature Dictionary
+- **num_references**:  Number of references for individual's page
+- **years**: Translation of year pf death($year - 1994$)
+- **sciences**: (0 for no or 1 for yes) individual known for sciences (math, physics, chemistry, engineering, mechanics, etc.)
+- **social**: (0 for no or 1 for yes) individual known for social action (philanthropy, fund-raising for social cause, founder of charity, etc.)
+- **spiritual**: (0 for no or 1 for yes) individual known for spiritual association (religious association, traditional healing, self-help/motivational instructor, etc.)
+- **academia_humanities**: (0 for no or 1 for yes) individual known for education activity (educator, education administration, lecturer, etc.; excludes sports-related instruction/coaching, but includes art/performing arts instruction; includes museum-related activities; classics, archeology, linguistics, anthropology, etc.)
+- **business_farming**: (0 for no or 1 for yes) individual known for business or farming (includes marketing, millionaire/billionaire, manufacturing, oil/energy)
+- **arts**: (0 for no or 1 for yes) individual known for arts-related activity (fine and performing arts, journalism, writing, arts administration, art patronage, collecting, etc.; gallery owners/founders are included; museum-related is excluded; stunt performers included)
+- **sports**: (0 for no or 1 for yes) individual known for sports-related activity (traditional sports participation/instruction/coaching/ownership/fandom/commentator and anything competition-based, including non-physical games, such as chess; sportswriter, etc. would have dual category of arts)
+- **law_enf_military_operator**: (0 for no or 1 for yes) individual known for law enforcement, military/paramilitary association/activity, or specialized equipment operation (pilot, ship captain (non-sport), radio operator, etc.); category aims to reflect individual's proximity to activity and/or weapons/equipment or decision-making that could impact life span, independent of legality of activity
+- **politics_govt_law**: (0 for no or 1 for yes) individual known for political activity (official or activism), participation in legal system (lawyer, judge, etc.), nobility or inherited status; directly or by marriage; union activity is included
+- **crime**: (0 for no or 1 for yes) individual known for criminal activity; category aims for "innocent until proven guilty"; includes convicted criminals (can be for a different crime); includes individuals labeled "terrorist", but generally excludes individuals awaiting trial
+- **num_categories**: Total number of known for categories for individual
+- **region_**: One hot encoded (0 for no or 1 for yes) ultimate geographical region of residency as follows:
+    - **region_Asia**
+    - **region_Central Asia**
+    - **region_Europe**
+    - **region_Mid-Cent America/Caribbean**
+    - **region_Middle East**
+    - **region_North America**
+    - **region_Oceania**
+    - **region_Russian Federation**
+    - **region_South America**
+    - **region_South East Asia**
+- **prior_region_**: One hot encoded (0 for no or 1 for yes) prior geographical region of residency, with option of "No Prior Region", as follows:
+    - **prior_region_Asia**
+    - **prior_region_Central Asia**
+    - **prior_region_Europe**
+    - **prior_region_Mid-Cent America/Caribbean**
+    - **prior_region_Middle East**
+    - **prior_region_No Prior Region**
+    - **prior_region_North America**
+    - **prior_region_Oceania**
+    - **prior_region_Russian Federation**
+    - **prior_region_South America**
+    - **prior_region_South East Asia**
