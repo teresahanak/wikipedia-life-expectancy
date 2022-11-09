@@ -329,6 +329,7 @@ wikipedia-life-expectancy (Text and Data) © 2022 by Teresa Hanak is licensed un
 #### Code (excludes data and plots):
 wikipedia-life-expectancy (Code) released under MIT License  
 Copyright 2022 Teresa Hanak
+
 <a id=appendix a></a>
 ## Apppendix: Production Model Feature Dictionary
 - **num_references**:  Number of references for individual's page
