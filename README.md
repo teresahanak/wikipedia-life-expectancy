@@ -122,7 +122,7 @@ We analyzed a dataset of ~78,000 entries of notable indviduals scraped from [Wik
 - *Mind vs Body Connection?*
     - Notables in the sports category have the second shortest average life span, of ~72 years, while those in spiritual and sciences categories have the highest, of ~82 years.
     - In *olsmodel3*, being known for sports  is associated with a 7-year decrease in age, while being known for spiritual living or sciences is associated with a 3.5-year or 3-year increase in age, respectively.*
-    - In the champion model, *GBM2_tuned*, sports is the most important predictive feature.  Sciences and spiritual are 9th and 14th, respectively.
+    - In the champion model, *GBM2_tuned*, (known for) sports is the most important predictive feature.  Sciences and spiritual are 9th and 14th, respectively.
 - *Time will tell.*
     - There is an overall upward trend in mean age with the advancement of year of death.  The net increase in mean life span is ~5 years, from ~74 to ~79 years, from January, 1994, to June, 2022.
     - In *olsmodel3*, a unit increase in years (i.e., year of death) is associated with a 0.2-year increase in age--a finding consistent with the expectation of overall increasing human life expectancy.*
