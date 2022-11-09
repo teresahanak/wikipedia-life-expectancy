@@ -312,6 +312,10 @@ Though not extensively used in this project, SQL implementation was acquired fro
 
 Custom imputer coding steps are from Eryk Lewinson's Towards Data Science article, ["Coding a custom imputer in scikit-learn"](https://towardsdatascience.com/coding-a-custom-imputer-in-scikit-learn-31bd68e541de), with the addition of a strategy for mode.
 
+The instructions for [Gradio Blocks](https://gradio.app/quickstart/#blocks-more-flexibility-and-control) were a starting point for their application, combined with experimentation (i.e., <kbd>Shift</kbd> + <kbd>Tab</kbd>)
+https://gradio.app/sharing_your_app/#hosting-on-hf-spaces
+
+
 Thank you to all of the Wikipedians and Wikipedia Notables whose respective contributions and fascinating lives lived made this exploration possible.
 
 <a id=contributions a></a>
