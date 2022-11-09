@@ -17,7 +17,7 @@
 - [Other Credits](#credit)
 - [Contributions](#contributions)
 - [Licenses](#license)
-- [Appendix: Production Model Feature Dictionary](#appendix)
+- [Appendix: Production Model Features Dictionary](#appendix)
 
 <a id=intro a></a>
 ## Introduction
@@ -331,7 +331,7 @@ wikipedia-life-expectancy (Code) released under MIT License
 Copyright 2022 Teresa Hanak
 
 <a id=appendix a></a>
-## Apppendix: Production Model Feature Dictionary
+## Apppendix: Production Model Features Dictionary
 - **num_references**:  Number of references for individual's page
 - **years**: Translation of year pf death (year - 1994)
 - **sciences**: (0 for no or 1 for yes) individual known for sciences (math, physics, chemistry, engineering, mechanics, etc.)
