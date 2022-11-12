@@ -72,7 +72,7 @@ The links below access the Jupyter Notebooks that encompass the project.  Standa
 - [Notebook 14: Model User Interface with Gradio](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/wp_life_expect_predict_GUI__thanak_2022_11_06.ipynb)
 - [Gradio Demo hosted by 🤗 Hugging Face](https://huggingface.co/spaces/teresahanak/wikipedia-life-expectancy)
 
-Web scraping steps are in Notebook 1, including details of the PyCharm project folder and links to its contents.
+Web scraping steps are in Notebook 1, including details of the Scrapy project folder and links to its contents.
 
 **Observations** appear throughout each notebook, documenting immediate context.  Exploratory Data Analysis, Linear Regression, and Modeling for Regression (Notebooks 10, 12, and 13) have additional **Summary**, **Key Findings**, or **Project Recap** and **Conclusion** sections at the end of their main content.  The **Project Recap** and **Conclusion** sections are also provided below.
 
