@@ -71,6 +71,8 @@ The links below access the Jupyter Notebooks that encompass the project.  Standa
 - [Notebook 13: Modeling for Regression -- Prediction Emphasis](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/wp_life_expect_models_thanak_2022_10_14.ipynb)  
 - [Notebook 14: Model User Interface with Gradio](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/wp_life_expect_predict_GUI__thanak_2022_11_06.ipynb)
 - [Gradio Demo hosted by 🤗 Hugging Face](https://huggingface.co/spaces/teresahanak/wikipedia-life-expectancy)
+- [Tableau Public Interactive Dashboard](https://public.tableau.com/app/profile/teresa.hanak/viz/WikipediaLifeExpectancy/Dashboard1)
+  ![images/tableau_snippet.jpg](tableau_snippet.jpg)
 
 Web scraping steps are in Notebook 1, including details of the Scrapy project folder and links to its contents.
 
