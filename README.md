@@ -211,6 +211,7 @@ ______________________
     - pandas
     - Matplotlib
     - Seaborn
+    - Tableau Public
 - Data Preprocessing
     - Feature Engineering
     - Transformations
