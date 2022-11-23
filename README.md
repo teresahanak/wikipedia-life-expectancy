@@ -202,6 +202,7 @@ ______________________
     - SQLite
     - [SQLite Viewer](https://inloop.github.io/sqlite-viewer/) (tool used without reproduction)
 - Data Cleaning
+    - Feature Extraction
     - Python Built-in String Methods
     - regular expressions
     - pandas
