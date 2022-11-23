@@ -73,7 +73,7 @@ The links below access the Jupyter Notebooks that encompass the project.  Standa
 - [Tableau Public Interactive Dashboard](https://public.tableau.com/app/profile/teresa.hanak/viz/WikipediaLifeExpectancy/Dashboard1)  
   ![images/tableau_snippet.jpg](images/tableau_snippet.jpg)
 
-Web scraping steps are in Notebook 1, including details of the Scrapy project folder and links to its contents.
+Web-scraping steps are in Notebook 1, including details of the Scrapy project folder and links to its contents.
 
 **Observations** appear throughout each notebook, documenting immediate context.  Exploratory Data Analysis, Linear Regression, and Modeling for Regression (Notebooks 10, 12, and 13) have additional **Summary**, **Key Findings**, or **Project Recap** and **Conclusion** sections at the end of their main content.  The **Project Recap** and **Conclusion** sections are also provided below.
 
