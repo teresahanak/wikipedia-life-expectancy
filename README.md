@@ -323,7 +323,7 @@ The instructions for [Gradio Blocks](https://gradio.app/quickstart/#blocks-more-
 **Tableau** implementation was learned from Kirill Eremenko and the Ligency Team, through the Udemy course, [Tableau 2022 A-Z: Hands-On Tableau Training for Data Science](https://www.udemy.com/share/101Wbs3@Hx9we2pugWDSTG7n7wiyKmMKMerCjH-zfMa3r-LKYlGRZMMOkM15rBpsgflfUAqD/).
 
 
-**Thank you** to all of the Wikipedians and Wikipedia Notables, whose respective contributions and fascinating lives lived, made this exploration possible.
+**Thank you** to all of the Wikipedians and Wikipedia Notables, whose respective contributions and fascinating lives lived made this exploration possible.
 
 <a id=contributions a></a>
 ## Contributions
