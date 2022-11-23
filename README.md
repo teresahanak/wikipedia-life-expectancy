@@ -320,6 +320,8 @@ Though not extensively used in this project, **SQL** implementation was acquired
 
 The instructions for [Gradio Blocks](https://gradio.app/quickstart/#blocks-more-flexibility-and-control) were a starting point for the **Gradio demo**, combined with following the class documentation (i.e., <kbd>Shift</kbd> + <kbd>Tab</kbd>).  To have the Gradio demo permanently hosted on **Hugging Face Spaces**, [these instructions to drag and drop files](https://gradio.app/sharing_your_app/#hosting-on-hf-spaces) were followed.  The files are accessible in [Files and versions](https://huggingface.co/spaces/teresahanak/wikipedia-life-expectancy/tree/main) on the space.  Note that the [requirements.txt](https://huggingface.co/spaces/teresahanak/wikipedia-life-expectancy/blob/main/requirements.txt) file was necessary for the app to successfully build on the Hugging Face Space.  The [app.py](https://huggingface.co/spaces/teresahanak/wikipedia-life-expectancy/blob/main/app.py) file is a copy and paste of Notebook 14 code, directly into the browser, as prompted when creating the space.  
 
+**Tableau** implementation was learned from Kirill Eremenko and the Licengy Team, throught the Udemy course, [Tableau 2022 A-Z: Hands-On Tableau Training for Data Science](https://www.udemy.com/share/101Wbs3@Hx9we2pugWDSTG7n7wiyKmMKMerCjH-zfMa3r-LKYlGRZMMOkM15rBpsgflfUAqD/).
+
 
 **Thank you** to all of the Wikipedians and Wikipedia Notables, whose respective contributions and fascinating lives lived, made this exploration possible.
 
