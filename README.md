@@ -216,7 +216,7 @@ ______________________
     - Feature Engineering
     - Transformations
 - Linear Regression Modeling--Interpretation Emphasis
-    - Assumptions
+    - Checking Assumptions
     - Coefficient Interpretation
 - Regressor Algorithms--Prediction Emphasis
     - scikit-learn Regressors
