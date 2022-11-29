@@ -216,6 +216,8 @@ ______________________
     - Feature Engineering
     - Transformations
 - Linear Regression Modeling--Interpretation Emphasis
+    - SciPy
+    - statsmodels
     - Checking Assumptions
     - Coefficient Interpretation
 - Regressor Algorithms--Prediction Emphasis
