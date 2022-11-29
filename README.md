@@ -217,7 +217,7 @@ ______________________
     - Transformations
 - Linear Regression Modeling--Interpretation Emphasis
     - statsmodels
-    - scikit-learn data-splitting and metrics
+    - scikit-learn data splitting and metrics
     - SciPy
     - Checking Assumptions
     - Coefficient Interpretation
