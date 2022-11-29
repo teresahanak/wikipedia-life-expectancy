@@ -216,8 +216,9 @@ ______________________
     - Feature Engineering
     - Transformations
 - Linear Regression Modeling--Interpretation Emphasis
-    - SciPy
     - statsmodels
+    - scikit-learn data-splitting and metrics
+    - SciPy
     - Checking Assumptions
     - Coefficient Interpretation
 - Regressor Algorithms--Prediction Emphasis
