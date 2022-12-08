@@ -72,6 +72,8 @@ The links below access the Jupyter Notebooks that encompass the project.  Standa
 - [Gradio Demo hosted by 🤗 Hugging Face](https://huggingface.co/spaces/teresahanak/wikipedia-life-expectancy)
 - [Tableau Public Interactive Dashboard](https://public.tableau.com/app/profile/teresa.hanak/viz/WikipediaLifeExpectancy/Dashboard1)  
   ![images/tableau_snippet.jpg](images/tableau_snippet.jpg)
+  
+  [![https://raw.githubusercontent.com/teresahanak/wikipedia-life-expectancy/main/images/tableau_snippet.jpg](https://raw.githubusercontent.com/teresahanak/wikipedia-life-expectancy/main/images/tableau_snippet.jpg)]
 
 Web-scraping steps are in Notebook 1, including details of the Scrapy project folder and links to its contents.
 
