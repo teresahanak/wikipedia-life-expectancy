@@ -317,7 +317,7 @@ Review of **Jupyter Notebooks** for pull requests **on GitHub** was entirely dep
 
 **Web scraping with Scrapy** was learned from Frank Andrade, through the Udemy course, [Web Scraping in Python BeautifulSoup, Selenium & Scrapy 2022](https://www.udemy.com/share/1050RC3@OPQBrWla1wb5dcRcMS85QPUjfv5L0Oh_D2zoekwqDPKrFKWCzRD1NlqRzdEWUzNo/).
 
-Though not extensively used in this project, **SQL** implementation was acquired from Jose Portilla, through the Udemy course, [The Complete SQL Bootcamp 2022: Go from Zero to Hero](https://www.udemy.com/share/101Whk3@9gWCE0SdPuKlezaUcy_GNhWrQ8ZkhLvMl7_AjRoovgr6p8O6dJVtd5TGmF4OKBWb/).  The steps for implementing SQLite with pandas are from Alan Jones' *Towards Data Science* article, ["Python Pandas and SQLite"](https://towardsdatascience.com/python-pandas-and-sqlite-a0e2c052456f).
+Though not extensively used in this project, **SQL** implementation was acquired from Jose Portilla, through the Udemy course, [The Complete SQL Bootcamp 2022: Go from Zero to Hero](https://www.udemy.com/share/101Whk3@9gWCE0SdPuKlezaUcy_GNhWrQ8ZkhLvMl7_AjRoovgr6p8O6dJVtd5TGmF4OKBWb/).  The steps for implementing **SQLite with pandas** are from Alan Jones' *Towards Data Science* article, ["Python Pandas and SQLite"](https://towardsdatascience.com/python-pandas-and-sqlite-a0e2c052456f).
 
 **Custom imputer** coding steps are from Eryk Lewinson's *Towards Data Science* article, ["Coding a custom imputer in scikit-learn"](https://towardsdatascience.com/coding-a-custom-imputer-in-scikit-learn-31bd68e541de), with the addition of a strategy for mode.
 
