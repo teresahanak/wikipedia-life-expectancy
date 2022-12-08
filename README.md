@@ -81,7 +81,7 @@ The link at the end of the main content of each notebook opens the next notebook
 
 [References](#refs) for the entire project are below.  Individual notebooks and README have self-contained footnotes.    
 
-  [![images/refresh_snippet.jpg](images/refresh_snippet.jpg)](https://public.tableau.com/app/profile/teresa.hanak/viz/WikipediaLifeExpectancy/Dashboard1)
+  ![images/refresh_snippet.jpg](images/refresh_snippet.jpg)
 
 
 <a id=recap a></a>
