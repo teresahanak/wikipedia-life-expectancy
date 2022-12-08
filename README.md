@@ -41,22 +41,22 @@ The number of references is easily scraped and can represent the individual's no
 ### Scrape.
 <a id=img1a a></a>
 <a id=img1b a></a>
-[![images/wp_snippet.jpg](images/wp_snippet.jpg)]()
+[![images/wp_snippet.jpg](images/wp_snippet.jpg)](https://github.com/teresahanak/wikipedia-life-expectancy/blob/main/README.md#scrape)
 ### Combine.
-![images/data_to_df_snippet.jpg](images/data_to_df_snippet.jpg)
+[![images/data_to_df_snippet.jpg](images/data_to_df_snippet.jpg)](https://github.com/teresahanak/wikipedia-life-expectancy#combine)
 ### Clean.
-![images/clean_snippet.jpg](images/clean_snippet.jpg)
+[![images/clean_snippet.jpg](images/clean_snippet.jpg)](https://github.com/teresahanak/wikipedia-life-expectancy#clean)
 ### Explore and analyze.
-![images/EDA_snippet.jpg](images/EDA_snippet.jpg)
+[![images/EDA_snippet.jpg](images/EDA_snippet.jpg)](https://github.com/teresahanak/wikipedia-life-expectancy#explore-and-analyze)
 ### Preprocess.
-![images/data_preproc_snippet.jpg](images/data_preproc_snippet.jpg)
+[![images/data_preproc_snippet.jpg](images/data_preproc_snippet.jpg)](https://github.com/teresahanak/wikipedia-life-expectancy#preprocess)
 ### Model.  
-![images/models_snippet.jpg](images/models_snippet.jpg)
+[![images/models_snippet.jpg](images/models_snippet.jpg)](https://github.com/teresahanak/wikipedia-life-expectancy#model)
 ### Interpret.
-![images/interp_snippet.jpg](images/interp_snippet.jpg)
+[![images/interp_snippet.jpg](images/interp_snippet.jpg)](https://github.com/teresahanak/wikipedia-life-expectancy#interpret)
 ### Predict.
-![images/predict_snnippet.jpg](images/predict_snippet.jpg)
-![images/Gradio_snippet.jpg](images/Gradio_snippet.jpg)
+[![images/predict_snnippet.jpg](images/predict_snippet.jpg)](https://github.com/teresahanak/wikipedia-life-expectancy#predict)
+[![images/Gradio_snippet.jpg](images/Gradio_snippet.jpg)](https://github.com/teresahanak/wikipedia-life-expectancy#predict)
   
   
 <a id=explore a></a>
