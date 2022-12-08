@@ -41,7 +41,7 @@ The number of references is easily scraped and can represent the individual's no
 ### Scrape.
 <a id=img1a a></a>
 <a id=img1b a></a>
-![images/wp_snippet.jpg](images/wp_snippet.jpg)
+[![images/wp_snippet.jpg](images/wp_snippet.jpg)](https://github.com/teresahanak/wikipedia-life-expectancy#scrape)
 ### Combine.
 ![images/data_to_df_snippet.jpg](images/data_to_df_snippet.jpg)
 ### Clean.
