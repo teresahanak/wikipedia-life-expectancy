@@ -73,7 +73,7 @@ The links below access the Jupyter Notebooks that encompass the project.  Standa
 - [Tableau Public Interactive Dashboard](https://public.tableau.com/app/profile/teresa.hanak/viz/WikipediaLifeExpectancy/Dashboard1)  
   ![images/tableau_snippet.jpg](images/tableau_snippet.jpg)
   
-  ![https://raw.githubusercontent.com/teresahanak/wikipedia-life-expectancy/main/images/tableau_snippet.jpg](https://public.tableau.com/app/profile/teresa.hanak/viz/WikipediaLifeExpectancy/Dashboard1)
+  [![https://raw.githubusercontent.com/teresahanak/wikipedia-life-expectancy/main/images/tableau_snippet.jpg](https://raw.githubusercontent.com/teresahanak/wikipedia-life-expectancy/main/images/tableau_snippet.jpg)](https://public.tableau.com/app/profile/teresa.hanak/viz/WikipediaLifeExpectancy/Dashboard1)
 
 Web-scraping steps are in Notebook 1, including details of the Scrapy project folder and links to its contents.
 
