@@ -56,7 +56,7 @@ The number of references is easily scraped and can represent the individual's no
 [![images/interp_snippet.jpg](images/interp_snippet.jpg)](https://github.com/teresahanak/wikipedia-life-expectancy#interpret)
 ### Predict.
 [![images/predict_snnippet.jpg](images/predict_snippet.jpg)](https://github.com/teresahanak/wikipedia-life-expectancy#predict)
-[![images/Gradio_snippet.jpg](images/Gradio_snippet.jpg)](https://github.com/teresahanak/wikipedia-life-expectancy#predict)
+[![images/Gradio_snippet.jpg](images/Gradio_snippet.jpg)](https://huggingface.co/spaces/teresahanak/wikipedia-life-expectancy)
   
   
 <a id=explore a></a>
