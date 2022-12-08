@@ -81,7 +81,7 @@ The link at the end of the main content of each notebook opens the next notebook
 
 [References](#refs) for the entire project are below.  Individual notebooks and README have self-contained footnotes.    
 
-  ![images/refresh_snippet.jpg](images/refresh_snippet.jpg)
+  [![images/refresh_snippet.jpg](images/refresh_snippet.jpg)](https://github.com/teresahanak/wikipedia-life-expectancy#explore-the-project)
 
 
 <a id=recap a></a>
