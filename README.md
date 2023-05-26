@@ -201,7 +201,7 @@ ______________________
     - Scrapy
 - Relational Database Management
     - SQLite
-    - [SQLite Viewer](https://inloop.github.io/sqlite-viewer/) (tool used without reproduction)
+    - [SQLite Viewer](https://inloop.github.io/sqlite-viewer/)
 - Data Cleaning
     - Feature Extraction
     - Python Built-in String Methods
