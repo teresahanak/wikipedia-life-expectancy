@@ -264,7 +264,7 @@ ______________________
 - [Scrapy](https://scrapy.org/) 2.6.1
 - [seaborn](https://seaborn.pydata.org/) 0.11.2
 - [SQLite](https://www.sqlite.org/index.html) 3.38.3
-- [SQLite Viewer](https://inloop.github.io/sqlite-viewer/) (tool used without reproduction)
+- [SQLite Viewer](https://inloop.github.io/sqlite-viewer/)
 - [statsmodels](https://www.statsmodels.org/stable/index.html) 0.13.2
 - [XGBoost](https://xgboost.readthedocs.io/en/stable/) 1.6.1
 
