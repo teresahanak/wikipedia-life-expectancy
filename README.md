@@ -113,7 +113,7 @@ We analyzed a dataset of ~78,000 entries of notable indviduals scraped from [Wik
 - The vast majority (\~86%) of entries have a single known for category, but there are entries with as many as 5 categories.
 - Just over 1/3 of entries are known for arts, followed by sports, then politics_govt_law, which combined also make up just over 1/3 of entries. 
 
-#### Interpretation of Key Predictors from EDA, Linear Regression *olsmodel3*, and Champion Model *GBM2_tuned*
+#### Interpretation from EDA and Key Predictors from Linear Regression *olsmodel3* and Champion Model *GBM2_tuned*
 - *Notoriety does not beget longevity.*
     - Notables in the crime category have the shortest average life span, of ~55 years.
     - In *olsmodel3*, being known for crime is associated with a 23.5-year decrease in age.* 
